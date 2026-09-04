@@ -1,0 +1,1001 @@
+Supplier_ID,Supplier_Name,Country_ID,Category,Payment_Terms,Lead_Time_Days,Performance_Score,Risk_Score,Annual_Contract_Value
+1001,"Hoover, Gonzalez and Barrera",3,Packaging,Net 30,8,87.46,1,2233842
+1002,"Johnson, Hart and Gonzalez",5,Marketing,Immediate,37,87.78,1,832918
+1003,Atkinson Ltd,5,Logistics,Net 30,6,98.6,10,2381341
+1004,"Kerr, Jackson and Ryan",3,Marketing,Advance,12,74.39,3,2518740
+1005,"Pierce, Sanford and Mclaughlin",6,Electronics,Net 60,8,70.63,5,844888
+1006,"Harris, Thompson and Jones",6,Electronics,Immediate,28,84.39,9,556169
+1007,Hamilton-Vargas,2,Facilities,Net 45,41,94.32,5,1631415
+1008,Cruz Group,10,Electronics,Immediate,45,72.59,10,2926703
+1009,Ramsey-Brown,2,Manufacturing,Advance,39,93.78,6,426651
+1010,Harris-Bush,6,Office Supplies,Net 45,21,86.71,3,1522002
+1011,Simmons LLC,6,IT Services,Net 60,6,95.9,5,2907341
+1012,"Sims, Hill and Kaufman",3,Packaging,Advance,45,85.57,10,1120074
+1013,Simpson Inc,7,Manufacturing,Net 60,18,97.44,7,1130090
+1014,"Callahan, Allen and Benson",1,Office Supplies,Advance,26,73.44,10,2090838
+1015,Velez-Nunez,4,Electronics,Net 45,29,81.22,9,124051
+1016,Jones-Woods,10,Electronics,Net 30,32,91.57,2,470747
+1017,French-Dixon,4,Packaging,Net 30,31,97.14,4,2391675
+1018,Perez-Leonard,3,Facilities,Net 30,23,93.97,2,1219986
+1019,"Frank, Ramirez and Garcia",9,IT Services,Immediate,8,75.84,6,93772
+1020,Thomas Ltd,5,Electronics,Net 60,38,72.33,6,2838944
+1021,Reynolds LLC,2,Packaging,Net 30,23,80.07,5,2924542
+1022,Snow-Rivers,5,Logistics,Advance,6,95.81,5,2536108
+1023,"Bradford, Schwartz and Roberts",2,Professional Services,Net 60,10,80.67,9,494403
+1024,"Keller, Garza and Guerrero",2,Office Supplies,Advance,33,86.64,4,2015739
+1025,Cook-Mata,7,Office Supplies,Net 60,9,80.6,7,1576451
+1026,Mccormick PLC,6,Electronics,Advance,15,97.49,5,1205089
+1027,"Glass, Young and Deleon",1,Facilities,Advance,16,76.09,9,385588
+1028,"Anderson, Kent and Collins",5,Office Supplies,Immediate,36,91.6,8,2378801
+1029,"Davis, Rodriguez and Perkins",1,Office Supplies,Advance,23,80.86,5,2727027
+1030,Duran-Casey,5,Marketing,Net 60,35,77.67,6,473678
+1031,Simmons Inc,10,Manufacturing,Net 45,17,86.5,1,365402
+1032,Garcia Ltd,7,Professional Services,Net 60,29,85.88,8,951055
+1033,"Collier, Miles and Cole",8,Logistics,Net 60,26,84.17,10,2568521
+1034,Horton Ltd,8,Logistics,Advance,14,92.64,4,2989086
+1035,Hobbs Group,2,Manufacturing,Net 30,37,95.51,3,2166102
+1036,Johnson-Hernandez,9,Office Supplies,Advance,14,72.53,6,2485062
+1037,"Randolph, Simmons and Turner",4,Office Supplies,Net 60,23,71.29,6,2405611
+1038,Ray Group,9,Manufacturing,Net 45,45,72.66,2,2358962
+1039,Robbins-Schmidt,2,Packaging,Net 30,28,94.95,4,2452279
+1040,"Jackson, Davis and Garcia",9,IT Services,Net 30,23,94.12,3,223587
+1041,"Cervantes, Jones and Garcia",8,IT Services,Net 60,36,72.88,1,911550
+1042,Gomez LLC,8,Office Supplies,Net 30,26,75.12,5,1975732
+1043,Johnson LLC,7,Office Supplies,Advance,45,73.11,7,2889556
+1044,Willis Ltd,1,Office Supplies,Net 30,32,96.1,2,265441
+1045,Peters-Johnson,4,Logistics,Net 45,34,79.71,5,1829285
+1046,Holmes PLC,1,Manufacturing,Immediate,11,73.69,3,2282325
+1047,Edwards-Mcdonald,2,Electronics,Immediate,37,77.86,10,1295161
+1048,"Garcia, Torres and Thomas",3,Marketing,Net 30,27,87.24,1,2078882
+1049,Gray Ltd,2,Marketing,Immediate,35,99.6,9,2263160
+1050,Roberts-Stewart,10,Marketing,Immediate,42,73.78,10,1893484
+1051,King-Martin,10,Raw Materials,Advance,21,91.69,9,741370
+1052,Allen Inc,4,Logistics,Net 30,37,76.74,10,963161
+1053,Padilla-Moore,4,Packaging,Net 45,9,74.03,10,2515227
+1054,Sandoval-Hines,1,IT Services,Net 45,19,90.25,6,173310
+1055,Turner-Fitzpatrick,9,Professional Services,Advance,10,95.81,1,2333832
+1056,Duncan PLC,7,Facilities,Advance,8,97.62,8,89955
+1057,"Stevens, Hall and Thomas",1,Marketing,Immediate,25,75.16,10,2466257
+1058,Shepherd-Davis,8,Electronics,Immediate,37,93.49,5,2795823
+1059,"Mills, Gonzalez and Pena",9,Office Supplies,Net 45,22,74.99,5,1119645
+1060,Bryan-Nichols,7,Logistics,Immediate,36,76.21,1,1397300
+1061,"Dean, Ruiz and Young",5,Facilities,Net 30,44,73.06,5,380202
+1062,Garcia-Bowen,8,Logistics,Immediate,43,78.56,4,2129170
+1063,Ortiz-Garcia,10,IT Services,Net 45,6,87.32,7,477308
+1064,Mendez Ltd,5,Marketing,Net 45,25,92.47,4,1367438
+1065,Cooley-Brown,10,Office Supplies,Immediate,10,95.01,5,2206172
+1066,"Morris, Lee and White",5,Logistics,Net 45,26,91.49,9,601631
+1067,"Smith, Cook and Maddox",5,Raw Materials,Net 60,35,95.68,7,448445
+1068,May-Diaz,5,Logistics,Immediate,30,80.12,9,2220076
+1069,"Macias, White and Allen",6,Raw Materials,Net 30,28,90.16,5,433929
+1070,Smith PLC,2,IT Services,Net 30,28,96.33,5,2579108
+1071,Mccarty-Howard,8,Electronics,Net 30,31,84.34,1,643814
+1072,"Jones, Richards and Stewart",2,Office Supplies,Advance,23,73.78,8,631643
+1073,"Cohen, Watson and Evans",5,Packaging,Immediate,39,88.39,5,176420
+1074,Nelson Ltd,2,Office Supplies,Immediate,9,71.96,4,964610
+1075,Everett-Peterson,4,IT Services,Immediate,44,99.87,6,2863435
+1076,Durham Inc,2,Professional Services,Net 45,40,93.26,9,1742147
+1077,Powers and Sons,5,Professional Services,Net 30,42,71.73,10,2696890
+1078,Lawson and Sons,9,Electronics,Immediate,44,79.42,3,2136856
+1079,"White, Carr and Berg",1,IT Services,Net 30,5,85.87,4,1355966
+1080,"Arroyo, Sullivan and Ochoa",8,Marketing,Net 60,7,80.5,9,976468
+1081,Vincent Ltd,7,Electronics,Net 45,42,86.02,1,2219991
+1082,Welch LLC,9,Facilities,Immediate,37,73.54,9,2870315
+1083,Acosta-Miller,6,Manufacturing,Net 30,37,72.74,4,2787820
+1084,"Phillips, Wilkins and Saunders",9,Marketing,Advance,19,85.73,10,1613329
+1085,Edwards-Alexander,8,IT Services,Net 45,21,86.28,8,289617
+1086,Adams PLC,9,Packaging,Net 45,45,75.08,7,706417
+1087,Martinez and Sons,10,Marketing,Net 30,44,73.43,5,2010627
+1088,"Duncan, Brown and Trevino",5,Facilities,Net 45,38,78.96,1,1544861
+1089,Hernandez Inc,6,IT Services,Net 45,33,73.03,9,2292278
+1090,"Ramos, Burns and Flynn",2,Logistics,Immediate,27,92.05,8,473079
+1091,"Parker, Thomas and Moore",8,Logistics,Advance,14,94.89,6,2375842
+1092,"Mccormick, Kennedy and Scott",7,Packaging,Net 45,45,74.53,7,2838230
+1093,Cummings Ltd,4,Marketing,Advance,40,91.21,6,834863
+1094,Johnson-Neal,1,Facilities,Net 30,25,70.11,2,525943
+1095,Mccormick Ltd,5,Office Supplies,Immediate,41,95.2,9,2073732
+1096,"Garrison, Yoder and Martinez",6,Logistics,Net 30,34,81.81,9,496643
+1097,Burke PLC,1,Raw Materials,Net 45,11,73.92,1,336474
+1098,"Humphrey, Mcbride and Coleman",4,Packaging,Net 60,19,98.69,8,2883705
+1099,"Jackson, Williams and Wolfe",2,Professional Services,Net 45,21,75.14,9,2520176
+1100,Bowman-Garrison,3,Packaging,Net 30,28,74.31,1,369955
+1101,"Hardin, Gaines and Price",3,Manufacturing,Net 30,43,78.23,3,1740584
+1102,Larson-Chen,9,Professional Services,Net 60,21,76.32,6,446499
+1103,Bullock Inc,10,Manufacturing,Immediate,18,92.32,4,834767
+1104,Jimenez Inc,5,Electronics,Advance,15,80.23,10,1520272
+1105,Rivera LLC,1,Electronics,Net 30,17,93.24,6,1122684
+1106,"Martin, Gray and Wade",2,Logistics,Net 30,8,81.77,9,1491228
+1107,Sawyer and Sons,3,Manufacturing,Net 60,7,81.54,2,2211147
+1108,"Norris, Wood and Holden",10,IT Services,Net 45,20,84.58,7,2468775
+1109,Mckinney-Bullock,1,Logistics,Net 30,28,86.68,5,188361
+1110,Harrison-Lewis,5,Manufacturing,Immediate,40,84.22,6,248720
+1111,"Carter, Berger and Wells",7,Facilities,Immediate,29,80.46,9,815138
+1112,Parsons Inc,2,Electronics,Immediate,6,96.21,6,2367037
+1113,Giles-Cruz,3,Raw Materials,Net 60,16,76.49,7,526392
+1114,Shepard PLC,2,Facilities,Net 60,15,83.22,4,2317010
+1115,"Martin, Grant and Rice",9,Manufacturing,Net 60,28,83.29,2,2081399
+1116,"Johnson, Hughes and Stein",6,Raw Materials,Net 45,33,75.87,9,1698510
+1117,Blair-Baker,2,Professional Services,Immediate,6,82.89,10,842311
+1118,Phillips-Jimenez,2,IT Services,Net 45,20,91.88,2,1089718
+1119,Miller Group,7,Office Supplies,Immediate,42,84.25,6,1926946
+1120,"Dyer, Smith and Peters",10,Facilities,Immediate,17,96.08,3,1902911
+1121,Jimenez Ltd,1,Logistics,Immediate,42,87.63,7,1437111
+1122,Harris Inc,9,Facilities,Advance,15,79.31,3,2487131
+1123,Petersen Inc,3,IT Services,Advance,6,94.15,8,2785335
+1124,Velasquez-Campbell,9,Office Supplies,Immediate,8,97.8,9,1886835
+1125,Sutton-Freeman,3,Electronics,Advance,12,79.71,8,1862985
+1126,"Gutierrez, Pacheco and Diaz",2,Logistics,Net 30,42,71.94,6,978600
+1127,Stevenson Group,8,Manufacturing,Immediate,42,75.21,4,917182
+1128,Reynolds-Lopez,3,Packaging,Immediate,11,79.12,6,2282931
+1129,"West, Wiley and Sawyer",7,Logistics,Advance,31,73.09,9,2349553
+1130,"Howard, Blake and Walker",8,Manufacturing,Advance,30,81.38,3,2361328
+1131,"Kelley, Williamson and Hayes",7,Office Supplies,Advance,12,89.38,10,2224992
+1132,"West, Lambert and Mendoza",9,Marketing,Net 30,37,76.91,4,445807
+1133,Mccoy-King,6,Professional Services,Immediate,39,72.93,4,2359407
+1134,Buchanan Inc,3,Packaging,Advance,40,74.6,2,608333
+1135,Myers PLC,4,Raw Materials,Immediate,27,98.06,1,2320943
+1136,Smith and Sons,5,Packaging,Advance,24,91.82,6,2431695
+1137,"Rocha, Stephens and Perez",4,Facilities,Net 45,15,95.64,10,2686368
+1138,Terry Inc,6,IT Services,Net 45,5,74.79,7,1530772
+1139,Brown-Cooper,6,Professional Services,Immediate,31,98.6,1,1635123
+1140,Sawyer PLC,6,IT Services,Advance,39,70.38,3,558036
+1141,"Young, Phillips and Shaffer",6,Manufacturing,Net 45,27,97.44,2,2683269
+1142,Brown-Braun,1,Packaging,Net 45,35,73.22,10,941123
+1143,Hart Inc,4,Electronics,Net 45,6,99.84,8,2477650
+1144,"Carr, Welch and Delgado",8,Office Supplies,Net 30,36,93.8,8,737533
+1145,Adams LLC,1,Logistics,Advance,40,74.29,4,2214701
+1146,Turner-Foster,10,IT Services,Net 45,41,98.73,8,135062
+1147,Bowen-Gordon,6,IT Services,Advance,22,86.53,2,1467368
+1148,Ramirez and Sons,3,Logistics,Advance,5,92.25,2,400453
+1149,Jones Inc,9,Logistics,Immediate,20,90.08,6,1229660
+1150,Woodard Group,3,Logistics,Net 60,17,80.01,9,2480777
+1151,Barton PLC,7,Raw Materials,Immediate,43,94.65,5,1559077
+1152,Hanna-Morgan,6,Facilities,Advance,33,98.77,4,1659000
+1153,"Adams, Carroll and Hale",2,Packaging,Net 30,45,83.21,8,175319
+1154,"Gutierrez, Gates and Hernandez",1,IT Services,Net 30,13,81.17,1,2109843
+1155,Johnson and Sons,1,Manufacturing,Net 60,30,86.01,2,2987043
+1156,Klein-Sanchez,2,Packaging,Net 30,30,84.04,7,1379804
+1157,"Gamble, Jones and Sharp",4,Logistics,Advance,36,86.32,8,1263851
+1158,Kim-Lam,9,IT Services,Net 30,11,76.79,3,383884
+1159,"Hartman, Miller and Chaney",1,Packaging,Net 45,37,94.67,8,1990101
+1160,Miller-Singleton,9,Raw Materials,Advance,34,85.21,5,2081073
+1161,Garrett and Sons,9,Office Supplies,Advance,14,74.8,6,917102
+1162,Pittman LLC,10,Electronics,Immediate,40,97.4,6,1675402
+1163,Edwards-Carr,6,Office Supplies,Immediate,8,79.53,1,1568328
+1164,Johnson-Jones,9,Marketing,Immediate,37,99.46,8,349827
+1165,Phillips-Bowers,3,Packaging,Net 30,40,84.82,6,516132
+1166,Washington PLC,6,Raw Materials,Immediate,45,88.09,8,2543822
+1167,Brooks-Carter,2,Packaging,Net 45,12,76.7,5,180970
+1168,Holmes Ltd,4,Office Supplies,Net 60,27,70.9,1,429528
+1169,Todd Ltd,9,Raw Materials,Advance,22,72.38,6,1551968
+1170,Gutierrez-Gray,9,Raw Materials,Advance,11,95.58,6,1200541
+1171,Carpenter Inc,6,Electronics,Net 30,5,84.47,6,1924322
+1172,Gibson-Schneider,8,Manufacturing,Net 60,34,93.48,1,454028
+1173,Gregory Group,9,Professional Services,Net 30,14,79.2,10,1656024
+1174,"Taylor, Rodriguez and Ryan",8,Electronics,Net 60,31,85.57,2,2766277
+1175,Roman-Knight,4,Office Supplies,Net 45,12,95.24,9,302447
+1176,"Stephens, Williams and Sanchez",4,IT Services,Net 45,23,73.87,2,1049074
+1177,Aguilar Inc,5,Manufacturing,Net 60,36,71.17,5,1919463
+1178,House Group,1,Packaging,Advance,41,85.77,10,981439
+1179,Vasquez Inc,4,Office Supplies,Net 30,9,90.83,9,1151278
+1180,Esparza PLC,5,Office Supplies,Net 30,42,94.01,5,2814239
+1181,Butler PLC,8,Packaging,Net 60,42,87.8,9,1309909
+1182,Elliott Group,2,Facilities,Immediate,25,74.25,9,2501174
+1183,"Griffin, Mosley and Ellis",10,Marketing,Net 30,11,95.64,6,2123788
+1184,Brown Inc,1,Manufacturing,Immediate,28,96.4,3,393638
+1185,Chavez LLC,5,Packaging,Advance,9,70.31,5,1624782
+1186,Petersen-Wilson,3,Office Supplies,Net 60,31,99.61,6,2112637
+1187,Stewart-Sheppard,10,Electronics,Immediate,12,74.36,7,2197700
+1188,Vega PLC,9,IT Services,Net 60,31,83.73,5,2767163
+1189,"Sheppard, Smith and Myers",10,Office Supplies,Advance,9,73.27,7,783550
+1190,"Armstrong, Tucker and Lewis",10,Packaging,Net 60,20,74.77,9,2476507
+1191,Brandt-Hunter,8,Raw Materials,Immediate,15,89.51,4,2807011
+1192,Johnson-Stevenson,2,Marketing,Net 60,14,87.82,4,1912262
+1193,Rosales LLC,3,Electronics,Net 60,29,91.67,3,2004458
+1194,David-Higgins,1,Professional Services,Net 30,24,71.44,3,161208
+1195,Cruz Inc,7,Logistics,Immediate,26,87.48,2,1341603
+1196,Miller-Ramirez,7,Facilities,Net 45,16,85.45,7,1940965
+1197,"Rice, Williams and Willis",1,Facilities,Net 30,29,81.67,2,2104846
+1198,"Page, Zimmerman and Tanner",2,Marketing,Immediate,44,71.5,4,1852561
+1199,Parker PLC,7,IT Services,Net 30,16,76.25,7,1754748
+1200,Gibson Ltd,4,Electronics,Immediate,44,82.68,7,749130
+1201,Joyce-Hansen,6,Office Supplies,Net 30,33,99.22,4,741250
+1202,"Rowe, Smith and Smith",1,Logistics,Net 30,20,79.11,6,714790
+1203,Pittman-Burgess,7,Packaging,Net 30,18,94.02,1,1460767
+1204,Holt PLC,1,Office Supplies,Immediate,23,85.23,5,1713998
+1205,Campos-Tucker,8,Marketing,Net 30,32,92.42,2,1212561
+1206,Cook Group,4,Office Supplies,Net 60,27,87.18,4,484206
+1207,Walls-Kaiser,10,Packaging,Net 60,11,70.96,5,1840513
+1208,"Dudley, Smith and Powell",9,Packaging,Immediate,31,86.16,7,2084636
+1209,Graham-Vasquez,2,Office Supplies,Net 45,9,92.99,2,2298034
+1210,Johnson LLC,8,Raw Materials,Immediate,35,92.7,10,1332492
+1211,"Anderson, Harvey and Nichols",10,Facilities,Net 30,29,85.17,8,2349278
+1212,Price-Noble,5,Office Supplies,Net 45,7,70.66,3,149533
+1213,Sherman PLC,8,Manufacturing,Net 60,38,94.11,6,583046
+1214,"Adams, Clark and Mcclure",9,Manufacturing,Net 45,27,87.32,9,2410283
+1215,Wells PLC,6,Manufacturing,Net 30,19,78.13,10,2974217
+1216,Gutierrez and Sons,8,Electronics,Net 60,23,82.77,7,687823
+1217,"Adams, Hogan and Bryan",2,Facilities,Advance,6,92.04,2,1536858
+1218,"Ware, Thomas and Paul",3,Electronics,Immediate,8,86.69,3,865074
+1219,"Chavez, Davis and Reed",9,IT Services,Advance,39,73.26,8,362716
+1220,Ortiz Inc,3,Electronics,Immediate,33,89.88,10,2585912
+1221,Hernandez and Sons,3,Office Supplies,Net 45,9,82.09,2,2040325
+1222,Velazquez Inc,7,Logistics,Net 45,28,98.75,2,2987426
+1223,"Williams, Irwin and Campbell",9,Raw Materials,Immediate,42,89.12,10,1999490
+1224,Lawrence-Russell,10,Raw Materials,Net 45,17,80.87,7,2510321
+1225,"Daniels, Phillips and Hill",5,Electronics,Net 30,42,72.47,1,2476683
+1226,"Richmond, Howard and Morgan",1,Manufacturing,Net 30,17,81.78,6,838097
+1227,Calhoun-Williams,3,IT Services,Net 60,44,74.03,5,489549
+1228,"Coleman, Owen and Levy",8,Facilities,Advance,39,92.5,3,2596152
+1229,"Spencer, Thomas and Torres",7,IT Services,Net 60,26,74.39,7,2749327
+1230,Reed and Sons,1,Raw Materials,Net 60,11,89.31,10,1362533
+1231,Haynes-Atkins,2,Facilities,Net 45,36,96.52,9,1196092
+1232,"King, Crawford and Davis",5,Electronics,Immediate,25,99.65,5,522933
+1233,Schroeder LLC,3,Professional Services,Net 45,9,77.34,9,254735
+1234,Delgado Ltd,4,Professional Services,Immediate,35,75.82,6,2775373
+1235,Mejia-Lee,1,Raw Materials,Advance,31,98.13,2,1108370
+1236,"Burnett, Short and Walters",10,Logistics,Immediate,20,78.26,2,227763
+1237,Lee-Williams,5,Logistics,Advance,39,89.64,6,1412757
+1238,Stevenson-Berry,8,Office Supplies,Advance,38,84.64,7,726228
+1239,Melendez-Green,5,Facilities,Net 45,40,76.71,6,2594174
+1240,Campbell-Allen,8,Manufacturing,Net 45,44,85.17,7,1158253
+1241,Cisneros-Stevens,9,Marketing,Net 60,20,74.17,9,432841
+1242,Hickman PLC,3,Packaging,Immediate,22,83.86,7,1096152
+1243,Smith-Johnson,2,IT Services,Immediate,16,96.45,4,1978293
+1244,Reed-Cox,8,Facilities,Net 45,45,93.09,9,119806
+1245,"Luna, Duncan and Price",8,Professional Services,Immediate,38,73.32,7,1595427
+1246,Moore PLC,1,Office Supplies,Immediate,42,70.96,6,2806557
+1247,Howard PLC,4,Logistics,Immediate,19,78.56,1,2389702
+1248,"Fisher, Simmons and Green",8,Professional Services,Net 30,14,97.82,9,2618205
+1249,Little and Sons,7,Professional Services,Net 60,24,74.39,3,2126344
+1250,"Mcintyre, Crawford and Bowen",3,Facilities,Net 60,32,83.05,1,1927103
+1251,Jones-Mcdonald,3,Packaging,Net 30,43,95.73,9,892942
+1252,"Richardson, Black and Pruitt",7,Manufacturing,Net 45,20,86.57,1,1216042
+1253,Myers-Rogers,7,Electronics,Net 45,39,78.55,2,1564727
+1254,Reed-Armstrong,8,Office Supplies,Immediate,30,85.51,8,1927546
+1255,Nguyen and Sons,8,Manufacturing,Net 30,19,72.33,7,130052
+1256,Phelps Ltd,5,Packaging,Net 30,23,70.73,7,1396117
+1257,Norris and Sons,7,Facilities,Net 45,6,91.84,7,2761501
+1258,Reed-Hernandez,3,Facilities,Immediate,6,70.3,5,907208
+1259,Clark Group,9,Packaging,Net 30,19,79.33,1,76700
+1260,"Yates, Molina and Hopkins",6,Manufacturing,Advance,36,88.44,10,1404366
+1261,"Ford, Arroyo and Rodriguez",6,Professional Services,Net 30,34,96.2,3,749462
+1262,Rodriguez-Pratt,2,Packaging,Net 45,25,73.68,10,1004831
+1263,Rodriguez-Sanchez,6,Professional Services,Net 30,33,75.64,6,1974275
+1264,Nash-Harris,1,Marketing,Immediate,41,99.6,8,2538076
+1265,Zimmerman PLC,10,Logistics,Immediate,25,97.01,5,89873
+1266,Castro-House,4,Marketing,Immediate,16,81.81,3,1287853
+1267,Weaver-Savage,5,Manufacturing,Net 45,30,95.39,4,1815405
+1268,Robinson LLC,2,Electronics,Net 60,22,80.24,7,2775651
+1269,"Maxwell, Harmon and Davis",5,Electronics,Net 60,19,81.21,9,2949516
+1270,"Brown, Odonnell and Mcgrath",8,Logistics,Net 60,10,82.52,6,1300856
+1271,Ryan Group,10,Electronics,Net 60,14,82.81,2,637026
+1272,Cisneros Group,9,Electronics,Net 30,29,91.36,3,531540
+1273,Mitchell LLC,1,Marketing,Net 45,26,75.33,9,2363942
+1274,"Macdonald, Evans and Lawson",1,IT Services,Immediate,7,80.76,7,812610
+1275,Mahoney-Smith,5,Logistics,Net 60,9,80.66,10,1996417
+1276,Anderson-Martin,1,Professional Services,Immediate,5,80.56,6,306739
+1277,Jones PLC,6,Manufacturing,Net 60,16,82.64,4,2396147
+1278,Russell LLC,1,Facilities,Immediate,19,96.07,2,843903
+1279,Bryan and Sons,4,Manufacturing,Net 30,37,78.5,3,710759
+1280,Brooks Inc,1,Electronics,Advance,19,96.81,8,1886083
+1281,Dixon Inc,2,Raw Materials,Net 30,12,94.84,7,384679
+1282,"Hill, Webster and Hall",6,Office Supplies,Net 45,45,72.99,2,134102
+1283,Daniels PLC,8,Electronics,Net 45,17,84.19,9,329189
+1284,"Ruiz, Peterson and Turner",2,IT Services,Net 30,20,80.13,2,151137
+1285,Jackson-Ellis,4,Professional Services,Net 60,7,95.13,4,2558662
+1286,Alvarado-Butler,1,Electronics,Immediate,35,92.36,1,1121070
+1287,Hampton Group,3,Office Supplies,Advance,23,98.62,4,565499
+1288,Vaughan Inc,9,Office Supplies,Net 45,35,83.48,1,401263
+1289,Long Group,5,Raw Materials,Net 45,27,82.37,7,2638648
+1290,White and Sons,10,Manufacturing,Net 45,45,73.15,9,1889247
+1291,White-Miller,3,IT Services,Net 30,37,72.37,8,207918
+1292,"Bradley, Whitney and Wright",3,Professional Services,Net 45,39,96.42,4,147502
+1293,"Williams, Noble and White",5,Office Supplies,Net 60,23,85.38,7,1242563
+1294,Rogers-Hansen,9,Marketing,Net 60,8,89.32,3,1137622
+1295,Tran-Pierce,9,Raw Materials,Net 30,24,86.3,1,345225
+1296,Glover-Thomas,6,Raw Materials,Advance,42,87.71,7,2180973
+1297,Morris LLC,5,IT Services,Immediate,42,84.65,2,2690538
+1298,Carson-Fields,6,Office Supplies,Net 60,37,85.05,6,2171993
+1299,Peters-Carter,2,Professional Services,Immediate,32,87.08,2,829476
+1300,"Barnes, Todd and Hardin",2,IT Services,Net 45,11,97.77,6,2887577
+1301,Ford-Ayala,5,Packaging,Net 30,8,73.58,7,2524520
+1302,Wang-Page,10,Manufacturing,Advance,23,98.22,1,1375130
+1303,"Hardin, Gonzalez and Hancock",9,IT Services,Advance,31,82.95,3,1656252
+1304,Campbell and Sons,6,Facilities,Net 30,39,72.96,5,657351
+1305,Chavez-Williams,5,Electronics,Advance,10,71.1,4,2422877
+1306,"Ray, Morrow and Ortiz",2,Marketing,Net 60,15,77.19,8,2990050
+1307,Stewart LLC,10,Marketing,Net 45,15,86.44,3,1506147
+1308,"Barry, Underwood and Christensen",1,Marketing,Net 60,11,86.18,7,1836681
+1309,"Cline, Pittman and Morgan",2,IT Services,Net 45,41,91.51,2,755792
+1310,Simpson-Meyer,7,Electronics,Advance,6,97.57,10,1688674
+1311,Hernandez-Edwards,8,Professional Services,Immediate,13,85.47,3,647266
+1312,"Mcdonald, Carr and Kline",4,IT Services,Net 60,21,90.44,10,1319045
+1313,Sharp-Hill,8,IT Services,Immediate,43,98.29,5,999777
+1314,Brennan-Harper,2,Packaging,Net 30,45,86.27,6,1334087
+1315,Cox PLC,5,Packaging,Net 30,12,99.89,1,1062656
+1316,Thompson-Davis,3,Facilities,Net 60,18,79.34,8,1683046
+1317,Parker LLC,10,IT Services,Net 45,42,85.52,3,2428161
+1318,Jones-Maxwell,2,Manufacturing,Net 45,28,80.36,8,1745185
+1319,Anderson PLC,9,Manufacturing,Advance,43,72.4,9,1117715
+1320,Robinson-Mclean,9,Manufacturing,Net 60,27,82.02,8,1977445
+1321,"Wheeler, Willis and Reed",10,Logistics,Immediate,23,77.28,1,1060718
+1322,"Pope, Carter and Medina",6,Manufacturing,Net 60,37,91.61,7,2115476
+1323,Koch PLC,9,Raw Materials,Net 45,14,80.6,3,2420896
+1324,Guerra-Willis,5,IT Services,Immediate,36,75.58,9,544022
+1325,Wilson-Williams,10,Raw Materials,Advance,12,86.16,4,374135
+1326,Woods LLC,9,IT Services,Advance,30,87.18,10,2269929
+1327,Vega-Brewer,9,Facilities,Net 30,6,99.56,1,317018
+1328,Powell-Cunningham,3,Electronics,Net 45,45,85.97,2,1944997
+1329,Garrett-Moore,8,IT Services,Net 30,19,83.26,8,2407065
+1330,"Clark, Smith and Davis",10,Manufacturing,Advance,31,97.29,3,689450
+1331,Cantu-Kelly,1,Manufacturing,Immediate,20,97.07,7,1180994
+1332,Jones Group,8,Office Supplies,Advance,36,91.43,6,866909
+1333,"Hernandez, Chambers and Henderson",6,Logistics,Net 60,31,87.63,4,673348
+1334,Perkins LLC,1,Electronics,Net 30,15,83.04,10,801961
+1335,Kennedy-Walters,6,Facilities,Immediate,32,81.57,5,1292744
+1336,"Beasley, Duncan and Ramos",4,Professional Services,Net 60,8,84.81,9,550533
+1337,"Preston, Perry and Howe",2,Packaging,Advance,42,70.21,10,618324
+1338,Williams-Tate,7,Logistics,Net 30,11,73.77,9,2542512
+1339,"Oliver, Davis and Martin",3,Raw Materials,Net 60,7,71.4,7,1113121
+1340,"Green, Garcia and Benson",5,Electronics,Net 45,25,87.15,3,973939
+1341,Perez-Norton,6,Packaging,Net 30,41,82.49,9,2784695
+1342,Walker-Barker,7,Logistics,Net 30,45,79.48,2,2387722
+1343,"Horne, Pierce and Evans",9,Electronics,Advance,32,78.97,9,2601792
+1344,Chung-Rogers,3,Packaging,Net 45,30,90.58,9,701612
+1345,"Burton, Diaz and Harris",1,Office Supplies,Net 45,33,88.54,7,805217
+1346,King LLC,4,Raw Materials,Net 45,26,93.7,8,2755858
+1347,Johnson-Dorsey,7,Manufacturing,Net 30,24,85.76,7,2856420
+1348,Chambers-Gilbert,2,Office Supplies,Net 30,27,91.33,10,2207056
+1349,Donaldson-Carroll,2,Facilities,Net 30,45,91.24,5,1676944
+1350,"Chaney, Williams and Ward",8,IT Services,Immediate,15,77.73,10,2917731
+1351,"Mendoza, Taylor and Watson",1,Manufacturing,Net 60,30,81.28,6,745608
+1352,Robinson PLC,8,Raw Materials,Net 30,26,85.48,2,1295748
+1353,"Osborn, Tucker and Gillespie",1,Logistics,Advance,16,72.9,4,287658
+1354,"Aguilar, Mcintyre and Williams",5,Electronics,Advance,27,90.57,9,659970
+1355,"Farmer, Carter and Perez",1,Packaging,Net 30,6,78.47,2,1593637
+1356,Smith-Riley,9,Professional Services,Immediate,26,92.17,2,754241
+1357,Gross Ltd,4,Professional Services,Net 30,13,90.39,1,1791869
+1358,"Black, Baldwin and Fernandez",7,Logistics,Advance,27,80.03,4,428320
+1359,Schmidt Inc,3,Raw Materials,Net 45,33,92.39,3,193311
+1360,"Howard, Johnson and Graham",5,Raw Materials,Immediate,44,94.75,9,1475394
+1361,Garcia-Long,4,Professional Services,Immediate,39,82.82,4,2429653
+1362,Lopez Group,8,Logistics,Immediate,38,90.27,5,837955
+1363,Moody-Barnett,7,Facilities,Net 60,36,90.02,1,1303399
+1364,Gaines-Andrade,5,Raw Materials,Net 45,35,96.77,10,1647990
+1365,"Contreras, Hess and Little",4,Manufacturing,Net 30,32,99.8,3,480979
+1366,Sosa Group,7,Logistics,Net 60,22,87.03,3,913850
+1367,"Vaughn, Dixon and Perez",10,Professional Services,Immediate,12,91.64,8,1963110
+1368,Johnson Ltd,10,IT Services,Net 60,7,71.31,2,2631177
+1369,Anthony PLC,2,Facilities,Advance,35,80.19,1,2760966
+1370,"Campbell, Harris and Smith",10,Packaging,Net 60,15,78.37,10,1327743
+1371,Davidson Ltd,2,Facilities,Net 45,10,80.38,3,1751004
+1372,Zamora-David,8,Packaging,Immediate,28,73.4,7,1122432
+1373,"Martin, Brown and Kelly",6,Professional Services,Advance,40,76.02,6,2840391
+1374,Moss and Sons,6,Marketing,Advance,36,84.17,1,968647
+1375,Taylor-Weaver,9,IT Services,Net 30,39,84.75,5,60044
+1376,Wilson Group,10,Facilities,Advance,5,74.85,9,960411
+1377,Lopez-Hunter,2,Packaging,Net 45,25,76.49,6,1073462
+1378,Johnson PLC,7,IT Services,Net 60,33,73.0,5,2537321
+1379,Santos Inc,5,Electronics,Net 45,30,90.41,8,1782204
+1380,"Patterson, King and Carroll",9,Manufacturing,Advance,5,90.6,8,2972631
+1381,Chandler Inc,1,Packaging,Immediate,37,90.14,3,1095700
+1382,"Porter, Rios and Garcia",8,Facilities,Net 30,22,80.88,2,2225319
+1383,"Frazier, Smith and Hess",3,Marketing,Net 60,18,77.73,10,551962
+1384,Williams-Douglas,4,Electronics,Net 60,22,84.42,7,2703442
+1385,"Golden, Green and Medina",1,IT Services,Net 60,36,99.65,3,1403738
+1386,Warner-Rush,1,Marketing,Net 60,9,82.01,7,1846826
+1387,Moon-Cuevas,5,Packaging,Net 60,21,93.76,4,2031514
+1388,Taylor-Johnson,6,Raw Materials,Net 30,28,96.9,8,1351011
+1389,Chen LLC,10,Professional Services,Net 30,26,71.04,3,1817627
+1390,"Mcdowell, Baker and Kelley",8,IT Services,Net 60,23,70.5,7,209444
+1391,Ford-Stevens,8,IT Services,Immediate,11,71.72,8,2886078
+1392,"Hill, Harrington and Lane",4,Facilities,Net 60,12,82.8,6,1609272
+1393,Kim-Long,6,Office Supplies,Net 30,36,93.03,4,1224852
+1394,Thomas Group,3,Office Supplies,Advance,20,73.0,5,1525449
+1395,"Campbell, Thomas and Graves",4,Manufacturing,Net 60,35,95.81,8,370774
+1396,Martin-Abbott,7,Logistics,Advance,14,91.9,3,314976
+1397,Coleman-Jones,5,Office Supplies,Net 30,35,75.7,5,690060
+1398,Smith Ltd,1,Electronics,Net 45,36,88.7,7,1077739
+1399,Thomas Group,5,Facilities,Net 30,38,73.06,10,244476
+1400,Savage-Green,8,Manufacturing,Net 60,18,88.26,9,2649873
+1401,Clark-West,2,Raw Materials,Net 45,40,76.84,3,1281094
+1402,"Watkins, Townsend and Hall",5,Manufacturing,Net 45,32,89.82,6,339737
+1403,"Carter, Lamb and Torres",5,IT Services,Net 45,28,95.95,7,2714308
+1404,"Wilson, Neal and Krause",2,Office Supplies,Net 45,27,97.59,6,1826464
+1405,"Cohen, Thomas and Johnson",8,Manufacturing,Advance,12,71.59,2,122588
+1406,Robinson LLC,4,Manufacturing,Advance,14,92.33,6,723537
+1407,Jones Ltd,9,Manufacturing,Immediate,34,77.02,2,1757615
+1408,Lewis-Butler,7,Packaging,Immediate,8,79.48,3,1813035
+1409,Smith Group,1,Marketing,Immediate,34,78.88,4,345669
+1410,"Hawkins, Adams and Salas",7,Manufacturing,Net 45,23,99.76,6,2900402
+1411,"Torres, Smith and Schultz",7,Logistics,Immediate,22,72.08,7,2898042
+1412,Dickson-Morgan,7,Manufacturing,Advance,45,83.0,9,1330967
+1413,Yoder-Williams,4,Marketing,Net 30,36,81.85,5,2170009
+1414,Watson-Evans,8,Electronics,Advance,30,86.81,9,2218542
+1415,Wolfe-Hill,5,Office Supplies,Net 45,41,93.1,6,2543600
+1416,"Oneal, Miller and Cruz",10,Logistics,Advance,43,83.23,2,1539925
+1417,Cook LLC,6,Raw Materials,Advance,14,77.16,4,2070298
+1418,Payne Group,9,Logistics,Advance,24,80.93,10,780580
+1419,Hernandez-Daniels,10,IT Services,Immediate,7,73.43,9,1282893
+1420,Gibbs-Cook,7,Professional Services,Immediate,16,73.14,8,204399
+1421,"Graves, Roberts and Mclean",4,Electronics,Net 30,6,75.55,6,1365127
+1422,Griffith Group,1,Marketing,Net 30,29,93.77,5,1050326
+1423,Shaw-Zamora,7,Packaging,Net 60,31,98.32,9,2485318
+1424,"Cox, Jones and Young",7,Manufacturing,Net 60,32,90.35,5,2844968
+1425,Orozco LLC,5,Professional Services,Immediate,10,84.49,3,296148
+1426,Jones-Hunter,3,Logistics,Net 45,10,89.45,7,718515
+1427,Perez Inc,8,Marketing,Net 30,26,86.13,8,2351371
+1428,Adams-Kent,1,Facilities,Net 30,42,84.94,5,403233
+1429,Larson-Whitehead,6,Office Supplies,Net 45,35,90.48,8,50822
+1430,Rogers Inc,10,Professional Services,Net 60,35,82.72,4,2566370
+1431,Franklin-Shepard,7,Electronics,Net 30,45,89.47,2,1231407
+1432,Walsh-Long,2,Professional Services,Advance,32,94.4,9,1256539
+1433,Green and Sons,1,Raw Materials,Net 45,36,87.37,8,1369410
+1434,Mason LLC,7,Raw Materials,Advance,42,72.23,10,734662
+1435,Stevenson-Mcguire,5,Raw Materials,Net 45,14,88.57,3,1908488
+1436,Jones Ltd,5,Facilities,Net 45,8,76.94,4,2539245
+1437,Caldwell LLC,5,Logistics,Net 30,27,72.49,9,1175262
+1438,Smith PLC,4,Electronics,Advance,20,73.34,2,1653706
+1439,Smith-Smith,9,Electronics,Net 45,11,94.04,8,2817704
+1440,Kelley-Kelly,6,Marketing,Immediate,45,89.73,9,2982046
+1441,Hernandez-Todd,5,Packaging,Immediate,37,89.24,2,1927142
+1442,Wood Group,7,Marketing,Advance,12,94.47,6,2125277
+1443,"Hendricks, Estrada and Wagner",10,Packaging,Immediate,40,76.82,9,2374504
+1444,Dickerson Inc,9,Electronics,Advance,36,88.37,9,1637939
+1445,Wright-Shields,4,Manufacturing,Net 60,22,82.34,5,468569
+1446,David Group,5,Electronics,Advance,21,78.17,1,2762038
+1447,Holmes Group,2,Raw Materials,Net 30,32,86.94,2,2788027
+1448,Rivers-Floyd,9,Professional Services,Advance,18,91.59,5,705398
+1449,Villanueva-Johnson,7,Facilities,Net 45,32,99.43,1,451106
+1450,Joseph-Gray,3,Office Supplies,Net 60,38,70.88,6,2220352
+1451,Wilson-Long,2,Logistics,Net 60,13,85.87,5,452084
+1452,Edwards-Green,3,Packaging,Net 45,11,99.25,1,1240144
+1453,"Simon, Cook and Huynh",4,Logistics,Advance,45,90.75,10,1958200
+1454,Chaney-Robinson,8,Packaging,Advance,10,70.12,7,82434
+1455,"Bailey, Johnson and Anderson",2,Professional Services,Advance,25,81.0,5,701361
+1456,"Parker, Haney and Swanson",2,Marketing,Immediate,31,71.38,2,55956
+1457,Adams-Pope,4,IT Services,Net 60,21,85.91,5,2128978
+1458,Martinez and Sons,10,Packaging,Net 60,28,86.43,1,1414252
+1459,"Williams, Gilbert and Taylor",1,Marketing,Net 30,10,76.04,9,1896244
+1460,Gonzalez PLC,5,Packaging,Advance,44,71.1,8,1943673
+1461,"Johnson, Myers and Weaver",1,Raw Materials,Net 30,17,86.07,2,2957033
+1462,Carter Group,7,Raw Materials,Net 30,5,91.17,10,763451
+1463,Mccarthy-Chandler,3,IT Services,Net 60,29,73.9,3,2645109
+1464,Lee PLC,2,IT Services,Net 45,23,91.4,5,1381030
+1465,Rodriguez Inc,1,Marketing,Net 45,27,73.97,6,2319892
+1466,"Fletcher, Wright and Morgan",10,Facilities,Net 60,35,89.45,4,1276435
+1467,"Velasquez, Martinez and Ho",3,Raw Materials,Net 45,31,94.38,10,1383219
+1468,Melendez-Smith,5,Office Supplies,Advance,12,78.57,2,1916394
+1469,Garcia-Rose,1,Office Supplies,Net 45,40,81.99,1,1075306
+1470,Harris PLC,9,Logistics,Net 60,31,97.88,6,1796593
+1471,Martin-Bennett,9,Raw Materials,Net 60,13,82.26,8,1657357
+1472,"Wilson, Martin and Schneider",8,Electronics,Advance,24,77.1,3,759500
+1473,"Copeland, Black and Cole",8,Marketing,Advance,27,79.81,5,2400351
+1474,Stephens Ltd,1,Professional Services,Net 45,34,85.41,1,1382756
+1475,Butler-Sherman,6,IT Services,Net 30,19,99.65,3,1979531
+1476,Ellis Ltd,4,Logistics,Net 30,21,74.12,3,879323
+1477,Odonnell-Rivera,10,Manufacturing,Net 60,23,71.14,5,900555
+1478,"Castillo, Ferguson and Vargas",7,Raw Materials,Net 60,24,74.2,10,115667
+1479,Jones-Mcconnell,1,Electronics,Net 30,41,92.28,3,1056102
+1480,"Johns, Mckay and Oneal",9,Professional Services,Advance,36,91.74,10,2824910
+1481,Humphrey PLC,5,Professional Services,Immediate,10,87.76,9,670324
+1482,Mack-Johnson,5,Office Supplies,Advance,28,89.09,10,1488967
+1483,Martin Ltd,10,Manufacturing,Net 45,34,93.74,7,2821938
+1484,Roberts LLC,10,IT Services,Net 30,8,98.27,5,1183775
+1485,Lee LLC,5,Professional Services,Advance,22,82.96,2,649545
+1486,Allen-Clark,5,Raw Materials,Immediate,32,80.15,6,2292488
+1487,"Chen, Fisher and Jones",7,Office Supplies,Advance,14,72.92,3,1983970
+1488,"Henry, Hall and Willis",3,Professional Services,Net 45,41,98.15,10,1419777
+1489,Herrera-Gonzalez,6,Packaging,Net 30,10,80.99,1,1215277
+1490,Glover Ltd,7,Marketing,Net 30,31,85.94,2,1006754
+1491,Wilkins Inc,5,Logistics,Immediate,21,76.64,10,2272163
+1492,Webb-Wallace,4,Professional Services,Net 45,25,84.21,10,1734069
+1493,"Garcia, Bradley and Flores",1,Office Supplies,Net 60,41,95.85,3,846944
+1494,"Salinas, Wiggins and Fuller",6,Packaging,Immediate,23,98.22,7,2963063
+1495,Andrade and Sons,8,Professional Services,Advance,22,74.66,8,1924986
+1496,Nelson Ltd,8,Professional Services,Net 30,45,95.02,8,454878
+1497,Moore Group,5,Facilities,Net 30,40,78.21,5,2161135
+1498,Morrison-Owens,1,Packaging,Immediate,35,90.69,3,1568531
+1499,"Holder, Rasmussen and Horton",1,Professional Services,Advance,16,79.31,7,2130173
+1500,Quinn-Lopez,9,Office Supplies,Net 60,19,87.3,10,568165
+1501,"Griffin, Shepherd and Wright",3,Electronics,Net 45,6,75.04,5,1684383
+1502,Monroe-Farley,5,Office Supplies,Net 60,44,95.65,9,2128832
+1503,"Lam, Cruz and Blevins",4,Professional Services,Net 60,9,90.85,4,1997439
+1504,"Brown, Simmons and Walker",10,Facilities,Net 45,45,73.33,7,2452374
+1505,Gibson-Mckinney,3,Logistics,Net 60,7,99.64,5,2897645
+1506,"Davis, Young and Miles",4,Manufacturing,Net 30,44,82.29,2,1795452
+1507,"Franco, Snyder and Singh",8,Office Supplies,Advance,18,75.19,9,2799182
+1508,Davis Ltd,5,Logistics,Net 30,19,78.1,7,2890770
+1509,Lewis-Golden,7,Manufacturing,Net 60,43,79.91,7,2595472
+1510,Petty Inc,9,Office Supplies,Net 30,37,79.46,9,2007117
+1511,Cunningham Inc,4,Electronics,Net 60,9,91.44,2,1938706
+1512,"Oneill, Ramirez and Lewis",10,Packaging,Advance,30,92.62,6,2858081
+1513,Stephenson-Pierce,8,Logistics,Advance,20,96.9,10,1535075
+1514,Obrien Group,1,Manufacturing,Net 60,42,92.73,6,2035835
+1515,Wilkins-Mcgee,3,Raw Materials,Net 60,22,91.86,7,2771897
+1516,"Black, Peterson and Ross",10,Raw Materials,Net 30,20,90.63,10,1236437
+1517,Jones Group,5,Marketing,Net 60,13,99.33,8,1703305
+1518,"Turner, Allen and Stephens",5,Facilities,Net 60,38,82.27,6,2224445
+1519,"Perez, Colon and West",3,Marketing,Advance,33,91.58,5,1164522
+1520,"Oneill, Wade and Martin",3,Raw Materials,Advance,7,88.68,6,1658669
+1521,Thomas LLC,6,Raw Materials,Net 30,26,75.56,4,2049052
+1522,Miller-Wagner,6,Manufacturing,Advance,41,80.83,10,607022
+1523,Smith-Ewing,5,Electronics,Net 30,45,96.97,5,248457
+1524,Brown-Thompson,3,Professional Services,Net 30,13,80.79,6,1751712
+1525,Hayes-Lamb,4,Facilities,Net 30,13,92.88,4,2093322
+1526,Robbins LLC,10,Manufacturing,Net 60,28,70.91,5,754849
+1527,Manning and Sons,5,Raw Materials,Immediate,16,90.43,3,2170060
+1528,Lane PLC,9,Electronics,Advance,40,77.18,2,1216896
+1529,Horne LLC,6,Facilities,Net 60,16,82.33,6,2483089
+1530,"Quinn, Mann and Ortega",1,Professional Services,Net 30,9,82.17,5,1409980
+1531,"Rodriguez, Hunt and Ferguson",1,Manufacturing,Net 60,11,92.7,4,644532
+1532,Ramos-Johnson,2,Marketing,Net 45,25,98.24,9,1948607
+1533,"Smith, Andrews and Kelly",6,Marketing,Net 30,10,78.68,8,369156
+1534,Ramirez PLC,2,Professional Services,Net 30,45,76.54,3,2459370
+1535,"Cortez, Pena and Clark",10,Electronics,Advance,39,87.48,8,829011
+1536,Pena Group,3,Electronics,Advance,16,94.06,9,1137156
+1537,Singleton PLC,4,Professional Services,Net 60,19,73.14,3,1056266
+1538,"Williams, Hood and Torres",1,Raw Materials,Net 60,27,84.02,8,92092
+1539,"Torres, Rios and Shea",6,Facilities,Net 45,26,93.05,2,2521117
+1540,Castaneda-Rogers,8,Professional Services,Advance,42,95.29,2,744143
+1541,"Gibbs, Thomas and Jefferson",3,Raw Materials,Net 30,6,85.58,6,1620861
+1542,Robinson-Brown,10,Office Supplies,Advance,9,82.06,5,902289
+1543,"Jones, Lyons and Stevens",7,Electronics,Net 30,7,82.02,9,364990
+1544,"Garner, Fields and Morales",8,Raw Materials,Immediate,34,70.93,10,398233
+1545,Hunter-Moore,9,Professional Services,Advance,24,80.55,4,616679
+1546,Hoffman LLC,4,Marketing,Net 30,34,98.61,8,1743131
+1547,Thompson-Rivera,6,Office Supplies,Immediate,8,77.18,6,1645823
+1548,Spears-Walton,10,Marketing,Net 30,34,81.42,8,1915739
+1549,"Strong, Palmer and Wolf",3,Logistics,Net 45,14,70.47,9,2406140
+1550,Cunningham-Bond,9,Packaging,Immediate,41,92.73,5,1304736
+1551,"Miller, Fritz and Brown",6,Manufacturing,Net 60,35,76.43,3,2748050
+1552,Olson-Hendrix,8,Logistics,Net 30,18,82.77,8,2361507
+1553,Hicks-Robertson,5,Logistics,Net 45,31,79.53,4,2457084
+1554,"Villegas, Brown and Thomas",10,Packaging,Net 60,44,84.91,1,220724
+1555,James Ltd,2,Electronics,Immediate,24,87.73,9,741168
+1556,Williams PLC,8,Facilities,Net 30,8,92.42,8,2013044
+1557,Casey-Williams,1,Marketing,Immediate,41,78.53,3,1845205
+1558,"Tran, Williams and Chavez",4,IT Services,Net 60,43,97.01,3,641268
+1559,Gallegos-Lewis,6,Logistics,Advance,13,76.8,1,196102
+1560,Leonard-Guerrero,6,Packaging,Net 30,30,86.02,1,111383
+1561,Norton Inc,5,Professional Services,Net 45,32,85.45,10,2015198
+1562,Cole and Sons,10,IT Services,Immediate,14,85.44,3,2058815
+1563,Goodwin Ltd,4,Raw Materials,Net 30,36,87.96,1,731988
+1564,Nash Group,7,Professional Services,Net 30,19,99.08,1,2245037
+1565,Williams PLC,5,Manufacturing,Net 60,43,92.3,2,1023208
+1566,"Walker, Haney and Whitney",9,Electronics,Net 30,16,79.98,1,2305064
+1567,Davidson Inc,1,Logistics,Net 30,34,77.37,1,2165794
+1568,Lewis Inc,9,Professional Services,Net 60,20,91.28,2,1696365
+1569,"Reynolds, Harris and Wyatt",7,Manufacturing,Advance,9,70.72,8,2766012
+1570,Johnson Ltd,7,IT Services,Net 30,42,86.64,1,1760700
+1571,Small-Lopez,1,Facilities,Net 60,32,84.68,2,2972416
+1572,"Sanchez, Kelly and Stewart",8,Office Supplies,Net 60,28,78.91,3,768928
+1573,"Long, Freeman and Howard",4,Office Supplies,Net 45,6,83.31,10,513618
+1574,Proctor-Zuniga,6,Packaging,Net 30,36,99.26,6,597254
+1575,Ellis LLC,10,Facilities,Net 30,19,88.95,3,707624
+1576,Miller PLC,4,Office Supplies,Net 30,33,86.92,2,1933852
+1577,Craig Inc,3,IT Services,Immediate,44,84.69,7,675506
+1578,Jackson and Sons,10,Packaging,Immediate,27,96.23,9,138036
+1579,Winters-Smith,4,Electronics,Immediate,30,94.04,10,2933758
+1580,Smith Inc,5,Professional Services,Advance,43,76.22,7,916493
+1581,Shea Ltd,7,Raw Materials,Net 60,23,85.08,10,2012364
+1582,Lopez-Gomez,2,Raw Materials,Immediate,24,94.51,6,680830
+1583,"Butler, Salazar and Carpenter",8,Raw Materials,Advance,27,77.42,4,419739
+1584,"Snyder, Mcclure and Diaz",6,Raw Materials,Net 45,39,99.31,8,2968640
+1585,"Wood, Oconnor and Myers",9,Marketing,Net 60,34,79.64,1,258938
+1586,Mendoza PLC,1,IT Services,Immediate,9,99.27,10,241865
+1587,Lopez Ltd,3,Marketing,Immediate,7,79.52,9,307829
+1588,Kennedy Ltd,3,Office Supplies,Net 30,16,85.62,10,1216564
+1589,Gilbert-Patel,9,Office Supplies,Net 30,6,82.74,5,351205
+1590,Gentry-Hernandez,7,Professional Services,Advance,18,90.55,6,2453430
+1591,Long LLC,1,Marketing,Net 30,30,73.98,6,563352
+1592,Smith-Smith,7,IT Services,Advance,22,99.06,8,354720
+1593,Martin Ltd,9,Electronics,Net 60,26,75.82,5,223978
+1594,"Harris, Maldonado and Johnson",1,Facilities,Net 30,30,73.5,2,381833
+1595,Meyer-Martinez,3,Office Supplies,Net 60,41,80.51,9,2169078
+1596,Buchanan-Miller,1,Marketing,Advance,10,90.59,10,635175
+1597,"Allison, Vazquez and Taylor",1,Professional Services,Net 45,19,70.15,7,2875711
+1598,"Cox, Williams and Terry",5,Electronics,Immediate,16,81.66,3,1419677
+1599,"Hernandez, Baker and Lucas",3,IT Services,Immediate,44,89.86,3,1971896
+1600,Hunter Ltd,5,IT Services,Net 30,12,98.69,2,2912018
+1601,Church-Duncan,6,Logistics,Net 45,43,90.12,4,679302
+1602,Diaz-Crawford,4,Marketing,Net 60,11,74.63,3,2964123
+1603,"Schmidt, Howell and Williams",5,IT Services,Net 60,13,83.04,7,638965
+1604,Thompson-Herring,10,Facilities,Net 60,41,92.72,2,2925650
+1605,Cardenas PLC,1,Office Supplies,Immediate,21,82.3,6,1707290
+1606,Miller Ltd,2,Office Supplies,Advance,17,82.27,7,2778129
+1607,Zimmerman Inc,7,Logistics,Advance,28,87.75,6,1076232
+1608,Robertson-Jensen,6,Raw Materials,Net 30,17,76.11,4,333377
+1609,Smith-Trujillo,6,Electronics,Advance,16,84.26,1,1698171
+1610,Strickland-Smith,10,Packaging,Immediate,21,98.39,5,2317165
+1611,Schwartz Inc,6,Office Supplies,Net 30,16,98.43,1,165816
+1612,Wood-Murphy,5,Packaging,Immediate,45,73.97,6,436486
+1613,Weaver Group,9,Marketing,Advance,35,78.48,6,918952
+1614,King-Davis,3,Manufacturing,Net 30,21,90.38,7,1655619
+1615,"Hayes, Shelton and Hudson",4,Facilities,Advance,20,79.16,5,2304266
+1616,Barnes Inc,6,Manufacturing,Advance,30,96.0,2,344492
+1617,Thornton PLC,4,Facilities,Net 60,7,71.25,4,2967429
+1618,Bishop Group,7,Professional Services,Net 30,44,89.03,3,2582088
+1619,Murphy-Morris,2,Packaging,Net 30,16,93.32,2,2298939
+1620,"Crawford, Branch and Mullen",6,Logistics,Net 30,28,79.64,10,2461321
+1621,"Johnston, Valencia and Jackson",4,Packaging,Advance,5,98.25,10,2144026
+1622,White PLC,5,Packaging,Immediate,16,90.55,6,1540682
+1623,"Porter, Munoz and Matthews",6,Manufacturing,Advance,9,78.17,1,1471452
+1624,Deleon-Strickland,7,Facilities,Net 60,20,76.14,5,2518351
+1625,Matthews-Thomas,7,Marketing,Immediate,41,81.71,6,1670135
+1626,Ross PLC,2,Electronics,Net 30,11,85.93,10,838282
+1627,"Potter, Little and Wilkerson",6,Packaging,Net 60,19,80.12,3,2574574
+1628,"Young, Brown and Rivera",1,Facilities,Net 60,20,90.62,7,2086677
+1629,Peters PLC,8,Electronics,Advance,27,87.9,1,1183937
+1630,Hill Inc,8,IT Services,Net 60,13,77.19,8,761590
+1631,Duncan LLC,8,Raw Materials,Immediate,25,75.69,8,865053
+1632,"Stanley, Crane and Johnson",6,Packaging,Net 45,40,70.43,2,1211881
+1633,Stuart-Gomez,9,Professional Services,Net 45,41,75.77,7,1401698
+1634,"Martin, Cannon and Williams",7,Office Supplies,Advance,21,93.33,1,708628
+1635,Mclean Ltd,4,Electronics,Advance,33,94.09,10,2468241
+1636,"Gonzalez, Kim and Sexton",3,Logistics,Immediate,19,83.36,2,722162
+1637,Cross-Barnett,7,Professional Services,Net 30,6,96.46,6,301500
+1638,Byrd-Mitchell,5,Electronics,Net 60,36,75.15,2,2214736
+1639,Everett-Conner,10,IT Services,Net 60,32,79.73,1,1001921
+1640,"Miller, Burton and Jimenez",9,Raw Materials,Net 60,13,83.57,9,1935006
+1641,"Kelly, Turner and Lowe",7,Electronics,Net 30,35,79.75,3,2702711
+1642,"Floyd, Johnson and Burns",4,Raw Materials,Net 30,41,75.41,6,2643814
+1643,Robertson Inc,3,Facilities,Net 30,31,72.78,5,2514686
+1644,Blair Inc,8,Professional Services,Advance,14,92.45,10,2652446
+1645,"Martin, Conley and Montgomery",10,Electronics,Net 45,38,91.61,9,660135
+1646,Green Group,9,Professional Services,Net 45,45,72.76,3,2674788
+1647,Peterson Ltd,6,Professional Services,Net 45,21,79.75,10,1061546
+1648,"Wall, Romero and Moore",5,Raw Materials,Net 60,26,77.44,2,163574
+1649,"Peterson, Hodge and Sherman",3,Packaging,Net 60,11,81.63,5,1677233
+1650,"Lang, Lester and Parker",9,Professional Services,Net 30,6,98.63,4,2879217
+1651,Howell LLC,3,Marketing,Net 60,17,96.45,8,2198772
+1652,Gordon-Gonzalez,9,Manufacturing,Advance,22,99.88,9,2067908
+1653,Roy LLC,1,Manufacturing,Advance,15,78.8,1,1501379
+1654,Mcbride LLC,9,IT Services,Net 30,44,84.79,3,2558589
+1655,Payne Ltd,9,Packaging,Advance,21,86.41,7,2143139
+1656,Williams-James,10,Logistics,Net 45,18,90.03,10,2800010
+1657,Burch Ltd,1,Professional Services,Advance,40,83.58,4,1878863
+1658,Maxwell-Meyers,10,Manufacturing,Net 30,34,77.95,6,882041
+1659,"Parsons, Rivera and Bonilla",5,Electronics,Net 60,10,85.7,5,1399326
+1660,Smith-Williams,4,Electronics,Advance,13,87.92,10,1947741
+1661,Quinn Ltd,2,Marketing,Advance,16,71.79,2,1775692
+1662,Johnson Group,1,Electronics,Immediate,15,90.86,1,2856870
+1663,Torres-Smith,4,Marketing,Immediate,23,85.91,2,2554721
+1664,"Foster, Wilson and Anderson",6,Logistics,Advance,20,97.74,10,2110382
+1665,Smith-Roberts,4,Marketing,Net 60,21,92.32,8,2280183
+1666,Adams and Sons,10,IT Services,Net 60,22,84.09,9,2991332
+1667,"Blevins, Dean and Williams",8,Logistics,Advance,30,91.81,4,2268918
+1668,Thompson-Richardson,10,Marketing,Net 30,12,81.38,3,357696
+1669,Mathis-Chavez,7,Raw Materials,Advance,26,93.93,1,256680
+1670,"Larsen, Cook and Zuniga",7,Logistics,Net 30,19,71.49,8,965438
+1671,Ramos-Thompson,4,Packaging,Net 30,41,94.19,4,160199
+1672,Holmes-Bryant,5,Logistics,Immediate,13,90.06,9,2497369
+1673,Malone-Crawford,8,Packaging,Net 45,10,72.79,6,2749226
+1674,Montgomery PLC,6,Packaging,Net 45,41,82.75,8,1629098
+1675,"Robinson, Larson and Cooper",7,IT Services,Net 45,26,82.99,5,702056
+1676,Anderson Ltd,5,Facilities,Immediate,27,84.69,9,1398190
+1677,Rice-Leach,8,IT Services,Net 60,18,82.7,1,2167300
+1678,"Black, Matthews and Clark",1,Professional Services,Net 30,18,85.86,6,1733773
+1679,Liu-Rogers,4,Professional Services,Net 60,18,97.77,5,2376929
+1680,Ibarra-Francis,3,Electronics,Advance,16,72.93,6,2352366
+1681,Cortez-Nelson,3,Electronics,Immediate,31,80.14,1,2821095
+1682,Rios Ltd,3,Logistics,Advance,5,84.26,6,1734976
+1683,Maxwell-Martin,4,Facilities,Net 30,34,86.31,7,919279
+1684,Steele-Thompson,10,Office Supplies,Net 45,30,89.35,4,332496
+1685,"Page, Adkins and Harris",6,Packaging,Advance,45,84.42,8,2569433
+1686,Mcbride Inc,4,Professional Services,Net 45,5,91.17,7,2598271
+1687,White-Hines,9,Marketing,Advance,10,93.15,5,1115264
+1688,Cooley PLC,4,Facilities,Net 45,37,98.35,7,1234884
+1689,"Cruz, Daniels and Harris",5,Manufacturing,Advance,39,85.51,4,2554953
+1690,"Nelson, Owens and Evans",1,Raw Materials,Advance,12,70.1,1,2529541
+1691,"Lopez, Mendez and Campbell",3,Electronics,Net 60,17,83.12,2,1026108
+1692,Lang and Sons,3,Electronics,Net 45,18,73.74,8,183314
+1693,"Short, Haley and Rivera",10,Professional Services,Net 60,24,90.7,5,1001074
+1694,"Powers, Garcia and Gregory",2,IT Services,Net 45,33,96.93,4,1902997
+1695,Brown Inc,6,Marketing,Net 60,10,70.13,1,1309858
+1696,Clark-Jarvis,10,Manufacturing,Net 30,25,93.77,10,461576
+1697,"Williams, Nunez and Martinez",10,Office Supplies,Net 60,11,90.55,5,1151002
+1698,Richardson Group,8,Facilities,Net 60,43,74.71,10,607455
+1699,Owens Inc,6,Professional Services,Immediate,23,89.39,4,314730
+1700,Ali-Santos,2,Professional Services,Net 45,28,75.17,5,1579768
+1701,Dyer Inc,2,Professional Services,Net 30,32,90.27,1,443565
+1702,Daniels-Sandoval,3,IT Services,Advance,32,90.63,8,2003794
+1703,Davis-Dixon,8,Manufacturing,Net 30,10,99.07,10,292573
+1704,Chaney-Dalton,2,Marketing,Net 45,43,73.86,3,1984395
+1705,"Steele, Washington and Medina",8,Logistics,Advance,31,70.34,7,2320245
+1706,Davidson-Dickerson,9,IT Services,Advance,37,91.03,4,891082
+1707,Welch Group,6,Professional Services,Immediate,9,84.17,9,552094
+1708,"Miller, Price and Rogers",3,Professional Services,Immediate,20,98.06,6,2922900
+1709,"Rodriguez, Alexander and Greene",5,IT Services,Advance,29,95.86,4,2831749
+1710,Atkinson Group,3,IT Services,Net 45,17,84.34,8,1905523
+1711,Cook-James,6,Packaging,Advance,22,99.76,4,450167
+1712,Robinson Ltd,6,Packaging,Immediate,30,94.34,3,202789
+1713,Vaughn-Molina,5,Logistics,Immediate,15,98.29,5,831932
+1714,Simmons-Odonnell,4,Marketing,Net 60,44,94.39,3,2602800
+1715,Jones Inc,4,Office Supplies,Net 60,18,72.43,9,775906
+1716,Howard Inc,9,Facilities,Net 60,31,91.14,3,2017327
+1717,"Gallegos, Young and Thornton",10,Professional Services,Immediate,12,75.87,4,381845
+1718,Taylor-Tran,5,Marketing,Net 30,21,78.57,7,559134
+1719,Bauer LLC,4,Logistics,Net 60,7,76.67,6,803363
+1720,Horn-Henderson,2,Electronics,Net 45,32,84.66,1,832717
+1721,Maldonado-Gonzalez,9,Logistics,Immediate,35,98.06,5,2244706
+1722,"Green, Phillips and Roberts",1,Logistics,Net 60,10,93.9,9,312822
+1723,"Thomas, Thompson and Adams",8,Logistics,Net 30,13,78.94,10,2935968
+1724,"Swanson, Hartman and Ponce",5,Marketing,Immediate,9,86.17,5,926648
+1725,Smith-Rodriguez,1,Office Supplies,Immediate,21,71.61,4,1255923
+1726,Stephens Group,5,Marketing,Net 30,32,96.03,3,642808
+1727,Roberts-Gonzales,9,Raw Materials,Net 30,15,85.47,9,620693
+1728,Smith-Arnold,4,IT Services,Immediate,11,98.25,4,368053
+1729,Butler and Sons,3,Manufacturing,Net 45,31,85.32,6,2260231
+1730,"Smith, Lindsey and Brown",4,Logistics,Advance,10,94.24,6,2147868
+1731,Knapp-Macdonald,5,Marketing,Advance,35,91.04,2,2376312
+1732,Lane LLC,2,Facilities,Advance,8,96.11,8,2689958
+1733,"Chapman, Cabrera and Evans",8,Packaging,Net 60,11,79.89,3,2386650
+1734,Oconnor-Singleton,7,Logistics,Net 30,45,79.7,2,914041
+1735,Velez-Huffman,7,Electronics,Net 30,8,78.08,1,1020153
+1736,Sanders-Khan,2,Marketing,Immediate,33,70.05,4,2317113
+1737,Jackson LLC,2,Raw Materials,Immediate,24,71.43,4,2173583
+1738,"Reese, Stewart and Davis",5,Logistics,Advance,31,80.02,2,872375
+1739,Martinez and Sons,8,Manufacturing,Advance,8,91.84,5,932482
+1740,"Newman, Harding and Ortiz",1,Manufacturing,Advance,13,91.93,7,830541
+1741,Santos PLC,1,Manufacturing,Net 60,25,88.77,4,821912
+1742,Moses PLC,9,Logistics,Advance,45,99.87,6,1038101
+1743,Lee PLC,3,Professional Services,Net 60,21,90.62,5,2224676
+1744,Walsh-Johnson,7,Marketing,Net 30,41,75.28,6,2183328
+1745,"Adams, Paul and Jennings",8,Packaging,Immediate,12,72.24,4,1210862
+1746,Marshall-Bradley,1,Logistics,Net 60,26,78.87,7,847996
+1747,"Johnson, Houston and Buchanan",2,Marketing,Net 45,43,86.34,9,801408
+1748,Weaver PLC,4,Electronics,Advance,31,73.29,2,1298226
+1749,"Davis, Hughes and Aguilar",2,Raw Materials,Net 60,33,98.25,4,2922091
+1750,"Benton, Smith and Allen",1,Logistics,Net 60,36,91.62,2,2340122
+1751,"Thornton, Ortiz and Smith",3,Packaging,Net 45,28,97.82,7,2740307
+1752,Ho-Gillespie,3,Raw Materials,Immediate,31,90.76,1,1949739
+1753,Larson-Sanders,3,Raw Materials,Advance,10,84.08,5,2511653
+1754,Jackson Ltd,6,Professional Services,Advance,30,71.19,4,1005984
+1755,Brown LLC,2,Electronics,Net 60,19,79.4,7,1202952
+1756,Harper LLC,3,Packaging,Net 60,14,80.65,6,137065
+1757,"Thompson, Andrews and Rangel",5,Professional Services,Net 30,12,99.38,1,1352099
+1758,Lawrence-Anderson,7,IT Services,Net 30,41,83.15,7,1093308
+1759,"Arnold, Espinoza and Price",3,Logistics,Net 45,6,74.56,8,2322279
+1760,Smith-Anderson,7,Professional Services,Net 45,26,89.55,2,2200831
+1761,"Berry, Patterson and Stokes",3,Raw Materials,Advance,31,97.83,1,1388344
+1762,Lewis-Rose,5,Professional Services,Net 60,23,79.52,5,108615
+1763,Guerrero-Schmidt,4,Packaging,Immediate,38,90.45,7,550055
+1764,Barker-Higgins,7,Office Supplies,Net 45,14,93.58,4,148138
+1765,Collins-Baldwin,3,Marketing,Net 60,37,78.22,3,988941
+1766,"Cohen, Cantu and Adams",9,Logistics,Net 30,22,72.89,5,441389
+1767,Jennings-Turner,3,Manufacturing,Net 60,23,87.54,5,1932057
+1768,Martin Inc,8,Marketing,Net 45,32,78.17,8,1335141
+1769,Bennett and Sons,3,Manufacturing,Net 45,12,71.32,10,208165
+1770,Morgan Group,10,Marketing,Immediate,25,98.4,8,974805
+1771,Lane LLC,6,Electronics,Net 60,7,97.93,7,570326
+1772,"Torres, Jackson and Parker",7,Professional Services,Net 60,41,88.14,4,309967
+1773,Reese Inc,7,Packaging,Net 60,36,82.27,8,925452
+1774,Ramirez-Scott,2,Logistics,Net 60,43,74.93,6,501250
+1775,Brock-Hines,7,Marketing,Immediate,8,95.69,7,2110597
+1776,Hill-Merritt,4,Manufacturing,Net 45,30,90.32,5,147904
+1777,Coleman Inc,7,Office Supplies,Net 60,44,84.11,1,2747421
+1778,Grant-Weeks,9,Office Supplies,Net 45,20,81.87,3,307162
+1779,Kennedy-Powell,5,IT Services,Net 60,12,88.89,6,1355139
+1780,"Diaz, Page and Hernandez",10,Office Supplies,Advance,22,85.81,2,1338099
+1781,Buchanan PLC,10,Electronics,Immediate,15,92.2,8,1279974
+1782,"Kim, Campbell and Smith",4,Electronics,Immediate,35,98.15,5,2166544
+1783,Graves-Jackson,10,Raw Materials,Immediate,44,98.03,6,2551433
+1784,"Brown, Riley and Garcia",8,Packaging,Advance,8,74.96,1,2901638
+1785,Lopez-Flowers,6,Facilities,Net 45,31,74.21,2,2917030
+1786,"Perkins, Rodriguez and Gray",2,Facilities,Advance,32,79.82,4,1006438
+1787,"Thompson, Curry and Clark",9,Electronics,Net 30,8,96.12,2,1448315
+1788,"Solomon, Lee and Taylor",7,Marketing,Net 30,32,85.11,3,2723274
+1789,Martin Ltd,6,Office Supplies,Advance,22,81.94,10,490159
+1790,"Miller, Ross and Rivera",10,Logistics,Net 30,14,83.5,6,967723
+1791,Beltran-Miller,2,Marketing,Net 30,9,97.37,4,2309999
+1792,Martin-Miles,6,Electronics,Net 45,29,78.2,7,2663682
+1793,Long Group,4,Office Supplies,Advance,18,91.46,4,1123870
+1794,Arnold-Ramos,7,Manufacturing,Net 30,41,87.83,9,2092150
+1795,"Campbell, Holmes and Villanueva",8,Professional Services,Net 45,10,88.28,4,2885350
+1796,Atkins LLC,8,Facilities,Advance,37,75.73,5,2740483
+1797,Moody-Charles,2,Packaging,Net 30,28,87.57,2,1575001
+1798,Cortez-Cook,7,Professional Services,Net 60,18,83.58,8,476697
+1799,"Johnson, Rivera and Torres",7,Raw Materials,Net 45,43,81.21,8,2377816
+1800,Salazar Inc,8,Raw Materials,Net 60,9,70.84,8,50830
+1801,"Flores, Barron and Chaney",5,Raw Materials,Immediate,28,78.64,8,2525528
+1802,Freeman-Valdez,7,Manufacturing,Immediate,12,95.94,8,1737714
+1803,Morris-Frazier,1,Manufacturing,Advance,39,74.86,7,2213879
+1804,"Vincent, Shepherd and Leonard",6,Marketing,Advance,21,83.28,10,790616
+1805,Davis and Sons,4,Raw Materials,Net 30,36,70.11,6,827176
+1806,Walker LLC,3,Marketing,Advance,40,81.69,8,1869990
+1807,Sampson-Huff,5,Raw Materials,Immediate,14,84.36,7,1644637
+1808,"Johnston, Williams and Fitzgerald",2,Professional Services,Immediate,9,99.41,2,376595
+1809,Wallace-Pearson,5,Electronics,Immediate,26,75.61,6,2006646
+1810,"Santiago, Matthews and Sloan",7,Office Supplies,Advance,29,82.97,5,2717430
+1811,Tucker Inc,6,Facilities,Advance,42,89.38,10,2369859
+1812,Blake and Sons,8,Office Supplies,Immediate,24,82.36,5,178819
+1813,"Henry, Hoffman and Hartman",10,Logistics,Net 30,40,72.12,3,2716977
+1814,Scott LLC,4,Professional Services,Net 30,20,92.47,4,148650
+1815,"Blair, Wagner and Smith",1,Manufacturing,Advance,44,84.23,9,597787
+1816,Willis-Green,8,Professional Services,Immediate,8,92.56,5,2368684
+1817,Pope and Sons,5,Office Supplies,Net 30,31,77.13,1,2840627
+1818,"Tucker, Reed and Patterson",9,Professional Services,Immediate,26,78.32,9,1920684
+1819,Garza-Wilson,3,Office Supplies,Net 30,42,88.54,4,1635616
+1820,Foster Ltd,4,Office Supplies,Net 30,23,81.09,7,784992
+1821,Anderson-Snyder,3,Manufacturing,Advance,21,74.26,10,474918
+1822,Hudson Ltd,8,Facilities,Net 60,5,74.33,5,1122327
+1823,Calhoun LLC,3,Manufacturing,Net 45,28,73.8,10,2246603
+1824,Hull Group,5,Packaging,Advance,39,96.42,4,388784
+1825,Bass and Sons,5,Office Supplies,Advance,42,93.53,8,2922566
+1826,"Holmes, Ross and Hernandez",4,Manufacturing,Advance,25,78.13,5,1505276
+1827,Lane Group,10,IT Services,Advance,29,82.71,5,1046027
+1828,Trevino LLC,4,Logistics,Immediate,32,73.68,5,2349088
+1829,Weaver-Peterson,1,Office Supplies,Net 60,20,82.32,2,84626
+1830,Keller-Allen,7,Manufacturing,Advance,20,94.24,5,1676762
+1831,Brown PLC,1,Professional Services,Advance,9,86.13,9,1883268
+1832,"Harper, Pierce and Hernandez",6,Marketing,Net 30,23,93.94,1,1488596
+1833,Davis-Rogers,10,Packaging,Net 30,37,94.34,7,1901109
+1834,Montoya-Myers,7,Logistics,Advance,18,97.4,7,2154904
+1835,Guzman-Sanders,3,Raw Materials,Advance,40,80.52,7,2426556
+1836,Wilson LLC,8,Raw Materials,Net 45,19,96.49,7,2592366
+1837,"Lindsey, Gray and Moore",2,Office Supplies,Net 60,33,72.2,2,1687207
+1838,George Group,6,Logistics,Net 30,44,88.9,6,2470948
+1839,Patterson-Campos,8,IT Services,Net 60,18,77.22,8,1013264
+1840,Andersen-Oliver,4,IT Services,Net 30,5,77.64,1,2400032
+1841,Lowe-Wu,6,Professional Services,Net 45,45,70.75,4,2873343
+1842,"Nelson, Decker and Wright",1,IT Services,Net 60,17,79.89,9,697125
+1843,Vaughan PLC,9,IT Services,Net 30,35,79.97,6,2346012
+1844,"Barry, Daniel and Lynch",7,Facilities,Advance,20,73.97,10,2164991
+1845,Stout-Miller,5,Packaging,Net 60,22,87.89,8,2825700
+1846,Hoffman PLC,1,Raw Materials,Net 30,33,77.73,1,2828810
+1847,"Williams, Burton and Barrett",5,Electronics,Immediate,24,71.02,8,2833120
+1848,"Adams, Lewis and Hunter",6,Marketing,Advance,9,75.97,5,1845097
+1849,Johnson-Williams,5,Facilities,Advance,41,86.77,3,685642
+1850,"Stephens, Hernandez and Woods",3,Facilities,Immediate,34,88.24,8,2576680
+1851,Wright Ltd,1,Facilities,Advance,26,77.78,3,905654
+1852,"Munoz, Carter and Griffin",3,Raw Materials,Immediate,40,87.62,10,2646367
+1853,Ortega-Ballard,3,Manufacturing,Advance,27,91.64,1,2300923
+1854,"Duarte, Norman and Pearson",6,Facilities,Net 45,9,84.09,4,1103957
+1855,Robertson Group,5,Packaging,Advance,21,84.19,2,697121
+1856,"Ward, Griffin and Smith",3,Packaging,Net 45,9,95.55,3,1393840
+1857,Wright Ltd,8,Facilities,Advance,37,78.32,2,2217842
+1858,Ball-Stevenson,10,IT Services,Net 30,43,93.04,8,1990417
+1859,Tucker-Banks,1,Packaging,Immediate,15,95.17,9,2030888
+1860,Carr and Sons,1,Raw Materials,Net 45,13,96.7,6,777903
+1861,Carter PLC,1,IT Services,Net 45,36,90.38,8,1258265
+1862,Vargas Inc,3,Logistics,Net 45,19,88.09,5,70542
+1863,"Johnson, Riley and Reed",7,Raw Materials,Net 60,39,74.94,10,181984
+1864,Burton-Johnson,8,Electronics,Immediate,40,87.63,9,443906
+1865,Malone-Guzman,10,Manufacturing,Immediate,22,76.58,3,2252964
+1866,"Harding, King and Hebert",7,Packaging,Immediate,23,85.26,7,2721210
+1867,"Jacobs, Mckinney and Johnson",8,Marketing,Net 45,23,80.9,5,117816
+1868,Johnson-Cummings,6,IT Services,Net 45,18,71.0,5,460627
+1869,"Mitchell, Robinson and Hicks",1,Raw Materials,Net 30,30,83.85,3,2393654
+1870,Murphy PLC,7,Raw Materials,Net 30,7,90.41,2,75472
+1871,Mercado LLC,5,Manufacturing,Net 30,30,83.93,2,2859692
+1872,Brown-Porter,1,Facilities,Immediate,41,79.72,5,127561
+1873,Davenport and Sons,3,Electronics,Net 30,26,92.24,9,2277755
+1874,Summers-Bailey,2,Facilities,Advance,23,72.5,7,188273
+1875,Summers LLC,8,Logistics,Net 45,37,79.85,6,2472341
+1876,Donaldson Ltd,5,Office Supplies,Net 45,15,93.21,6,1074787
+1877,"Smith, Gray and Mckinney",3,Facilities,Immediate,39,83.74,6,1711872
+1878,Dunn-Shields,9,Office Supplies,Immediate,31,86.78,9,1380705
+1879,"Morales, Dean and Myers",2,Electronics,Advance,25,72.21,6,2101866
+1880,Bell LLC,10,Logistics,Advance,43,82.13,9,1181555
+1881,Randolph-Rodriguez,5,Logistics,Immediate,22,72.71,4,670982
+1882,Hurley Inc,10,Electronics,Net 45,9,94.8,6,923737
+1883,Davis PLC,1,Marketing,Immediate,35,98.76,8,2780805
+1884,"Nichols, Howell and Reyes",10,Logistics,Immediate,11,80.69,7,335861
+1885,Gonzalez-Estrada,2,Electronics,Immediate,26,89.3,5,2832435
+1886,Nguyen-Garcia,9,Marketing,Net 45,16,71.91,5,2758027
+1887,"Cox, Thomas and Roberts",9,Professional Services,Net 30,23,82.37,4,2055390
+1888,Aguilar Inc,2,Raw Materials,Net 45,15,82.75,7,1503007
+1889,Duke LLC,10,IT Services,Net 30,20,93.17,1,1941015
+1890,"Berry, Williamson and Vasquez",2,Packaging,Immediate,14,81.69,9,1853309
+1891,"Frank, Callahan and Watson",2,Facilities,Net 30,29,70.92,5,2445713
+1892,Tran-Boyd,6,Electronics,Immediate,20,87.68,5,1588813
+1893,Wilson-Fisher,4,Logistics,Net 45,21,92.32,2,2787123
+1894,"Jones, Brown and Johnson",10,Facilities,Immediate,21,92.44,9,1453512
+1895,"Vang, Smith and Barnes",4,Raw Materials,Net 45,20,95.42,8,1869655
+1896,Campbell Ltd,3,Professional Services,Immediate,20,94.54,7,1893008
+1897,Ellis and Sons,10,Logistics,Immediate,39,83.46,8,2824687
+1898,Howard-Reyes,1,Facilities,Net 60,10,98.78,7,1380565
+1899,"Anderson, Lester and Lawson",2,Professional Services,Net 60,31,85.31,5,2015966
+1900,"Floyd, Baker and Daniel",5,Marketing,Advance,40,71.48,7,1885142
+1901,"Smith, Henderson and Cook",3,Raw Materials,Immediate,44,81.71,1,270597
+1902,"Mccoy, Jones and Turner",1,Marketing,Advance,32,86.41,5,324956
+1903,Shah Ltd,3,Office Supplies,Advance,38,77.78,3,1538962
+1904,"Diaz, Miller and Cooper",2,Marketing,Net 45,40,78.92,6,101298
+1905,"Bates, Jones and Smith",6,Packaging,Net 45,26,90.26,1,787609
+1906,"Lopez, Vazquez and Rivera",5,IT Services,Net 30,39,93.87,5,1181678
+1907,Villegas-Chapman,1,Electronics,Immediate,17,71.78,7,2580377
+1908,"Estes, Chen and Bryant",8,Office Supplies,Net 60,10,97.84,6,706234
+1909,Hansen-Cook,8,IT Services,Net 30,34,95.03,6,1076706
+1910,"Davis, Sanchez and Valdez",4,Professional Services,Net 30,44,70.87,5,1548841
+1911,Glover Ltd,4,Packaging,Advance,39,84.85,2,1395664
+1912,Joyce-Webster,6,Facilities,Net 45,16,74.5,4,1929356
+1913,"Clark, Hall and Hess",2,Logistics,Net 60,37,90.25,5,1106446
+1914,"Hernandez, Santos and Burns",2,Professional Services,Net 30,14,88.03,8,2240872
+1915,Scott and Sons,3,Facilities,Net 30,44,89.76,2,1767344
+1916,"Bennett, Obrien and Williams",8,Professional Services,Net 60,23,83.3,10,1411368
+1917,Romero-Smith,5,Facilities,Net 60,36,99.83,3,1151550
+1918,"Hunt, Flores and White",2,Electronics,Net 45,21,96.81,9,374238
+1919,Avila-Ward,1,Logistics,Advance,23,87.27,10,604291
+1920,Walls-Keith,3,Marketing,Immediate,32,90.25,2,1811170
+1921,"Tucker, Hamilton and Wilkerson",5,Facilities,Advance,27,93.91,6,2373287
+1922,Mcguire LLC,8,Manufacturing,Net 30,16,73.87,2,458471
+1923,Lopez-Brown,1,Electronics,Net 45,32,75.35,10,2598806
+1924,Mcpherson-Taylor,6,Electronics,Net 45,23,81.67,8,1145962
+1925,Miller and Sons,6,Professional Services,Net 30,33,87.29,3,290726
+1926,Rodriguez LLC,9,Facilities,Net 45,7,81.43,2,147205
+1927,"Holt, Miller and Conley",9,Professional Services,Advance,13,80.0,5,1298934
+1928,Bowen Ltd,6,Professional Services,Immediate,42,79.99,5,579287
+1929,Arellano-Moore,2,Office Supplies,Net 30,26,96.27,3,1775801
+1930,Simpson LLC,7,Professional Services,Net 45,40,77.46,7,1652948
+1931,Hicks-Greene,3,Electronics,Net 60,42,91.45,2,166130
+1932,Leonard-Tucker,4,Marketing,Net 45,13,83.49,6,2718120
+1933,Russell LLC,5,Professional Services,Immediate,42,93.28,8,2946052
+1934,"Davis, Rivas and Alvarez",4,Office Supplies,Net 45,24,97.44,6,2963541
+1935,"Deleon, Hooper and Kirk",10,IT Services,Net 45,18,84.8,5,2762774
+1936,Park LLC,2,Raw Materials,Net 60,45,94.97,9,1608516
+1937,Suarez and Sons,1,Professional Services,Net 30,34,80.96,10,1164023
+1938,"Jacobs, Lambert and Calderon",8,Packaging,Net 30,10,87.33,10,862480
+1939,Chapman-Taylor,5,Manufacturing,Net 45,37,74.84,3,2855138
+1940,"Cochran, Fleming and Owens",2,Logistics,Net 60,27,82.18,7,504085
+1941,Henderson Ltd,1,IT Services,Net 45,8,79.51,2,1240468
+1942,Bush-Graham,4,Electronics,Net 60,22,83.72,4,1650295
+1943,"Sullivan, Soto and Molina",1,Office Supplies,Immediate,40,81.81,9,974011
+1944,Golden Ltd,7,Raw Materials,Net 45,33,97.16,4,2218785
+1945,Riggs-Miller,9,Raw Materials,Net 45,15,94.29,6,2115636
+1946,Morris and Sons,8,Electronics,Advance,16,96.82,4,1718861
+1947,Edwards-Fields,7,Marketing,Net 60,28,87.1,1,1719638
+1948,Lin Inc,6,Logistics,Advance,42,82.88,2,2878142
+1949,"Garcia, Williams and Cabrera",10,Office Supplies,Net 30,5,98.33,9,1262200
+1950,Ward-Dean,7,Packaging,Advance,6,99.53,4,717936
+1951,Skinner PLC,10,Marketing,Net 30,11,79.43,5,1587368
+1952,"Mitchell, Holt and Johnston",2,Professional Services,Net 45,33,96.83,9,453005
+1953,Hogan PLC,5,Marketing,Immediate,42,76.01,6,328521
+1954,Hammond-Anderson,4,Electronics,Net 30,43,84.81,8,1288161
+1955,"Odonnell, Smith and Gibbs",2,Logistics,Immediate,17,93.18,2,1648413
+1956,Salazar-Luna,5,IT Services,Net 30,16,98.19,3,408795
+1957,Smith Inc,6,Logistics,Advance,13,99.53,3,670376
+1958,Foley PLC,3,Manufacturing,Net 45,18,88.86,1,2626351
+1959,Simpson Inc,6,Professional Services,Immediate,37,80.32,9,836454
+1960,"Conrad, Horton and Andrews",6,Professional Services,Immediate,5,80.88,8,1238109
+1961,Smith-Bruce,2,Raw Materials,Advance,34,72.09,3,1867980
+1962,"Walsh, Johnson and Rodriguez",9,Office Supplies,Immediate,12,74.98,2,2742039
+1963,"Brooks, Chavez and Brown",10,Professional Services,Net 30,41,85.8,2,413168
+1964,Johnston Inc,4,Professional Services,Immediate,25,80.79,7,2018306
+1965,"Watkins, King and Henderson",8,Manufacturing,Immediate,28,72.47,1,1156858
+1966,Morales-Trevino,2,Electronics,Net 45,45,99.45,3,1408855
+1967,"Marshall, Tucker and Cox",5,Facilities,Immediate,18,84.79,3,2549403
+1968,Graham-Robinson,8,Professional Services,Net 30,18,99.11,8,2715951
+1969,White and Sons,1,Packaging,Net 30,36,98.44,6,2302986
+1970,Benson PLC,10,Packaging,Advance,11,86.59,8,2256968
+1971,Lee LLC,3,Facilities,Net 45,44,74.54,4,215427
+1972,Clark-Smith,1,Marketing,Immediate,12,83.75,8,918130
+1973,"Johnson, Mercer and Scott",10,Marketing,Net 60,8,97.39,9,1098032
+1974,"Browning, Mckinney and Watkins",3,Raw Materials,Net 30,6,91.35,6,1744668
+1975,Young-Vaughan,7,Electronics,Immediate,34,91.6,5,2840212
+1976,Mcintyre Ltd,1,Electronics,Net 30,6,97.84,8,660070
+1977,Martinez-Davis,2,Office Supplies,Advance,13,91.48,7,1393564
+1978,Anderson-Hodge,1,IT Services,Advance,43,70.25,6,2312754
+1979,Hurst LLC,6,Facilities,Immediate,32,94.66,2,1573667
+1980,Peterson-Patel,7,Professional Services,Advance,20,88.83,5,309692
+1981,Burton-Yates,4,Electronics,Advance,32,75.69,7,1216499
+1982,"Caldwell, Stanley and Ford",10,Professional Services,Net 30,11,74.75,9,1938803
+1983,Jackson-Smith,2,Marketing,Net 45,27,77.53,5,1946541
+1984,David LLC,7,Marketing,Net 45,27,73.9,10,1861513
+1985,Morales-Calhoun,8,Raw Materials,Net 60,7,88.93,5,1036378
+1986,"Ingram, Watson and Stokes",5,Marketing,Immediate,37,88.69,3,1274228
+1987,Howe Ltd,10,Facilities,Net 30,40,82.0,10,2921726
+1988,Johnson-Mccall,7,Manufacturing,Net 45,33,76.76,9,1090783
+1989,Hicks-Adams,4,Professional Services,Advance,17,88.65,8,2774035
+1990,"Ramirez, Cummings and Perry",8,Raw Materials,Net 30,15,85.43,10,822337
+1991,"Adams, Cobb and Spencer",9,Raw Materials,Net 60,37,75.73,8,2937198
+1992,"Bowman, Peterson and Jones",4,Office Supplies,Immediate,37,88.18,1,1355885
+1993,"Johnson, Cervantes and Hanna",4,Electronics,Net 60,27,97.69,4,845411
+1994,Lynch and Sons,3,Facilities,Immediate,24,89.78,10,1239120
+1995,Coleman LLC,9,Manufacturing,Immediate,34,81.67,8,1121166
+1996,"Kelly, Caldwell and Baker",6,Facilities,Advance,24,77.97,2,1845227
+1997,Irwin Group,1,Office Supplies,Net 60,32,90.25,7,684958
+1998,"Ross, Robinson and Holder",3,Logistics,Net 60,23,95.73,7,2743921
+1999,Fox-Wilson,9,Raw Materials,Advance,5,84.96,4,2587549
+2000,Daniels-Le,3,Office Supplies,Net 30,14,95.1,8,230401

@@ -1,0 +1,11 @@
+Country_ID,Country_Name,Region,Risk_Level
+1,United States,North America,Low
+2,Canada,North America,Low
+3,Germany,Europe,Low
+4,United Kingdom,Europe,Low
+5,France,Europe,Low
+6,India,Asia,Medium
+7,China,Asia,Medium
+8,Japan,Asia,Low
+9,Brazil,South America,Medium
+10,Mexico,North America,Medium

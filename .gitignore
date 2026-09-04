@@ -1,0 +1,29 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code local settings
+.vscode/
+
+# Temporary files
+*.log
+
+# Environment / secrets
+.env
+.env.*
+
+# Matplotlib cache
+.matplotlib/
+
+# Generated SQLite database
+enterprise_procurement.db

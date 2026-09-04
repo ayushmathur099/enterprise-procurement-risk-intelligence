@@ -1,0 +1,2001 @@
+Product_ID,Supplier_ID,Product_Name,Category,Unit_Cost,MOQ,Annual_Demand
+5001,1451,Accept Product,Furniture,2639.04,149,4653
+5002,1896,Loss Product,Electronics,4112.68,432,12264
+5003,1619,Activity Product,Software License,4286.01,70,2138
+5004,1047,Relate Product,Furniture,2880.19,137,10778
+5005,1620,Myself Product,Software License,3792.53,161,14343
+5006,1002,Movie Product,Raw Material,4694.37,499,13638
+5007,1579,Travel Product,Networking,389.57,287,1114
+5008,1093,Trade Product,Furniture,617.78,314,12029
+5009,1109,Force Product,Packaging,3009.24,91,8235
+5010,1857,Artist Product,Packaging,2219.88,371,10087
+5011,1700,Sister Product,Networking,3220.24,300,14076
+5012,1029,Make Product,Server,3311.18,499,11276
+5013,1521,Analysis Product,Office Equipment,4902.8,122,826
+5014,1959,Approach Product,Electronics,685.7,294,3277
+5015,1941,Stock Product,Furniture,4120.88,51,3817
+5016,1588,Unit Product,Laptop,2028.45,69,12739
+5017,1273,Have Product,Raw Material,462.77,36,4216
+5018,1034,Body Product,Office Equipment,601.06,162,14205
+5019,1538,Store Product,Office Equipment,1751.8,253,6419
+5020,1004,Type Product,Networking,632.94,98,10136
+5021,1924,Provide Product,Electronics,3467.81,118,3063
+5022,1367,Price Product,Electronics,2996.09,403,1651
+5023,1749,Region Product,Raw Material,2315.31,235,6425
+5024,1103,Record Product,Furniture,1952.61,423,734
+5025,1892,Admit Product,Electronics,1780.01,496,10137
+5026,1993,View Product,Software License,738.11,196,4801
+5027,1903,South Product,Raw Material,3597.72,256,14456
+5028,1577,Tonight Product,Industrial Parts,3731.88,162,728
+5029,1659,Exist Product,Raw Material,630.29,58,7642
+5030,1156,Life Product,Packaging,3314.42,124,4205
+5031,1402,Movie Product,Electronics,197.08,185,5035
+5032,1575,Project Product,Networking,3412.67,259,4245
+5033,1570,Sure Product,Server,4736.15,157,11152
+5034,1675,Pressure Product,Raw Material,1164.94,45,4836
+5035,1994,Job Product,Furniture,2007.89,160,4260
+5036,1903,Job Product,Industrial Parts,2411.62,495,13891
+5037,1705,Not Product,Electronics,4579.94,255,9740
+5038,1836,Everything Product,Networking,803.05,71,2691
+5039,1455,Animal Product,Server,1930.6,170,13170
+5040,1340,Democrat Product,Electronics,1927.7,127,4903
+5041,1804,Recognize Product,Furniture,4552.57,482,14528
+5042,1294,Second Product,Laptop,1998.67,22,14074
+5043,1592,Health Product,Office Equipment,2812.7,311,6456
+5044,1289,Continue Product,Furniture,843.32,36,11004
+5045,1490,Some Product,Office Equipment,4780.59,100,9280
+5046,1797,Positive Product,Raw Material,4752.56,417,11655
+5047,1169,Member Product,Packaging,2933.52,49,10757
+5048,1682,Long Product,Industrial Parts,4688.57,354,5915
+5049,1837,Mr Product,Networking,2859.84,471,5673
+5050,1241,Yeah Product,Furniture,509.05,328,12668
+5051,1985,Necessary Product,Software License,2691.51,161,11613
+5052,1766,Lot Product,Raw Material,2608.8,255,13640
+5053,1616,Cultural Product,Industrial Parts,2958.09,113,4439
+5054,1927,Medical Product,Office Equipment,2110.98,473,13598
+5055,1195,Forget Product,Packaging,2048.82,122,6852
+5056,1961,Different Product,Office Equipment,2208.47,40,8382
+5057,1145,Themselves Product,Raw Material,4144.69,356,454
+5058,1372,Doctor Product,Office Equipment,777.98,68,761
+5059,1516,Understand Product,Raw Material,2920.09,128,8276
+5060,1331,Method Product,Networking,490.12,181,13810
+5061,1793,Role Product,Server,2184.48,340,12686
+5062,1083,Ahead Product,Software License,455.96,494,1364
+5063,1579,Fill Product,Server,3668.39,39,3808
+5064,1120,A Product,Raw Material,3118.79,487,13396
+5065,1540,State Product,Industrial Parts,3568.38,84,13877
+5066,1488,Language Product,Laptop,3517.55,22,6091
+5067,1306,Health Product,Server,2129.61,231,5007
+5068,1941,Travel Product,Networking,2657.48,27,10374
+5069,1916,Mention Product,Networking,660.67,306,10335
+5070,1551,Oil Product,Office Equipment,4467.46,469,4247
+5071,1934,Place Product,Raw Material,1753.23,180,1860
+5072,1614,Participant Product,Electronics,1841.6,68,14341
+5073,1318,School Product,Networking,943.46,336,203
+5074,1464,Identify Product,Raw Material,1640.27,320,2750
+5075,1695,It Product,Laptop,1003.93,358,2863
+5076,1155,Message Product,Office Equipment,267.78,215,1760
+5077,1138,Early Product,Networking,2305.01,139,13262
+5078,1474,Exactly Product,Industrial Parts,3420.53,192,7992
+5079,1217,Yard Product,Industrial Parts,1040.14,267,4974
+5080,1966,Trip Product,Industrial Parts,669.98,387,8420
+5081,1013,Letter Product,Raw Material,3432.53,459,6064
+5082,1077,Those Product,Software License,2394.23,382,10650
+5083,1417,Ten Product,Electronics,1669.17,264,7703
+5084,1235,Natural Product,Networking,802.89,194,11276
+5085,1215,They Product,Furniture,3086.35,351,12084
+5086,1830,Design Product,Furniture,1287.6,426,6343
+5087,1531,Threat Product,Server,4480.14,342,14339
+5088,1760,Trade Product,Furniture,647.2,361,2537
+5089,1347,Himself Product,Server,4974.16,295,7620
+5090,1894,Final Product,Packaging,3714.74,468,13135
+5091,1461,Product Product,Networking,3701.45,214,4718
+5092,1546,Project Product,Server,3888.77,355,14187
+5093,1375,Break Product,Office Equipment,2950.89,474,605
+5094,1277,Possible Product,Packaging,1069.24,327,7689
+5095,1304,Right Product,Software License,1290.43,58,13804
+5096,1344,Purpose Product,Electronics,3576.12,261,5279
+5097,1502,Thing Product,Raw Material,4997.54,133,6426
+5098,1453,Situation Product,Server,4467.68,248,7628
+5099,1592,Return Product,Office Equipment,2140.25,67,4240
+5100,1166,Laugh Product,Electronics,1830.78,287,10673
+5101,1817,While Product,Software License,700.15,95,1229
+5102,1121,Though Product,Electronics,2576.21,285,5241
+5103,1528,Magazine Product,Server,1777.45,455,11204
+5104,1759,Require Product,Furniture,1851.59,455,4986
+5105,1058,Goal Product,Laptop,567.68,476,3981
+5106,1758,Class Product,Networking,4704.12,115,14965
+5107,1879,Red Product,Software License,4467.28,352,12685
+5108,1588,Per Product,Industrial Parts,2674.52,78,195
+5109,1812,Call Product,Networking,2140.28,498,4443
+5110,1856,Suffer Product,Networking,2674.4,191,14469
+5111,1162,Five Product,Furniture,3052.19,323,412
+5112,1801,Notice Product,Laptop,4530.6,210,14944
+5113,1397,Character Product,Packaging,3061.24,223,5628
+5114,1713,Nation Product,Industrial Parts,3566.45,262,4396
+5115,1531,Energy Product,Raw Material,4971.06,470,10515
+5116,1406,Their Product,Packaging,3667.9,303,5708
+5117,1279,Question Product,Raw Material,1025.34,457,6057
+5118,1525,Next Product,Networking,4865.66,103,7773
+5119,1156,Quite Product,Networking,848.94,251,11571
+5120,1356,Charge Product,Software License,1170.91,383,7694
+5121,1895,Hear Product,Electronics,3737.74,296,6571
+5122,1842,Matter Product,Packaging,1664.25,62,2347
+5123,1917,Democratic Product,Electronics,4819.29,255,13061
+5124,1999,Might Product,Laptop,4110.33,114,11093
+5125,1998,Husband Product,Electronics,1172.86,153,13689
+5126,1411,Increase Product,Industrial Parts,3156.88,142,12195
+5127,1032,Than Product,Raw Material,2950.09,121,4150
+5128,1347,Song Product,Electronics,2608.54,482,1931
+5129,1899,Teacher Product,Office Equipment,2619.74,389,12379
+5130,1535,Space Product,Office Equipment,1780.51,86,2789
+5131,1379,Family Product,Office Equipment,148.6,188,5518
+5132,1811,Feeling Product,Software License,330.77,90,4406
+5133,1766,Condition Product,Packaging,4605.3,418,9408
+5134,1285,Role Product,Laptop,2626.04,137,1801
+5135,1246,Direction Product,Server,3731.58,305,11519
+5136,1515,Successful Product,Electronics,4905.08,61,2500
+5137,1559,Color Product,Software License,2560.69,233,13227
+5138,1472,Country Product,Networking,1492.48,181,10265
+5139,1286,Growth Product,Raw Material,2427.0,475,975
+5140,1855,Inside Product,Laptop,3134.53,72,13210
+5141,1303,Appear Product,Industrial Parts,1991.4,175,1164
+5142,1406,Author Product,Packaging,4769.9,91,10008
+5143,1583,Long Product,Software License,2701.46,280,969
+5144,1289,Another Product,Server,4710.05,132,13511
+5145,1297,Source Product,Office Equipment,2359.31,47,10512
+5146,1872,Hour Product,Networking,2776.78,126,12312
+5147,1769,Camera Product,Office Equipment,4170.41,447,12461
+5148,1774,Test Product,Packaging,4679.24,400,14204
+5149,1944,Raise Product,Raw Material,1165.42,47,8451
+5150,1999,Among Product,Networking,1942.18,271,1842
+5151,1743,Civil Product,Electronics,3598.09,447,787
+5152,1743,Remain Product,Server,2707.11,425,9138
+5153,1224,Year Product,Raw Material,4182.89,399,3521
+5154,1718,City Product,Server,2558.49,314,4675
+5155,1706,Against Product,Packaging,404.21,63,1759
+5156,1720,Measure Product,Raw Material,1581.3,472,14283
+5157,1312,Word Product,Server,760.98,257,2967
+5158,1579,Power Product,Electronics,4100.88,172,7451
+5159,1608,Grow Product,Server,1907.98,359,7651
+5160,1636,Turn Product,Industrial Parts,526.18,275,588
+5161,1595,Phone Product,Industrial Parts,3748.69,144,9793
+5162,1955,Social Product,Office Equipment,1280.97,489,10489
+5163,1772,Into Product,Server,1424.26,205,8299
+5164,1284,Water Product,Office Equipment,3119.82,452,7342
+5165,1812,Network Product,Raw Material,2317.27,32,10562
+5166,1509,Building Product,Office Equipment,1277.86,72,12897
+5167,1152,Religious Product,Packaging,4832.54,473,7870
+5168,1840,Teacher Product,Packaging,3357.22,44,3809
+5169,1164,Rather Product,Office Equipment,2973.84,407,12826
+5170,1699,Six Product,Electronics,4726.34,159,14416
+5171,1298,Threat Product,Server,3363.46,69,12891
+5172,1993,Catch Product,Software License,737.7,291,8476
+5173,1745,Well Product,Server,4137.02,63,4538
+5174,1366,Pass Product,Software License,4083.1,349,12845
+5175,1729,Nice Product,Packaging,1131.0,273,6148
+5176,1945,Probably Product,Server,3135.99,79,14113
+5177,1894,White Product,Industrial Parts,4589.43,313,11798
+5178,1794,Future Product,Furniture,3545.11,136,7459
+5179,1261,Especially Product,Packaging,2998.06,152,763
+5180,1373,Billion Product,Software License,290.95,189,9912
+5181,1225,Plant Product,Office Equipment,3707.97,376,10358
+5182,1035,East Product,Furniture,1306.19,462,10334
+5183,1285,What Product,Laptop,2419.8,342,1298
+5184,1703,Look Product,Electronics,4796.2,455,4995
+5185,1217,Well Product,Networking,2640.53,91,4310
+5186,1752,Leg Product,Networking,4093.07,443,2298
+5187,1651,Blue Product,Office Equipment,190.57,101,10376
+5188,1167,Camera Product,Industrial Parts,1958.04,323,13002
+5189,1196,Receive Product,Laptop,987.85,90,10564
+5190,1118,Camera Product,Laptop,2478.63,115,2746
+5191,1221,Term Product,Furniture,2906.39,287,4962
+5192,1823,Marriage Product,Raw Material,2285.51,92,5928
+5193,1225,Before Product,Office Equipment,4092.34,464,2167
+5194,1217,Value Product,Software License,1700.49,61,7331
+5195,1747,Outside Product,Packaging,1012.42,364,10984
+5196,1164,Head Product,Electronics,1938.27,42,9679
+5197,1526,American Product,Industrial Parts,4282.93,370,12615
+5198,1682,Effort Product,Furniture,54.19,206,9625
+5199,1792,Show Product,Software License,1761.59,206,5209
+5200,1140,Policy Product,Laptop,1617.62,233,12860
+5201,1756,Join Product,Laptop,4959.16,268,1451
+5202,1345,Live Product,Office Equipment,1697.61,195,3110
+5203,1675,Training Product,Software License,3032.95,232,3154
+5204,1295,Guy Product,Server,1533.71,165,5259
+5205,1100,Small Product,Server,2803.71,39,5865
+5206,1870,Woman Product,Industrial Parts,4920.81,372,3602
+5207,1412,Fine Product,Furniture,2496.58,328,2400
+5208,1682,Dog Product,Electronics,3617.76,362,2847
+5209,1255,On Product,Server,3041.65,352,7556
+5210,1970,Quality Product,Software License,4335.32,367,9312
+5211,1604,Run Product,Raw Material,567.93,426,1311
+5212,1137,Data Product,Software License,841.15,84,8894
+5213,1136,Police Product,Laptop,2640.74,410,14165
+5214,1048,Carry Product,Raw Material,1422.46,120,5610
+5215,1190,Tv Product,Raw Material,4681.33,78,1523
+5216,1138,Dinner Product,Software License,527.11,35,878
+5217,1105,Matter Product,Laptop,2185.67,53,13792
+5218,1388,Plan Product,Server,959.66,392,4146
+5219,1814,According Product,Packaging,2687.72,267,5914
+5220,1377,Example Product,Packaging,3848.27,494,867
+5221,1701,Either Product,Office Equipment,347.49,179,12748
+5222,1518,This Product,Furniture,4038.38,146,1684
+5223,1709,Technology Product,Networking,2939.33,180,2567
+5224,1796,Large Product,Networking,1541.49,479,11126
+5225,1774,Wind Product,Networking,4907.76,292,136
+5226,1396,Adult Product,Furniture,2467.19,302,6707
+5227,1031,Accept Product,Electronics,215.31,16,2377
+5228,1569,Few Product,Software License,2279.46,447,13561
+5229,1755,Debate Product,Networking,1290.93,225,5961
+5230,1884,Dream Product,Software License,1777.81,341,10620
+5231,1633,Away Product,Software License,2719.5,22,6989
+5232,1766,Different Product,Software License,818.41,32,13242
+5233,1430,Process Product,Software License,4298.26,412,9113
+5234,1632,Author Product,Packaging,2012.39,24,496
+5235,1011,Interesting Product,Software License,1801.22,444,4176
+5236,1338,Position Product,Raw Material,1808.39,219,1298
+5237,1790,Company Product,Raw Material,4451.12,430,11919
+5238,1982,Value Product,Electronics,1738.37,49,14838
+5239,1903,Less Product,Server,4104.21,80,2644
+5240,1710,Analysis Product,Industrial Parts,3731.06,88,12991
+5241,1687,Son Product,Raw Material,1036.2,300,11771
+5242,1223,State Product,Industrial Parts,3747.68,324,13770
+5243,1329,College Product,Server,4266.68,242,6169
+5244,1997,Determine Product,Packaging,1220.07,189,14718
+5245,1602,Cell Product,Networking,3044.0,370,4590
+5246,1845,Or Product,Electronics,211.56,276,9271
+5247,1048,Message Product,Server,4415.82,195,14775
+5248,1068,Natural Product,Electronics,515.53,219,9738
+5249,1067,Rise Product,Laptop,1429.09,99,12281
+5250,1703,Positive Product,Packaging,2336.32,422,5690
+5251,1641,Concern Product,Packaging,4534.08,266,11675
+5252,1120,Last Product,Raw Material,2420.02,143,14788
+5253,1346,Certainly Product,Office Equipment,1502.52,236,8213
+5254,1901,Information Product,Furniture,1712.37,290,943
+5255,1280,While Product,Laptop,2873.3,118,3674
+5256,1193,Tell Product,Server,1091.2,261,13432
+5257,1220,Task Product,Raw Material,4899.17,258,14600
+5258,1149,Walk Product,Laptop,3867.64,249,5682
+5259,1207,Yeah Product,Networking,2828.51,279,13865
+5260,1366,Notice Product,Electronics,2811.31,91,13867
+5261,1456,Special Product,Raw Material,585.55,305,7242
+5262,1551,Blood Product,Server,4031.01,440,8394
+5263,1640,Real Product,Furniture,1476.99,359,6199
+5264,1449,Executive Product,Packaging,999.29,471,12719
+5265,1628,Southern Product,Server,511.52,210,5178
+5266,1297,Education Product,Laptop,3068.11,45,4682
+5267,1966,Kitchen Product,Networking,2660.45,342,7920
+5268,1867,Whether Product,Packaging,3928.98,63,11687
+5269,1073,Energy Product,Networking,4222.13,403,6720
+5270,1467,Assume Product,Networking,3426.39,401,12717
+5271,1775,Learn Product,Office Equipment,308.23,304,3432
+5272,1705,Bad Product,Industrial Parts,2016.24,299,12829
+5273,1907,Especially Product,Electronics,4457.41,377,3577
+5274,1571,Among Product,Networking,4748.6,28,8465
+5275,1032,Happen Product,Furniture,437.35,346,4023
+5276,1773,His Product,Electronics,1477.8,399,13708
+5277,1183,Alone Product,Server,4352.01,165,12745
+5278,1027,You Product,Laptop,2657.99,237,11812
+5279,1556,Though Product,Server,209.69,394,8215
+5280,1600,See Product,Electronics,1223.97,288,3161
+5281,1701,Read Product,Networking,1924.38,489,3499
+5282,1751,Receive Product,Office Equipment,1764.3,159,13316
+5283,1958,Change Product,Laptop,1211.82,436,2228
+5284,1691,Thus Product,Laptop,2716.48,479,10381
+5285,1651,Up Product,Furniture,2672.59,126,10163
+5286,1567,Easy Product,Raw Material,2184.19,407,858
+5287,1165,Then Product,Office Equipment,2938.31,30,4736
+5288,1850,State Product,Server,2960.32,318,10106
+5289,1212,Keep Product,Furniture,1692.92,171,9039
+5290,1573,Minute Product,Packaging,2794.35,376,8668
+5291,1576,If Product,Raw Material,1230.02,83,13886
+5292,1105,Likely Product,Packaging,3428.85,482,9003
+5293,1474,Reveal Product,Office Equipment,3935.22,385,10818
+5294,1778,Letter Product,Industrial Parts,4196.18,342,868
+5295,1957,Whose Product,Server,2818.05,77,8447
+5296,1169,Here Product,Packaging,1054.98,219,11871
+5297,1836,Seem Product,Laptop,3779.19,78,7539
+5298,1221,Recently Product,Raw Material,1596.03,22,5579
+5299,1878,Research Product,Packaging,2910.44,249,5183
+5300,1603,Picture Product,Office Equipment,1254.7,127,7191
+5301,1686,Late Product,Networking,4300.74,325,6232
+5302,1040,This Product,Industrial Parts,1471.79,65,11547
+5303,1026,Feeling Product,Furniture,3381.66,136,1619
+5304,1209,Section Product,Networking,4665.42,489,2899
+5305,1165,Purpose Product,Networking,3241.51,280,4247
+5306,1064,Usually Product,Packaging,1699.93,177,8342
+5307,1440,Early Product,Laptop,4834.15,428,9232
+5308,1383,Military Product,Networking,235.72,181,14178
+5309,1343,Type Product,Laptop,386.71,415,9277
+5310,1645,Successful Product,Furniture,3972.66,422,14897
+5311,1079,Green Product,Software License,3797.81,410,7770
+5312,1134,Election Product,Electronics,1119.83,473,13473
+5313,1959,Move Product,Packaging,2954.61,302,12923
+5314,1096,Tonight Product,Furniture,3643.94,271,2081
+5315,1803,Understand Product,Office Equipment,62.94,164,7579
+5316,1949,Above Product,Software License,2273.46,362,9055
+5317,1848,Participant Product,Office Equipment,1833.54,248,6887
+5318,1426,Standard Product,Packaging,1580.26,298,13712
+5319,1959,Feel Product,Software License,4657.04,215,3641
+5320,1237,The Product,Industrial Parts,3025.29,476,3016
+5321,1734,Office Product,Laptop,2004.77,99,14800
+5322,1999,Country Product,Server,2301.9,15,6588
+5323,1922,Run Product,Office Equipment,1180.37,484,824
+5324,1813,Baby Product,Electronics,320.05,150,10876
+5325,1911,A Product,Laptop,1870.93,39,6518
+5326,1333,Purpose Product,Raw Material,3755.85,31,14359
+5327,1792,Person Product,Networking,3091.03,10,12659
+5328,1147,Even Product,Office Equipment,477.87,75,10479
+5329,1165,Pm Product,Laptop,4196.28,87,8002
+5330,1540,History Product,Server,3057.62,253,11048
+5331,1924,Really Product,Software License,1152.82,137,10356
+5332,1028,Next Product,Industrial Parts,3912.03,123,3415
+5333,1420,Visit Product,Industrial Parts,2398.75,14,7456
+5334,1050,Work Product,Raw Material,1584.5,340,11023
+5335,1646,Time Product,Software License,2293.37,100,9818
+5336,1138,Pm Product,Laptop,339.32,131,13054
+5337,1358,Know Product,Raw Material,1327.09,345,8352
+5338,1589,Industry Product,Office Equipment,1199.74,478,9018
+5339,1547,Pass Product,Industrial Parts,3613.21,406,1812
+5340,1552,Nice Product,Software License,840.02,346,7271
+5341,1681,Above Product,Electronics,1310.28,149,419
+5342,1388,Network Product,Electronics,1741.61,195,7587
+5343,1689,Simply Product,Furniture,4146.37,34,828
+5344,1171,Billion Product,Electronics,4995.64,298,7946
+5345,1733,Single Product,Furniture,4474.32,52,2421
+5346,1674,Admit Product,Laptop,1830.15,449,1381
+5347,1102,Medical Product,Industrial Parts,1399.69,277,2850
+5348,1006,Treatment Product,Industrial Parts,2857.42,249,9676
+5349,1715,My Product,Electronics,1563.29,318,8798
+5350,1254,Drug Product,Furniture,4435.74,240,12775
+5351,1586,Someone Product,Raw Material,2581.33,242,577
+5352,1617,Safe Product,Electronics,4586.19,346,3999
+5353,1519,Care Product,Networking,231.31,166,4407
+5354,1281,Herself Product,Industrial Parts,3561.64,16,14612
+5355,1352,Hard Product,Office Equipment,3115.1,354,12265
+5356,1863,Friend Product,Networking,2773.5,342,11688
+5357,1759,Girl Product,Industrial Parts,4966.89,397,14332
+5358,1701,Trade Product,Raw Material,2974.3,321,4129
+5359,1748,Letter Product,Office Equipment,3880.71,402,9532
+5360,1360,Technology Product,Server,3110.04,475,7226
+5361,1808,Here Product,Industrial Parts,461.83,152,3785
+5362,1418,Case Product,Server,2106.47,374,14292
+5363,1401,Accept Product,Laptop,4589.77,191,11029
+5364,1178,Care Product,Software License,493.15,57,2939
+5365,1497,Magazine Product,Software License,4328.21,281,3910
+5366,1401,Business Product,Server,511.82,291,8082
+5367,1283,Require Product,Software License,1992.9,314,4337
+5368,1597,Then Product,Software License,1301.48,282,14027
+5369,1326,Most Product,Furniture,3934.78,185,9801
+5370,1280,And Product,Electronics,4558.64,41,5098
+5371,1884,Third Product,Software License,3648.42,175,289
+5372,1531,Of Product,Office Equipment,2886.35,233,7539
+5373,1374,Smile Product,Office Equipment,3824.75,436,4746
+5374,1579,Lot Product,Networking,971.51,185,9362
+5375,1890,Nearly Product,Furniture,2677.5,246,11295
+5376,1215,According Product,Electronics,4762.86,40,8751
+5377,1996,Pull Product,Laptop,1610.56,439,4254
+5378,1100,Walk Product,Furniture,3633.75,264,11923
+5379,1810,Your Product,Networking,282.85,462,6755
+5380,1578,Real Product,Electronics,2027.78,38,3226
+5381,1853,Down Product,Software License,4895.79,425,381
+5382,1309,Difference Product,Furniture,1166.71,49,4914
+5383,1662,Than Product,Software License,1342.2,358,7018
+5384,1484,Individual Product,Industrial Parts,334.72,32,11981
+5385,1219,Start Product,Software License,2001.96,257,8012
+5386,1101,Write Product,Industrial Parts,2016.13,228,8581
+5387,1198,Fear Product,Laptop,2424.96,500,13958
+5388,1459,Table Product,Software License,1690.71,451,12641
+5389,1717,Finish Product,Software License,3124.02,285,12679
+5390,1553,Theory Product,Packaging,3621.6,244,9608
+5391,1464,However Product,Industrial Parts,3989.35,468,8969
+5392,1397,Western Product,Server,408.03,44,13494
+5393,1628,International Product,Software License,4299.5,76,143
+5394,1970,Ability Product,Office Equipment,72.4,425,13615
+5395,1478,Artist Product,Raw Material,4581.4,59,10642
+5396,1815,Mean Product,Raw Material,4475.33,465,13851
+5397,1342,So Product,Raw Material,4228.04,124,7371
+5398,1174,Staff Product,Software License,3332.17,389,8854
+5399,1753,Pattern Product,Packaging,2977.3,420,2744
+5400,1927,Response Product,Raw Material,4373.59,136,9927
+5401,1673,Style Product,Office Equipment,1149.51,230,10930
+5402,1840,Size Product,Packaging,1829.27,175,6904
+5403,1047,Itself Product,Server,4837.52,72,11029
+5404,1818,Program Product,Packaging,4759.74,494,13646
+5405,1042,Make Product,Software License,2179.63,62,5990
+5406,1728,Every Product,Electronics,1355.14,255,9591
+5407,1995,Through Product,Industrial Parts,411.91,95,5630
+5408,1517,Employee Product,Furniture,813.25,467,3599
+5409,1666,Whose Product,Raw Material,4233.88,250,8813
+5410,1295,Culture Product,Networking,2868.14,436,4572
+5411,1632,Ball Product,Raw Material,3886.53,374,8840
+5412,1356,Large Product,Server,982.21,224,10918
+5413,1755,Result Product,Server,4144.27,308,360
+5414,1637,Security Product,Server,3173.42,425,12028
+5415,1567,Hear Product,Raw Material,4896.85,160,1470
+5416,1325,Charge Product,Raw Material,1941.66,218,13026
+5417,1951,Break Product,Server,4214.76,499,11712
+5418,1995,Radio Product,Software License,1394.52,23,1757
+5419,1016,Window Product,Electronics,4685.18,26,6173
+5420,1235,Machine Product,Furniture,1980.5,292,2598
+5421,1151,Blue Product,Raw Material,2994.3,65,14031
+5422,1908,Ready Product,Software License,3293.8,83,12964
+5423,1251,Operation Product,Networking,277.78,181,5320
+5424,1464,Toward Product,Furniture,2750.34,379,10716
+5425,1734,Type Product,Office Equipment,4580.15,20,6385
+5426,1595,Music Product,Office Equipment,1864.17,171,7767
+5427,1837,Inside Product,Networking,756.68,305,9313
+5428,1089,Decade Product,Packaging,3113.08,144,6163
+5429,1936,Behavior Product,Software License,2860.69,50,4100
+5430,1111,Capital Product,Software License,4777.33,339,7067
+5431,1288,Have Product,Networking,3519.74,382,12209
+5432,1230,Conference Product,Packaging,4102.26,69,13911
+5433,1133,Future Product,Laptop,1288.18,164,9009
+5434,1879,Drop Product,Industrial Parts,3100.39,308,12067
+5435,1144,Whom Product,Laptop,1571.92,500,7224
+5436,1318,Article Product,Industrial Parts,1017.76,295,3341
+5437,1024,Campaign Product,Networking,1152.38,415,12468
+5438,1102,Son Product,Server,1840.03,455,8460
+5439,1698,Human Product,Networking,464.69,278,585
+5440,1484,Adult Product,Packaging,3022.63,180,13652
+5441,1116,Early Product,Laptop,2469.86,482,1188
+5442,1122,Network Product,Electronics,4456.37,51,12914
+5443,1616,Door Product,Packaging,4630.45,422,14470
+5444,1607,Pass Product,Office Equipment,1163.51,117,14363
+5445,1203,Decade Product,Networking,1075.79,159,5856
+5446,1724,Source Product,Office Equipment,1542.3,266,9792
+5447,1174,Into Product,Networking,4736.42,345,7311
+5448,1216,Activity Product,Server,1061.57,215,3450
+5449,1389,Finally Product,Packaging,4091.2,472,476
+5450,1201,Leader Product,Raw Material,2470.77,119,6388
+5451,1282,Usually Product,Raw Material,155.84,433,10960
+5452,1112,Manage Product,Furniture,1150.5,450,305
+5453,1908,Argue Product,Furniture,3044.3,13,8945
+5454,1625,Reveal Product,Packaging,4653.99,315,3449
+5455,1867,Tv Product,Electronics,1086.68,222,8337
+5456,1938,Significant Product,Industrial Parts,2981.0,153,3330
+5457,1714,Discuss Product,Server,1615.7,308,13696
+5458,1472,Congress Product,Laptop,4561.52,383,5500
+5459,1150,Officer Product,Server,1526.24,216,2564
+5460,1793,Section Product,Electronics,3848.41,16,11214
+5461,1555,Course Product,Packaging,3091.02,275,4298
+5462,1550,Consumer Product,Networking,2513.1,356,9961
+5463,1806,Every Product,Office Equipment,2545.34,197,3772
+5464,1719,Thing Product,Raw Material,3679.57,130,3304
+5465,1749,Whether Product,Furniture,3168.9,20,11687
+5466,1394,Region Product,Networking,4842.12,376,8507
+5467,1618,Head Product,Software License,4129.22,441,11645
+5468,1964,Add Product,Software License,4096.77,118,1668
+5469,1313,Box Product,Server,2627.33,186,3302
+5470,1228,Human Product,Networking,1686.22,95,10636
+5471,1916,System Product,Software License,610.07,312,6575
+5472,1306,Coach Product,Electronics,3735.82,256,3361
+5473,1434,Shake Product,Laptop,1138.95,300,2165
+5474,1264,Data Product,Packaging,269.36,489,2331
+5475,1822,Consumer Product,Electronics,4770.16,204,4747
+5476,1305,Couple Product,Software License,4435.63,102,4152
+5477,1108,Ask Product,Networking,4311.66,229,9617
+5478,1114,Gas Product,Packaging,4677.05,90,5838
+5479,1386,I Product,Packaging,3412.58,31,2375
+5480,1455,Adult Product,Furniture,2326.37,103,9347
+5481,1180,Manage Product,Packaging,966.85,168,5305
+5482,1027,Dark Product,Software License,2730.51,220,2456
+5483,1770,Cold Product,Furniture,2019.77,333,1392
+5484,1425,Speech Product,Laptop,3161.83,352,6035
+5485,1991,Agency Product,Electronics,4391.85,219,14010
+5486,1890,Institution Product,Industrial Parts,4196.08,151,11058
+5487,1157,Participant Product,Server,325.85,28,14104
+5488,1306,Floor Product,Laptop,3533.5,352,383
+5489,1754,Baby Product,Furniture,4035.27,367,2214
+5490,1183,Interview Product,Electronics,2039.62,172,6715
+5491,1376,Operation Product,Office Equipment,4908.35,113,14004
+5492,1670,Quite Product,Industrial Parts,918.02,207,10423
+5493,1822,Church Product,Electronics,100.34,434,2408
+5494,1675,Realize Product,Furniture,2239.97,238,6625
+5495,1297,Sport Product,Packaging,3747.81,258,5797
+5496,1135,Series Product,Furniture,1985.14,263,6403
+5497,1949,Fear Product,Industrial Parts,421.87,174,4576
+5498,1927,Off Product,Industrial Parts,1652.1,428,11527
+5499,1910,Want Product,Electronics,2926.19,207,3011
+5500,1363,Travel Product,Office Equipment,2915.13,411,7374
+5501,1626,Simply Product,Industrial Parts,4136.64,327,295
+5502,1903,Pick Product,Raw Material,4898.41,411,7634
+5503,1537,Film Product,Furniture,4008.25,168,8489
+5504,1855,Water Product,Electronics,2673.18,326,4825
+5505,1359,Stage Product,Industrial Parts,2620.47,200,14664
+5506,1970,Floor Product,Industrial Parts,4265.58,369,4478
+5507,1487,Forget Product,Packaging,1550.04,346,9211
+5508,1821,Pressure Product,Networking,1060.42,462,8140
+5509,1006,Short Product,Electronics,4104.47,214,5098
+5510,1192,Land Product,Networking,3830.83,333,929
+5511,1536,Middle Product,Laptop,3181.85,344,8447
+5512,1247,Friend Product,Networking,4039.6,369,9363
+5513,1512,Always Product,Networking,806.07,117,10427
+5514,1376,Old Product,Laptop,1019.89,420,6709
+5515,1999,Amount Product,Industrial Parts,2064.54,311,6108
+5516,1203,Song Product,Packaging,3312.18,492,12070
+5517,1200,Daughter Product,Furniture,3880.79,40,12072
+5518,1590,Always Product,Server,4979.96,43,1630
+5519,1928,Stock Product,Laptop,4613.78,241,1501
+5520,1858,Floor Product,Laptop,213.78,482,6632
+5521,1168,Hand Product,Software License,2840.03,106,4471
+5522,1206,Pay Product,Raw Material,3943.66,456,14242
+5523,1676,Six Product,Raw Material,291.44,189,8798
+5524,1726,Parent Product,Packaging,628.1,495,14574
+5525,1418,It Product,Software License,2018.74,435,1673
+5526,1926,Whom Product,Laptop,934.39,79,11646
+5527,1568,Without Product,Furniture,1717.13,105,6091
+5528,1602,Power Product,Furniture,3602.35,18,4547
+5529,1172,Summer Product,Industrial Parts,3900.29,271,4013
+5530,1512,Month Product,Server,1707.76,220,12927
+5531,1032,Measure Product,Software License,4778.88,131,2317
+5532,1044,Even Product,Furniture,1555.65,417,12427
+5533,1049,Production Product,Electronics,2154.56,31,4866
+5534,1465,Approach Product,Raw Material,3361.87,414,7719
+5535,1431,Six Product,Packaging,441.34,320,7746
+5536,1223,Road Product,Raw Material,2598.42,307,8925
+5537,1373,She Product,Packaging,1234.43,31,12130
+5538,1182,Person Product,Electronics,4372.76,476,9583
+5539,1982,Talk Product,Software License,4655.59,373,14333
+5540,1964,Scene Product,Packaging,2884.2,283,13657
+5541,1780,Successful Product,Software License,544.85,309,10455
+5542,1689,Situation Product,Industrial Parts,971.64,263,8027
+5543,1225,Truth Product,Raw Material,2442.8,101,13581
+5544,1524,Military Product,Electronics,3732.67,67,3161
+5545,1190,Measure Product,Furniture,2130.88,12,4195
+5546,1445,Listen Product,Industrial Parts,1804.57,384,11040
+5547,1846,Long Product,Networking,4011.56,433,14115
+5548,1563,Grow Product,Office Equipment,1124.89,151,13839
+5549,1574,Election Product,Furniture,1367.94,14,991
+5550,1832,Possible Product,Office Equipment,2093.86,157,1258
+5551,1578,Attention Product,Packaging,3781.15,18,11498
+5552,1675,See Product,Electronics,2153.85,136,13107
+5553,1107,Economy Product,Software License,1737.74,332,5674
+5554,1777,Sea Product,Raw Material,4848.49,115,10029
+5555,1890,Born Product,Electronics,3912.8,412,7730
+5556,1671,Establish Product,Packaging,2429.77,28,2049
+5557,1293,Soldier Product,Server,58.25,342,8802
+5558,1921,After Product,Furniture,2196.96,78,13625
+5559,1248,Agree Product,Office Equipment,127.07,497,8116
+5560,1119,Offer Product,Server,1323.91,435,6503
+5561,1362,Certain Product,Laptop,4476.91,340,7281
+5562,1654,Hour Product,Server,2062.58,158,9309
+5563,1678,Choose Product,Software License,4757.63,231,1214
+5564,1780,Environment Product,Furniture,4698.63,449,8292
+5565,1760,Official Product,Furniture,2639.77,26,5896
+5566,1574,Past Product,Electronics,919.56,286,12729
+5567,1599,Never Product,Office Equipment,359.86,445,13438
+5568,1762,Give Product,Office Equipment,1968.4,322,11067
+5569,1316,Medical Product,Networking,1325.07,282,14800
+5570,1962,Central Product,Furniture,1278.08,28,2627
+5571,1427,Day Product,Laptop,3078.13,18,12868
+5572,1473,Garden Product,Raw Material,3162.36,96,10083
+5573,1049,Quality Product,Industrial Parts,2104.0,242,5967
+5574,1287,Defense Product,Server,1601.76,102,14306
+5575,1269,Them Product,Office Equipment,4674.85,143,10018
+5576,1998,That Product,Furniture,468.61,91,1466
+5577,1674,Source Product,Furniture,3846.95,109,6462
+5578,1489,Attorney Product,Electronics,3431.93,161,5043
+5579,1225,Me Product,Laptop,2970.02,461,546
+5580,1882,Foreign Product,Furniture,2141.42,56,2301
+5581,1492,Interview Product,Furniture,2887.25,313,147
+5582,1793,Statement Product,Software License,4840.79,322,14312
+5583,1306,As Product,Laptop,4157.51,240,2421
+5584,1458,Account Product,Furniture,92.16,497,14842
+5585,1001,Wind Product,Networking,2595.07,179,13241
+5586,1589,Race Product,Furniture,3612.75,298,6029
+5587,1791,Able Product,Server,1281.05,447,7521
+5588,1331,Stop Product,Networking,777.92,98,4420
+5589,1521,Item Product,Industrial Parts,3299.22,440,1925
+5590,1435,Get Product,Server,629.98,241,13210
+5591,1925,Each Product,Furniture,2969.68,371,9836
+5592,1476,Identify Product,Laptop,252.51,476,12179
+5593,1720,Among Product,Packaging,2472.95,305,2275
+5594,1661,Page Product,Office Equipment,3459.23,42,7883
+5595,1031,Chance Product,Industrial Parts,2129.05,315,1499
+5596,1694,Drug Product,Packaging,2464.77,74,3477
+5597,1244,Turn Product,Electronics,897.1,147,13673
+5598,1971,Bill Product,Industrial Parts,1208.38,182,4794
+5599,1562,Goal Product,Electronics,2660.48,90,9312
+5600,1693,Quite Product,Laptop,827.29,334,12689
+5601,1975,Republican Product,Raw Material,3467.38,438,4392
+5602,1987,Tax Product,Packaging,3048.35,391,7455
+5603,1098,Loss Product,Software License,3832.13,349,2719
+5604,1776,Administration Product,Electronics,4889.18,127,1827
+5605,1506,Simple Product,Furniture,3711.06,403,5951
+5606,1636,Pattern Product,Packaging,960.0,373,6188
+5607,1385,Style Product,Laptop,3047.7,130,10502
+5608,1548,Per Product,Raw Material,4854.76,414,510
+5609,1548,Six Product,Raw Material,4858.47,78,825
+5610,1878,Nice Product,Furniture,2883.51,277,6091
+5611,1912,North Product,Industrial Parts,2234.29,422,11391
+5612,1853,After Product,Raw Material,4788.57,314,9343
+5613,1314,Appear Product,Industrial Parts,264.2,70,2214
+5614,1822,Fear Product,Raw Material,3446.32,110,3560
+5615,1113,Car Product,Electronics,3290.34,308,11154
+5616,1065,Look Product,Raw Material,2786.84,155,13835
+5617,1948,First Product,Networking,3137.5,314,5041
+5618,1898,Rich Product,Industrial Parts,2647.33,499,243
+5619,1932,Effect Product,Office Equipment,3126.06,420,6360
+5620,1728,Trouble Product,Office Equipment,3213.68,438,12873
+5621,1295,Society Product,Laptop,2999.67,455,7179
+5622,1513,Region Product,Raw Material,377.04,428,12481
+5623,1205,Conference Product,Packaging,1558.0,432,10139
+5624,1663,Force Product,Electronics,1098.97,97,2452
+5625,1733,Education Product,Office Equipment,163.91,394,13741
+5626,1932,Name Product,Raw Material,2201.48,444,3235
+5627,1411,Old Product,Office Equipment,2973.12,172,11324
+5628,1250,Decision Product,Raw Material,2919.92,342,3052
+5629,1650,Machine Product,Software License,99.66,345,10433
+5630,1504,Safe Product,Laptop,1691.07,156,7255
+5631,1600,Draw Product,Packaging,4863.79,14,10714
+5632,1434,Exactly Product,Laptop,929.89,54,180
+5633,1481,She Product,Laptop,4891.56,124,9545
+5634,1390,Per Product,Raw Material,381.53,107,7722
+5635,1148,Fill Product,Raw Material,2178.56,442,12954
+5636,1284,Shake Product,Server,3078.16,287,3398
+5637,1264,On Product,Server,2420.15,65,958
+5638,1349,Director Product,Laptop,4712.56,291,1172
+5639,1566,Great Product,Networking,2023.6,18,10532
+5640,1015,From Product,Packaging,3084.43,413,9094
+5641,1627,Few Product,Laptop,2593.69,54,265
+5642,1407,Foreign Product,Raw Material,4496.18,287,5689
+5643,1567,Than Product,Server,4621.02,349,2098
+5644,1735,Control Product,Server,444.51,81,10487
+5645,1444,Build Product,Electronics,4746.54,246,6129
+5646,1232,Majority Product,Software License,345.56,68,12668
+5647,1683,Although Product,Server,418.59,419,11741
+5648,1315,Mouth Product,Packaging,1014.81,133,10399
+5649,1800,Same Product,Raw Material,2891.06,215,14613
+5650,1400,Need Product,Packaging,3987.9,490,8207
+5651,1983,Happy Product,Laptop,3204.85,258,10862
+5652,1150,Small Product,Software License,823.52,198,7734
+5653,1379,Build Product,Furniture,2376.81,403,5494
+5654,1044,Industry Product,Laptop,1802.92,200,11421
+5655,1678,Decision Product,Office Equipment,2925.67,480,2341
+5656,1617,Ability Product,Industrial Parts,1432.45,180,10092
+5657,1028,After Product,Electronics,2523.41,492,1376
+5658,1585,Character Product,Software License,766.59,347,9377
+5659,1252,Design Product,Server,986.47,85,10919
+5660,1574,Hair Product,Raw Material,1897.59,319,3299
+5661,1959,Relationship Product,Networking,1783.55,288,13397
+5662,1893,Truth Product,Software License,2743.91,19,13535
+5663,1374,Smile Product,Raw Material,716.0,282,8785
+5664,1468,Run Product,Electronics,4430.93,155,4173
+5665,1958,Conference Product,Industrial Parts,1223.15,336,14342
+5666,1217,Resource Product,Networking,1099.5,101,1707
+5667,1340,Teacher Product,Raw Material,1741.72,291,12740
+5668,1312,Group Product,Packaging,3069.43,259,9289
+5669,1953,Field Product,Software License,1949.45,150,12381
+5670,1016,Congress Product,Industrial Parts,2412.07,127,12272
+5671,1221,Follow Product,Raw Material,4374.75,285,3882
+5672,1512,Ability Product,Furniture,3652.33,115,5577
+5673,1891,Someone Product,Software License,1966.81,25,3441
+5674,1656,Any Product,Networking,2243.26,217,990
+5675,1447,Summer Product,Industrial Parts,3596.72,288,11161
+5676,1096,Service Product,Networking,3599.27,61,14635
+5677,1280,Others Product,Server,3053.61,426,13530
+5678,1214,Notice Product,Furniture,1710.63,115,11576
+5679,1133,Factor Product,Electronics,1337.78,46,12068
+5680,1048,Past Product,Software License,3708.49,304,7469
+5681,1827,College Product,Electronics,4172.5,143,5422
+5682,1071,Hot Product,Packaging,292.78,402,7037
+5683,1949,Plant Product,Furniture,1341.11,396,4988
+5684,1560,Southern Product,Software License,1804.7,452,4406
+5685,1436,Industry Product,Server,3183.66,126,6739
+5686,1973,Exactly Product,Industrial Parts,1758.01,421,1208
+5687,1096,Anyone Product,Server,2133.15,404,568
+5688,1762,While Product,Networking,170.67,89,10364
+5689,1820,Know Product,Server,4947.77,92,9497
+5690,1227,Move Product,Packaging,171.37,156,13587
+5691,1552,Generation Product,Laptop,3370.12,224,4149
+5692,1456,Development Product,Packaging,1383.86,128,1698
+5693,1449,Painting Product,Laptop,2034.83,315,4985
+5694,1317,As Product,Packaging,1254.08,199,1645
+5695,1634,Nothing Product,Server,4640.5,98,2382
+5696,1192,Water Product,Industrial Parts,3296.05,369,10944
+5697,1285,First Product,Laptop,1221.35,440,522
+5698,1815,Final Product,Raw Material,4869.29,391,6827
+5699,1189,Whether Product,Raw Material,1595.35,320,10163
+5700,1017,Smile Product,Office Equipment,64.63,39,147
+5701,1773,Dream Product,Raw Material,876.01,201,8910
+5702,1210,True Product,Furniture,1747.8,58,592
+5703,1655,Artist Product,Office Equipment,787.58,313,5365
+5704,1960,Area Product,Packaging,2830.6,67,2941
+5705,1285,Home Product,Raw Material,2267.26,165,1303
+5706,1978,Girl Product,Furniture,1209.94,394,14771
+5707,1232,Say Product,Furniture,1947.61,304,10051
+5708,1004,Quickly Product,Software License,1794.34,202,4133
+5709,1745,Fly Product,Packaging,4256.48,84,12999
+5710,1942,Letter Product,Packaging,4575.08,241,11802
+5711,1440,Kitchen Product,Server,2923.41,75,5802
+5712,1681,Fund Product,Furniture,3015.4,402,4322
+5713,1565,Executive Product,Raw Material,131.47,132,8950
+5714,1078,Air Product,Networking,3770.84,251,103
+5715,1351,Ahead Product,Furniture,4084.63,411,2421
+5716,1428,Involve Product,Packaging,4604.65,402,7426
+5717,1284,Son Product,Industrial Parts,2069.58,443,9222
+5718,1842,Put Product,Server,3368.88,497,10276
+5719,1302,Fund Product,Software License,4888.58,281,1904
+5720,1401,Discover Product,Electronics,4095.93,47,12979
+5721,1703,Capital Product,Packaging,3964.71,230,1399
+5722,1618,Each Product,Raw Material,4808.95,320,5136
+5723,1323,Tax Product,Networking,554.25,407,8606
+5724,1021,Place Product,Raw Material,4029.66,428,8794
+5725,1139,Yard Product,Server,744.95,425,1554
+5726,1892,No Product,Networking,1466.79,202,432
+5727,1068,Also Product,Furniture,2708.7,46,3053
+5728,1222,Support Product,Electronics,3968.54,481,3664
+5729,1582,Although Product,Networking,198.46,87,3954
+5730,1877,Mean Product,Office Equipment,4099.44,179,11479
+5731,1832,Follow Product,Software License,428.43,221,5051
+5732,1767,Say Product,Furniture,1661.02,361,2653
+5733,1703,Discover Product,Laptop,293.49,51,13351
+5734,1777,Stuff Product,Software License,1711.83,256,1142
+5735,1103,Voice Product,Software License,4508.6,80,14949
+5736,1608,Tree Product,Industrial Parts,378.51,14,3257
+5737,1316,Term Product,Software License,348.98,348,1808
+5738,1402,Rather Product,Office Equipment,3232.02,187,3541
+5739,1316,Door Product,Laptop,4986.23,247,5693
+5740,1368,Good Product,Raw Material,560.01,283,10755
+5741,1653,Scene Product,Industrial Parts,4560.68,175,1879
+5742,1164,Newspaper Product,Networking,1752.51,413,12197
+5743,1645,Along Product,Electronics,685.98,396,1254
+5744,1945,Reflect Product,Packaging,4138.15,378,4741
+5745,1549,Machine Product,Software License,1909.37,182,1564
+5746,1649,Star Product,Server,1273.68,188,14268
+5747,1358,End Product,Office Equipment,1085.82,340,8810
+5748,1948,Board Product,Packaging,1888.3,50,9309
+5749,1792,Look Product,Server,2612.13,323,4699
+5750,1975,Former Product,Laptop,3363.2,75,3589
+5751,1257,Adult Product,Laptop,2531.74,388,3807
+5752,1921,Man Product,Raw Material,1241.73,398,7199
+5753,1588,Agree Product,Software License,1593.75,391,11910
+5754,1510,Top Product,Industrial Parts,2082.41,31,12117
+5755,1687,Company Product,Packaging,387.12,152,10847
+5756,1171,Mention Product,Software License,4738.07,218,6244
+5757,1351,Lead Product,Electronics,3359.35,181,3588
+5758,1409,Box Product,Raw Material,3800.96,56,9686
+5759,1715,Yet Product,Industrial Parts,935.9,479,5252
+5760,1736,Especially Product,Electronics,706.88,49,6022
+5761,1454,Such Product,Server,3120.37,408,12386
+5762,1915,War Product,Laptop,818.27,390,2588
+5763,1769,Traditional Product,Laptop,4401.67,250,14403
+5764,1646,Any Product,Server,4608.54,152,11228
+5765,1884,East Product,Packaging,2622.39,254,12458
+5766,1889,Opportunity Product,Software License,1728.85,57,9942
+5767,1127,National Product,Electronics,4880.7,12,13835
+5768,1807,Court Product,Packaging,1008.66,20,11090
+5769,1106,Step Product,Office Equipment,906.66,127,11622
+5770,1358,People Product,Raw Material,2206.77,496,14009
+5771,1505,Particularly Product,Raw Material,2568.14,298,7594
+5772,1099,Either Product,Office Equipment,1367.12,377,10839
+5773,1281,Mention Product,Laptop,180.38,428,12351
+5774,1999,Agent Product,Industrial Parts,2163.8,20,12479
+5775,1225,Agency Product,Laptop,3325.46,266,6075
+5776,1013,Spring Product,Electronics,2602.15,246,12490
+5777,1742,Hour Product,Industrial Parts,2971.82,363,11015
+5778,1034,Enter Product,Office Equipment,3155.42,497,214
+5779,1892,Owner Product,Raw Material,843.89,91,6094
+5780,1698,Hand Product,Office Equipment,2130.18,489,11303
+5781,1867,Marriage Product,Electronics,1914.37,175,1361
+5782,1461,Health Product,Networking,1029.42,378,7013
+5783,1973,Step Product,Server,2812.03,46,8264
+5784,1976,National Product,Laptop,4476.32,76,13073
+5785,1720,Appear Product,Server,3497.14,315,11140
+5786,1536,Drop Product,Laptop,3450.69,425,14070
+5787,1240,Citizen Product,Electronics,4705.96,224,6132
+5788,1289,Training Product,Software License,86.51,73,365
+5789,1871,Free Product,Networking,4788.06,415,2877
+5790,1797,Staff Product,Furniture,1095.88,54,4177
+5791,1915,Player Product,Server,2684.51,174,2284
+5792,1882,Mind Product,Software License,4962.6,362,7298
+5793,1002,Must Product,Raw Material,4885.54,317,2194
+5794,1408,Community Product,Laptop,1396.62,94,8196
+5795,1400,Move Product,Packaging,842.05,244,1106
+5796,1527,Imagine Product,Electronics,116.88,290,4573
+5797,1655,Effort Product,Networking,3743.31,171,3968
+5798,1835,West Product,Packaging,459.21,308,7050
+5799,1577,Risk Product,Electronics,1284.73,123,2562
+5800,1442,Beautiful Product,Office Equipment,2784.28,476,14976
+5801,1455,There Product,Server,2396.21,293,9504
+5802,1590,Get Product,Electronics,1633.47,282,789
+5803,1975,Statement Product,Software License,2172.31,461,10025
+5804,1581,We Product,Software License,2493.7,208,4996
+5805,1500,Soldier Product,Industrial Parts,575.56,391,12730
+5806,1890,Really Product,Office Equipment,1291.44,422,13498
+5807,1405,Staff Product,Software License,4978.21,151,129
+5808,1856,Clearly Product,Electronics,2997.04,358,1022
+5809,1313,Air Product,Packaging,1012.46,374,7267
+5810,1195,Natural Product,Electronics,4191.72,163,803
+5811,1361,Receive Product,Software License,3386.99,442,13624
+5812,1981,Else Product,Furniture,65.7,22,10053
+5813,1741,Exist Product,Networking,378.63,54,875
+5814,1344,Establish Product,Software License,817.57,134,6255
+5815,1887,Range Product,Software License,1611.82,284,10929
+5816,1215,Catch Product,Electronics,1434.4,341,1153
+5817,1434,Bring Product,Industrial Parts,231.36,329,10698
+5818,1579,Through Product,Industrial Parts,4489.39,290,11551
+5819,1596,Reach Product,Server,969.39,331,3570
+5820,1037,Whether Product,Furniture,1547.07,155,6425
+5821,1401,Skin Product,Raw Material,978.53,178,9196
+5822,1442,Evening Product,Networking,1626.07,283,6021
+5823,1638,Research Product,Laptop,483.34,130,11880
+5824,1671,Generation Product,Raw Material,3102.64,106,14033
+5825,1230,Across Product,Laptop,139.27,49,8348
+5826,1704,Movie Product,Electronics,2152.02,500,4309
+5827,1970,No Product,Furniture,2144.11,413,4235
+5828,1077,Southern Product,Laptop,3032.75,193,2231
+5829,1164,Color Product,Server,878.34,118,5593
+5830,1935,Send Product,Networking,1438.9,484,1520
+5831,1864,Drop Product,Electronics,374.15,206,8150
+5832,1101,Natural Product,Industrial Parts,3237.83,40,6687
+5833,1746,Seat Product,Office Equipment,154.92,387,14333
+5834,1801,Chance Product,Electronics,886.31,433,10417
+5835,1985,Up Product,Server,4360.78,411,14581
+5836,1793,Main Product,Laptop,2508.86,79,3342
+5837,1282,They Product,Networking,1397.91,310,9041
+5838,1946,Hot Product,Industrial Parts,3446.88,134,3328
+5839,1193,Want Product,Furniture,3282.03,373,2188
+5840,1133,Early Product,Furniture,4638.29,268,12928
+5841,1143,Event Product,Furniture,1406.28,150,11191
+5842,1848,After Product,Office Equipment,348.38,37,12351
+5843,1469,Expert Product,Software License,3629.58,381,7795
+5844,1485,Spring Product,Laptop,171.86,292,5092
+5845,1678,Believe Product,Raw Material,1380.01,195,14704
+5846,1311,Area Product,Software License,1426.32,399,5985
+5847,1693,Cost Product,Server,4223.58,380,9316
+5848,1511,Nice Product,Server,2593.82,272,8874
+5849,1115,Page Product,Laptop,1500.19,483,3298
+5850,1354,When Product,Software License,3144.69,415,628
+5851,1301,Go Product,Software License,48.22,97,10312
+5852,1093,They Product,Software License,506.74,147,13140
+5853,1693,She Product,Packaging,3985.55,416,14183
+5854,1551,Few Product,Electronics,1091.67,428,9395
+5855,1635,Identify Product,Packaging,1356.09,240,4518
+5856,1907,Cell Product,Server,1579.72,383,2593
+5857,1166,Account Product,Furniture,1261.5,153,10365
+5858,1482,Care Product,Raw Material,3519.11,385,4196
+5859,1028,Quickly Product,Packaging,3758.05,182,10328
+5860,1841,World Product,Electronics,1755.71,418,9058
+5861,1607,Race Product,Networking,3842.87,235,11034
+5862,1770,Forget Product,Electronics,3954.95,81,14236
+5863,1502,Sell Product,Software License,427.61,401,1171
+5864,1349,Rock Product,Software License,2146.84,470,2112
+5865,1132,Indeed Product,Office Equipment,41.83,276,9034
+5866,1272,President Product,Software License,1592.8,474,13916
+5867,1473,Shoulder Product,Industrial Parts,4792.94,125,1938
+5868,1786,Onto Product,Raw Material,4872.56,292,10159
+5869,1214,Win Product,Software License,3674.23,121,1871
+5870,1695,Recently Product,Industrial Parts,3829.95,41,8414
+5871,1842,Television Product,Industrial Parts,1846.84,44,11069
+5872,1600,Cause Product,Industrial Parts,4770.93,381,14511
+5873,1981,Painting Product,Industrial Parts,2854.92,65,7638
+5874,1869,Sell Product,Networking,4726.66,90,1847
+5875,1264,Peace Product,Laptop,1929.83,168,5314
+5876,1686,Rich Product,Furniture,70.76,88,6379
+5877,2000,Investment Product,Server,4904.5,318,7414
+5878,1036,Challenge Product,Packaging,1041.54,152,369
+5879,1317,Son Product,Industrial Parts,4913.02,220,3558
+5880,1795,Soldier Product,Raw Material,1064.86,484,3575
+5881,1981,State Product,Server,3794.82,227,11110
+5882,1332,Budget Product,Packaging,1943.08,427,14430
+5883,1742,Mention Product,Industrial Parts,4938.13,310,4616
+5884,1369,Father Product,Raw Material,892.34,139,6640
+5885,1967,Member Product,Raw Material,1606.91,31,2523
+5886,1817,Throughout Product,Industrial Parts,1437.15,105,14046
+5887,1023,Full Product,Software License,951.77,449,8625
+5888,1550,Month Product,Electronics,4002.68,475,4136
+5889,1537,Old Product,Laptop,2165.33,269,13519
+5890,1106,Watch Product,Electronics,2797.05,46,10749
+5891,1702,Nor Product,Electronics,3129.86,327,7292
+5892,1549,Research Product,Packaging,4545.82,69,10405
+5893,1742,Although Product,Networking,370.28,192,6834
+5894,1107,Room Product,Industrial Parts,3766.74,388,4379
+5895,1280,Husband Product,Laptop,3433.26,426,10030
+5896,1446,Artist Product,Packaging,4076.29,435,14626
+5897,1318,Off Product,Raw Material,542.14,353,5041
+5898,1872,Worry Product,Electronics,53.9,365,2996
+5899,1446,Save Product,Office Equipment,3193.24,442,3190
+5900,1729,World Product,Raw Material,699.23,395,9159
+5901,1419,Wonder Product,Raw Material,973.34,445,5560
+5902,1673,Fight Product,Electronics,4556.21,153,255
+5903,1397,Rich Product,Packaging,1073.33,436,1034
+5904,1366,Money Product,Office Equipment,3643.22,118,2375
+5905,1764,Even Product,Furniture,2430.67,418,2149
+5906,1386,Quite Product,Networking,1765.75,444,14288
+5907,1679,Every Product,Raw Material,4198.58,275,13199
+5908,1574,Give Product,Raw Material,2868.06,235,1330
+5909,1549,Why Product,Laptop,517.15,323,1180
+5910,1837,Then Product,Raw Material,4609.78,122,6273
+5911,1487,Own Product,Electronics,299.99,196,5660
+5912,1347,Idea Product,Raw Material,3522.05,110,1708
+5913,1264,Interesting Product,Packaging,2039.88,297,2368
+5914,1188,Bad Product,Software License,514.1,103,14087
+5915,1777,Time Product,Furniture,2469.27,271,1381
+5916,1622,May Product,Furniture,2371.89,259,5643
+5917,1853,Indicate Product,Networking,77.83,124,13453
+5918,1352,Performance Product,Server,4053.84,64,1551
+5919,1954,Outside Product,Networking,4579.58,320,3474
+5920,1488,Girl Product,Raw Material,4158.64,498,9689
+5921,1514,If Product,Packaging,1224.21,279,799
+5922,1805,All Product,Furniture,360.15,384,10122
+5923,1758,Finally Product,Electronics,3638.57,319,11641
+5924,1728,Open Product,Office Equipment,2467.58,412,12076
+5925,1418,Cover Product,Industrial Parts,2136.46,129,4159
+5926,1139,Society Product,Office Equipment,986.84,468,7026
+5927,1276,Law Product,Electronics,1740.88,227,11643
+5928,1940,Yeah Product,Electronics,3520.88,296,5241
+5929,1365,Hand Product,Raw Material,4020.48,435,10515
+5930,1639,Listen Product,Furniture,821.04,278,5621
+5931,1752,South Product,Networking,4380.35,460,4660
+5932,1797,Board Product,Electronics,4573.29,376,4903
+5933,1170,Pass Product,Furniture,4066.09,99,11285
+5934,1546,Doctor Product,Furniture,3376.27,346,788
+5935,1460,Boy Product,Furniture,3449.05,322,4961
+5936,1816,Late Product,Electronics,3772.66,500,3006
+5937,1141,Teacher Product,Office Equipment,958.99,471,13265
+5938,1133,Dream Product,Packaging,3757.92,28,12853
+5939,1223,Late Product,Networking,255.6,361,14664
+5940,1482,Employee Product,Furniture,318.62,289,12859
+5941,1632,Car Product,Furniture,1874.52,442,5689
+5942,1154,Election Product,Furniture,3156.36,288,8192
+5943,1718,Professor Product,Laptop,919.72,467,7612
+5944,1719,Evidence Product,Server,3710.81,494,837
+5945,1543,Most Product,Software License,2986.51,170,5670
+5946,1419,Tell Product,Networking,2333.32,189,7053
+5947,1857,Successful Product,Furniture,4043.24,324,7399
+5948,1325,Democratic Product,Laptop,2761.74,131,3728
+5949,1531,View Product,Raw Material,3665.93,103,10287
+5950,1099,International Product,Laptop,1453.15,284,12580
+5951,1904,Beyond Product,Networking,4318.35,12,6869
+5952,1058,Low Product,Electronics,3980.29,243,14917
+5953,1231,Piece Product,Software License,4454.45,365,8242
+5954,1452,Drug Product,Office Equipment,964.76,16,2551
+5955,1129,Huge Product,Networking,4138.2,375,5348
+5956,1706,Soon Product,Laptop,2890.76,341,6477
+5957,1455,Woman Product,Furniture,595.68,202,14508
+5958,1610,Show Product,Office Equipment,4813.09,253,3097
+5959,1606,Prevent Product,Server,4756.25,487,10615
+5960,1200,History Product,Software License,2762.76,278,14339
+5961,1337,Purpose Product,Server,4487.4,313,11299
+5962,1603,Issue Product,Electronics,4259.79,414,6149
+5963,1575,Black Product,Networking,1939.23,21,9760
+5964,1298,Attack Product,Electronics,3446.35,235,5882
+5965,1781,Give Product,Raw Material,2029.99,91,8332
+5966,1807,Son Product,Raw Material,2670.02,267,14718
+5967,1095,Oil Product,Electronics,1053.08,192,9179
+5968,1914,Relate Product,Server,637.0,31,717
+5969,1306,Story Product,Laptop,2634.09,256,10350
+5970,1565,American Product,Electronics,3368.06,162,14674
+5971,1307,Huge Product,Server,3406.92,39,526
+5972,1924,Son Product,Industrial Parts,3525.06,280,1358
+5973,1681,Eye Product,Electronics,4534.54,441,8073
+5974,1202,Economy Product,Server,2583.93,162,13110
+5975,1242,Like Product,Furniture,1036.89,390,8152
+5976,1691,Artist Product,Packaging,3034.0,133,7130
+5977,1677,Decade Product,Industrial Parts,4295.53,58,7136
+5978,1951,Growth Product,Raw Material,4682.23,387,11437
+5979,1522,Skill Product,Electronics,3067.51,455,10026
+5980,1291,Drop Product,Furniture,822.38,189,5441
+5981,1961,Serious Product,Raw Material,1304.35,298,269
+5982,1500,Industry Product,Software License,4670.04,250,2342
+5983,1429,Human Product,Electronics,684.86,440,12462
+5984,1922,War Product,Furniture,2345.98,457,13661
+5985,1479,Back Product,Raw Material,4254.28,14,11907
+5986,1805,Article Product,Packaging,3167.03,301,13430
+5987,1082,Cut Product,Laptop,4624.54,177,12438
+5988,1743,Speak Product,Software License,916.7,377,6446
+5989,1490,Expect Product,Server,4386.93,130,7849
+5990,1047,Call Product,Electronics,439.47,152,7615
+5991,1301,Growth Product,Industrial Parts,348.09,259,7632
+5992,1904,Agent Product,Server,1418.24,346,8988
+5993,1193,Side Product,Industrial Parts,71.16,492,14621
+5994,1767,Democratic Product,Electronics,2221.56,308,4031
+5995,1059,Adult Product,Electronics,1390.17,30,1815
+5996,1563,Reflect Product,Server,3530.93,155,564
+5997,1362,Finally Product,Networking,2057.82,41,6123
+5998,1062,Develop Product,Raw Material,4762.93,10,4784
+5999,1984,Forget Product,Software License,2818.42,92,7892
+6000,1503,Site Product,Electronics,817.46,109,13133
+6001,1411,Space Product,Software License,569.59,436,7081
+6002,1961,Standard Product,Software License,4418.9,297,2824
+6003,1238,Wall Product,Packaging,3955.32,132,9824
+6004,1039,Kind Product,Server,4435.85,365,14195
+6005,1845,Animal Product,Laptop,4494.31,256,4271
+6006,1292,Free Product,Server,229.66,446,5505
+6007,1851,Including Product,Software License,4481.32,292,14151
+6008,1093,Between Product,Networking,4206.73,479,8305
+6009,1546,Food Product,Office Equipment,851.35,159,4601
+6010,1980,Future Product,Electronics,1174.52,117,12353
+6011,1049,Attention Product,Furniture,109.32,347,1703
+6012,1068,At Product,Furniture,4391.57,70,10333
+6013,1018,Teacher Product,Raw Material,867.55,470,5879
+6014,1822,Address Product,Electronics,1580.86,38,9103
+6015,1841,Husband Product,Raw Material,1651.01,278,4865
+6016,1059,Remember Product,Laptop,4536.71,258,7347
+6017,1313,Clear Product,Packaging,207.94,381,2899
+6018,1736,Hold Product,Server,673.22,378,4817
+6019,1788,Evening Product,Furniture,2009.09,311,13348
+6020,1860,Reach Product,Laptop,4106.82,51,11894
+6021,1194,Than Product,Networking,1050.6,324,8867
+6022,1219,Particularly Product,Networking,3365.48,298,14847
+6023,1231,Between Product,Office Equipment,4155.22,159,10049
+6024,1007,American Product,Server,4518.31,224,10277
+6025,1710,Station Product,Packaging,172.94,343,10610
+6026,1987,Future Product,Server,2894.14,371,7736
+6027,1340,Wrong Product,Packaging,2012.48,206,2178
+6028,1664,Education Product,Office Equipment,2117.72,117,6564
+6029,1989,You Product,Electronics,3626.62,370,14048
+6030,1047,Right Product,Packaging,2829.64,118,4676
+6031,1954,Decide Product,Industrial Parts,2357.0,365,6478
+6032,1627,Soldier Product,Raw Material,3363.02,118,9887
+6033,1986,Or Product,Networking,3714.63,218,9365
+6034,1507,Now Product,Furniture,3169.64,309,5890
+6035,1258,Apply Product,Electronics,287.16,435,13024
+6036,1583,Unit Product,Office Equipment,3016.11,393,13437
+6037,1909,Use Product,Laptop,500.98,441,2094
+6038,1749,Since Product,Software License,4312.26,73,2145
+6039,1298,Hope Product,Furniture,2985.58,197,13924
+6040,1326,Time Product,Raw Material,2885.57,230,3220
+6041,1957,Heart Product,Networking,3179.87,344,2679
+6042,1777,Bring Product,Furniture,686.82,34,5717
+6043,1403,Audience Product,Laptop,2389.85,364,3979
+6044,1280,Technology Product,Office Equipment,337.77,82,1557
+6045,1196,Discover Product,Networking,956.2,69,10399
+6046,1651,Practice Product,Laptop,3166.21,397,11390
+6047,1560,Billion Product,Software License,3192.34,349,2837
+6048,1260,Of Product,Laptop,1491.3,284,7021
+6049,1133,Tonight Product,Raw Material,2232.58,102,5157
+6050,1205,Performance Product,Electronics,1976.81,38,2164
+6051,1540,Arrive Product,Server,3632.96,229,5961
+6052,1463,Player Product,Server,4597.38,323,2000
+6053,1063,Central Product,Furniture,1831.39,392,1221
+6054,1481,Generation Product,Laptop,628.56,341,10851
+6055,1144,Lead Product,Packaging,1964.2,260,2743
+6056,1593,Tonight Product,Packaging,3905.85,461,13173
+6057,1359,Same Product,Raw Material,2170.51,281,1682
+6058,1367,Sell Product,Server,2999.71,302,3237
+6059,1058,State Product,Industrial Parts,1072.65,313,11771
+6060,1242,Himself Product,Laptop,2252.64,242,9555
+6061,1576,White Product,Electronics,883.79,432,5353
+6062,1827,Stay Product,Laptop,2456.6,441,12381
+6063,1600,Than Product,Software License,3261.08,218,13123
+6064,1004,Street Product,Laptop,3384.28,318,9641
+6065,1370,Through Product,Laptop,1166.39,32,10384
+6066,1088,Election Product,Office Equipment,1706.98,117,7062
+6067,1263,Trial Product,Laptop,183.29,231,13640
+6068,1682,Whom Product,Laptop,2381.28,248,8007
+6069,1739,Discover Product,Networking,1049.05,461,5516
+6070,1872,School Product,Raw Material,3429.07,165,2250
+6071,1324,Rather Product,Electronics,2985.4,362,1840
+6072,1934,Bar Product,Laptop,4625.9,126,11750
+6073,1794,Very Product,Networking,3826.65,431,14448
+6074,1654,Player Product,Raw Material,1230.12,417,6358
+6075,1235,Next Product,Laptop,3750.54,175,11254
+6076,1113,Lose Product,Industrial Parts,2793.08,138,11957
+6077,1548,Within Product,Office Equipment,2624.61,233,9281
+6078,1026,Ok Product,Raw Material,2192.74,38,9515
+6079,1286,Debate Product,Industrial Parts,4197.48,250,7844
+6080,1366,Often Product,Raw Material,1214.73,187,11960
+6081,1860,Nothing Product,Networking,3088.63,144,159
+6082,1792,Care Product,Raw Material,1515.33,493,2889
+6083,1251,If Product,Networking,2645.22,370,8057
+6084,1556,Cold Product,Packaging,4572.27,96,7436
+6085,1550,Treatment Product,Raw Material,1058.21,85,4901
+6086,1080,Teacher Product,Server,1033.33,248,5462
+6087,1391,Any Product,Industrial Parts,3496.74,45,6614
+6088,1181,Marriage Product,Software License,4442.2,320,3805
+6089,1757,Assume Product,Electronics,2217.57,262,3448
+6090,1019,Including Product,Networking,307.99,232,13483
+6091,1496,Adult Product,Electronics,957.31,231,8959
+6092,1630,Congress Product,Software License,2711.92,275,3518
+6093,1718,Support Product,Server,3640.4,392,11158
+6094,1132,Card Product,Office Equipment,4717.79,142,3131
+6095,1578,Again Product,Packaging,385.28,307,14033
+6096,1713,Visit Product,Networking,4264.68,385,2721
+6097,1619,Discussion Product,Industrial Parts,332.84,240,14946
+6098,1743,To Product,Networking,1774.06,448,11781
+6099,1353,Cause Product,Industrial Parts,2818.99,246,1300
+6100,1668,Other Product,Packaging,2778.01,64,4664
+6101,1525,Thank Product,Networking,2322.87,115,7371
+6102,1950,Sort Product,Laptop,1113.42,408,12629
+6103,1054,According Product,Industrial Parts,2349.1,101,9849
+6104,1151,Policy Product,Electronics,2959.01,482,13314
+6105,1620,Increase Product,Software License,781.44,463,7815
+6106,1944,Rate Product,Furniture,1148.23,398,12353
+6107,1356,Wind Product,Networking,2746.08,375,14894
+6108,1562,Wall Product,Raw Material,1294.94,229,6477
+6109,1020,Office Product,Raw Material,290.97,290,5125
+6110,1225,Too Product,Raw Material,1313.17,337,3157
+6111,1914,Only Product,Raw Material,2991.66,454,14127
+6112,1912,Mission Product,Laptop,4616.7,33,3664
+6113,1005,People Product,Server,761.67,476,2279
+6114,1518,Particularly Product,Furniture,36.27,294,14034
+6115,1392,Tree Product,Raw Material,1441.84,285,9014
+6116,1853,Much Product,Furniture,2551.37,169,9932
+6117,1414,Skin Product,Electronics,3648.03,26,2538
+6118,1196,Up Product,Raw Material,2261.07,132,9162
+6119,1251,Finish Product,Server,1180.99,478,2631
+6120,1580,Second Product,Furniture,1610.47,396,9302
+6121,1314,Enter Product,Server,4287.48,455,4792
+6122,1768,Life Product,Furniture,3647.44,48,14263
+6123,1996,Letter Product,Server,98.31,73,1237
+6124,1749,School Product,Server,3305.8,467,120
+6125,1499,Require Product,Industrial Parts,1899.56,430,10009
+6126,1632,First Product,Software License,3882.48,221,1853
+6127,1222,Treat Product,Packaging,2260.57,221,9455
+6128,1908,Western Product,Server,4691.8,231,4878
+6129,1353,Mr Product,Office Equipment,2204.25,151,4427
+6130,1387,Late Product,Software License,3817.3,386,9303
+6131,1832,Under Product,Industrial Parts,2036.46,202,5577
+6132,1369,Law Product,Raw Material,4473.23,482,12780
+6133,1559,Either Product,Software License,2826.77,307,12522
+6134,1491,Hundred Product,Laptop,1221.94,493,7154
+6135,1156,President Product,Packaging,3881.49,450,5627
+6136,1972,Table Product,Software License,2440.34,395,938
+6137,1275,Like Product,Raw Material,3705.96,164,4797
+6138,1556,Heart Product,Networking,3592.43,499,11672
+6139,1293,Carry Product,Raw Material,1716.86,335,6683
+6140,1817,Right Product,Furniture,260.5,241,6703
+6141,1908,Individual Product,Industrial Parts,4795.01,386,9144
+6142,1230,Civil Product,Electronics,2730.58,304,1027
+6143,1902,Structure Product,Server,3818.6,299,5363
+6144,1328,Think Product,Furniture,4851.47,176,7957
+6145,1118,Almost Product,Laptop,3709.39,114,13010
+6146,1870,Red Product,Raw Material,4761.46,17,3480
+6147,1410,Here Product,Raw Material,2874.24,282,14735
+6148,1765,Quite Product,Server,2616.26,477,3933
+6149,1667,Economy Product,Furniture,885.08,390,8299
+6150,1272,Beat Product,Raw Material,2629.11,332,7914
+6151,1951,Less Product,Networking,2521.73,342,1617
+6152,1032,Read Product,Office Equipment,3417.15,69,8205
+6153,1138,Look Product,Server,78.48,413,673
+6154,1913,Green Product,Furniture,2109.85,263,5781
+6155,1371,Lose Product,Networking,2712.51,231,2882
+6156,1976,Who Product,Office Equipment,4747.75,350,12225
+6157,1833,Myself Product,Raw Material,4594.22,352,12763
+6158,1341,Already Product,Office Equipment,28.87,92,5543
+6159,1164,Table Product,Server,425.23,458,665
+6160,1956,Eight Product,Furniture,2920.45,378,14451
+6161,1711,Ask Product,Server,4474.12,323,3675
+6162,1968,Option Product,Furniture,1014.75,291,3467
+6163,1298,Quite Product,Industrial Parts,1343.07,250,4531
+6164,1559,Bag Product,Packaging,4778.68,348,10343
+6165,1528,Foreign Product,Industrial Parts,526.99,197,10215
+6166,1469,Successful Product,Furniture,2856.48,209,9304
+6167,1233,International Product,Server,4996.94,22,12014
+6168,1891,Bar Product,Server,1415.94,337,8290
+6169,1795,Son Product,Packaging,2929.98,304,5275
+6170,1946,Street Product,Packaging,2246.49,380,9124
+6171,1294,Or Product,Networking,3719.82,103,13912
+6172,1649,Around Product,Industrial Parts,4441.71,267,13744
+6173,1469,Place Product,Networking,3415.01,26,12449
+6174,1538,Enter Product,Software License,3350.98,229,9835
+6175,1332,Worry Product,Industrial Parts,2209.51,483,7473
+6176,1822,Gas Product,Server,1150.62,195,13181
+6177,1872,Officer Product,Software License,1995.73,313,11656
+6178,1763,Beat Product,Furniture,2995.04,460,14220
+6179,1521,Necessary Product,Networking,2297.38,280,2357
+6180,1869,Happy Product,Laptop,611.04,392,10805
+6181,1772,Security Product,Industrial Parts,4882.28,158,6797
+6182,1258,Letter Product,Packaging,3437.28,77,1947
+6183,1297,Great Product,Server,320.01,260,5783
+6184,1140,Part Product,Laptop,3784.16,473,390
+6185,1118,Room Product,Office Equipment,4726.23,434,5530
+6186,1461,Scene Product,Laptop,2959.79,432,3916
+6187,1508,Network Product,Software License,1312.08,414,11408
+6188,1071,Thus Product,Industrial Parts,3668.77,54,6678
+6189,1603,Yeah Product,Electronics,3622.32,222,5532
+6190,1478,Woman Product,Electronics,1605.84,18,12075
+6191,1753,Young Product,Industrial Parts,2193.38,130,12070
+6192,1830,Apply Product,Networking,2322.6,279,11416
+6193,1205,Level Product,Server,1430.08,257,8802
+6194,1669,Sell Product,Software License,178.1,89,10263
+6195,1962,Medical Product,Laptop,574.46,307,8465
+6196,1566,Thank Product,Packaging,1862.09,210,1685
+6197,1098,Heavy Product,Furniture,1966.09,51,1699
+6198,1597,Community Product,Packaging,1735.29,229,4987
+6199,1556,Top Product,Software License,3407.35,472,4111
+6200,1670,Teach Product,Packaging,4160.24,207,4302
+6201,1615,Man Product,Laptop,1800.03,385,3781
+6202,1680,Behind Product,Raw Material,3934.53,274,13684
+6203,1680,Rate Product,Laptop,3985.69,52,3088
+6204,1921,Property Product,Industrial Parts,348.77,217,10027
+6205,1813,Through Product,Software License,454.96,490,14941
+6206,1873,Room Product,Furniture,1770.98,71,14037
+6207,1647,Economy Product,Laptop,2551.58,200,11189
+6208,1478,Population Product,Server,1341.43,440,8938
+6209,1828,Seven Product,Furniture,4977.43,261,4850
+6210,1904,Bank Product,Office Equipment,3626.5,330,9447
+6211,1360,Nice Product,Server,383.34,428,5616
+6212,1062,Performance Product,Server,2887.97,316,5091
+6213,1127,Low Product,Software License,1432.79,377,14278
+6214,1135,Throw Product,Laptop,92.77,12,6819
+6215,1764,Look Product,Furniture,820.05,91,2300
+6216,1020,Increase Product,Furniture,1974.64,345,6569
+6217,1424,Sit Product,Office Equipment,3183.24,186,6720
+6218,1387,Staff Product,Packaging,3933.45,164,4154
+6219,1333,Visit Product,Office Equipment,2527.35,95,6036
+6220,1192,Power Product,Networking,4225.39,108,3767
+6221,1910,Data Product,Electronics,2064.39,150,3467
+6222,1350,Sister Product,Furniture,2112.71,469,1568
+6223,1742,Behind Product,Electronics,4130.23,352,11501
+6224,1876,Car Product,Raw Material,576.64,166,9228
+6225,1542,Bring Product,Software License,356.06,437,5290
+6226,1733,Should Product,Office Equipment,1374.35,81,10734
+6227,1398,Agency Product,Raw Material,243.58,102,9328
+6228,1936,Suggest Product,Packaging,4726.78,86,10289
+6229,1230,Near Product,Raw Material,3182.45,116,8516
+6230,1535,Physical Product,Packaging,1401.99,317,8464
+6231,1321,About Product,Server,2979.0,272,2350
+6232,1353,Surface Product,Server,3969.45,324,11288
+6233,1414,Message Product,Furniture,1336.71,467,14890
+6234,1634,Can Product,Electronics,2453.83,25,3590
+6235,1912,Hit Product,Laptop,3982.89,284,9171
+6236,1398,Fact Product,Server,2062.39,477,6157
+6237,1468,Nor Product,Furniture,660.5,243,730
+6238,1818,Claim Product,Server,1854.34,160,9104
+6239,1747,Next Product,Software License,1843.92,132,3052
+6240,1738,Behavior Product,Office Equipment,4868.99,404,5647
+6241,1195,Born Product,Raw Material,590.26,426,4911
+6242,1521,Knowledge Product,Electronics,4997.36,427,4591
+6243,1795,Police Product,Networking,4899.92,289,11214
+6244,1249,Last Product,Furniture,4529.0,453,5286
+6245,1887,What Product,Laptop,807.29,416,1814
+6246,1862,Record Product,Packaging,2629.06,345,3481
+6247,1062,Exactly Product,Raw Material,4908.9,22,2759
+6248,1694,Account Product,Networking,4700.23,188,8195
+6249,1940,Administration Product,Raw Material,1053.84,116,9522
+6250,2000,Hospital Product,Networking,1273.94,65,6779
+6251,1990,Fill Product,Furniture,2367.34,131,3051
+6252,1609,Catch Product,Raw Material,246.54,228,2344
+6253,1892,Rock Product,Furniture,3653.58,38,11847
+6254,1994,Class Product,Electronics,4039.22,279,8243
+6255,1735,Commercial Product,Networking,3725.19,294,13258
+6256,1240,Agent Product,Raw Material,1699.11,473,10727
+6257,1137,Hundred Product,Furniture,1435.72,387,7343
+6258,1325,Onto Product,Packaging,1094.84,130,2673
+6259,1559,Realize Product,Office Equipment,2883.72,198,2003
+6260,1994,Perhaps Product,Raw Material,2362.85,379,3805
+6261,1364,Scene Product,Office Equipment,39.44,129,9752
+6262,1668,Yeah Product,Office Equipment,289.36,227,7788
+6263,1725,Growth Product,Server,578.89,191,3827
+6264,1929,Tough Product,Software License,3331.48,208,3381
+6265,1192,Tonight Product,Server,1713.74,169,1026
+6266,1187,Agree Product,Packaging,2645.53,285,7189
+6267,1582,None Product,Software License,3047.57,428,940
+6268,1946,Enough Product,Furniture,4521.84,69,7122
+6269,1954,Evening Product,Industrial Parts,1663.86,56,13251
+6270,1412,Place Product,Raw Material,4854.78,141,11256
+6271,1120,Night Product,Packaging,3456.9,266,9132
+6272,1954,Young Product,Packaging,929.9,472,5771
+6273,1263,Often Product,Office Equipment,4790.34,239,13453
+6274,1252,Know Product,Office Equipment,4536.45,475,9317
+6275,1988,Girl Product,Laptop,4187.3,309,1720
+6276,1755,Open Product,Office Equipment,3977.17,82,11069
+6277,1120,Kitchen Product,Electronics,2240.12,483,9417
+6278,1755,Form Product,Industrial Parts,3655.88,154,11344
+6279,1051,Assume Product,Packaging,4489.21,437,9937
+6280,1258,Physical Product,Raw Material,3492.65,394,2674
+6281,1102,Woman Product,Software License,3056.54,259,6580
+6282,1261,Cause Product,Electronics,282.73,341,6473
+6283,1589,Direction Product,Raw Material,4655.44,58,4838
+6284,1939,Raise Product,Networking,3348.56,94,14183
+6285,1001,Long Product,Office Equipment,877.96,418,12607
+6286,1492,Threat Product,Server,2348.04,293,14437
+6287,1321,Once Product,Raw Material,3360.38,29,9040
+6288,1428,Account Product,Software License,4197.71,343,1978
+6289,1828,Be Product,Laptop,3940.25,319,13161
+6290,1970,Best Product,Laptop,4887.92,169,7097
+6291,1132,Floor Product,Office Equipment,795.43,200,14463
+6292,1497,Glass Product,Networking,1674.2,449,13995
+6293,1279,Night Product,Software License,1216.75,325,1852
+6294,1894,Act Product,Server,1427.24,239,11487
+6295,1754,Window Product,Furniture,4405.64,405,8187
+6296,1367,Performance Product,Packaging,105.53,453,7763
+6297,1616,Service Product,Raw Material,4305.96,279,771
+6298,1654,Early Product,Laptop,744.74,458,8045
+6299,1627,And Product,Software License,3760.14,388,11343
+6300,1539,Project Product,Packaging,3383.76,430,11160
+6301,1370,Mission Product,Packaging,191.93,273,3381
+6302,1011,Player Product,Industrial Parts,508.22,115,13393
+6303,1569,Social Product,Office Equipment,3002.98,264,5865
+6304,1881,Table Product,Networking,2568.42,42,12837
+6305,1013,Push Product,Office Equipment,4109.1,142,11710
+6306,1865,Image Product,Office Equipment,2206.07,123,5480
+6307,1088,Task Product,Server,107.55,422,5346
+6308,1991,Southern Product,Software License,3393.2,401,14067
+6309,1281,Sea Product,Packaging,3196.6,183,5831
+6310,1051,Town Product,Furniture,3723.95,53,4993
+6311,1159,Southern Product,Laptop,4061.61,122,6861
+6312,1336,These Product,Laptop,3598.21,207,2831
+6313,1911,People Product,Software License,1289.02,437,8328
+6314,1729,Each Product,Laptop,4607.6,191,6472
+6315,1959,International Product,Packaging,2362.8,116,11285
+6316,1494,Standard Product,Packaging,3055.09,292,3344
+6317,1561,Line Product,Laptop,406.25,235,2413
+6318,1190,Address Product,Networking,1097.03,412,5490
+6319,1733,Happy Product,Industrial Parts,4499.49,284,13675
+6320,1598,Happen Product,Networking,2846.08,86,2509
+6321,1862,Major Product,Office Equipment,3450.93,297,4870
+6322,1855,Become Product,Server,3543.89,400,14162
+6323,1063,Break Product,Laptop,4178.87,293,2104
+6324,1933,Toward Product,Software License,3802.72,228,12091
+6325,1674,Central Product,Packaging,3478.15,54,3332
+6326,1788,Body Product,Electronics,1287.03,356,3738
+6327,1117,Force Product,Server,1749.05,137,6884
+6328,1599,Low Product,Electronics,4440.79,183,5098
+6329,1543,Because Product,Raw Material,1865.38,302,3750
+6330,1102,Type Product,Server,4919.88,396,9931
+6331,1218,Not Product,Software License,2674.01,456,4399
+6332,1066,Major Product,Office Equipment,54.43,297,5296
+6333,1751,Indicate Product,Packaging,4041.71,270,12908
+6334,1970,Citizen Product,Furniture,853.89,443,12512
+6335,1180,Pay Product,Furniture,2404.06,463,1734
+6336,1582,Season Product,Raw Material,1207.75,82,1363
+6337,1524,Break Product,Server,331.88,439,8704
+6338,1215,Experience Product,Office Equipment,2548.74,264,9973
+6339,1956,Difference Product,Furniture,1400.7,42,4852
+6340,1697,After Product,Office Equipment,277.73,443,4545
+6341,1208,Need Product,Networking,4722.86,179,12794
+6342,1255,Important Product,Server,1833.49,396,288
+6343,1720,Sister Product,Server,2199.61,184,4909
+6344,1849,Thank Product,Furniture,2530.94,382,1704
+6345,1872,Very Product,Raw Material,4661.9,426,13749
+6346,1021,Factor Product,Furniture,1526.99,235,2141
+6347,1548,Particular Product,Electronics,3359.71,494,4817
+6348,1067,Level Product,Server,2594.84,85,5659
+6349,1095,Office Product,Furniture,2695.15,398,9436
+6350,1520,Too Product,Laptop,2117.45,81,6197
+6351,1988,Leave Product,Furniture,4012.39,312,9725
+6352,1480,Share Product,Server,1296.56,421,3026
+6353,1626,Improve Product,Software License,2539.52,46,7832
+6354,1256,Again Product,Furniture,3193.33,323,684
+6355,1844,List Product,Laptop,1240.74,496,1265
+6356,1772,Continue Product,Electronics,3810.1,468,5840
+6357,1782,About Product,Software License,2779.22,218,2991
+6358,1855,Whole Product,Furniture,881.43,285,11804
+6359,1906,Tv Product,Office Equipment,1243.34,173,1783
+6360,1079,Identify Product,Office Equipment,2661.32,325,10619
+6361,1629,Nearly Product,Office Equipment,1207.8,167,316
+6362,1852,Line Product,Office Equipment,4104.82,340,12958
+6363,1126,Can Product,Office Equipment,1453.5,424,9684
+6364,1461,More Product,Raw Material,1718.72,336,1585
+6365,1178,Successful Product,Laptop,2111.77,319,13426
+6366,1350,Wife Product,Packaging,1735.46,419,2884
+6367,1309,Work Product,Furniture,4458.03,183,4922
+6368,1471,Movement Product,Furniture,3609.94,287,4659
+6369,1535,Perhaps Product,Furniture,1600.52,214,10307
+6370,1357,Sure Product,Software License,2329.15,214,1650
+6371,1111,Walk Product,Server,2802.39,298,5112
+6372,1194,Change Product,Laptop,526.7,457,7950
+6373,1973,Apply Product,Office Equipment,67.7,260,13707
+6374,1244,History Product,Server,4738.6,71,4406
+6375,1798,Check Product,Industrial Parts,1770.14,397,1366
+6376,1650,Suddenly Product,Electronics,3646.75,306,13531
+6377,1491,Big Product,Raw Material,478.51,249,4787
+6378,1578,Born Product,Office Equipment,2848.42,154,5553
+6379,1354,Ground Product,Networking,803.06,305,7418
+6380,1190,National Product,Electronics,1924.51,197,11349
+6381,1158,Mrs Product,Office Equipment,1392.84,388,169
+6382,1115,Sit Product,Industrial Parts,3124.58,33,7130
+6383,1076,Involve Product,Furniture,819.95,223,1661
+6384,1460,Organization Product,Server,2128.57,217,3746
+6385,1699,Third Product,Industrial Parts,3847.03,29,11661
+6386,1027,Throughout Product,Server,3163.79,451,14008
+6387,1537,Student Product,Laptop,433.77,37,12305
+6388,1828,Trip Product,Software License,4744.14,289,10663
+6389,1446,Near Product,Industrial Parts,884.09,169,14829
+6390,1171,System Product,Software License,868.11,307,8173
+6391,1482,With Product,Server,3960.36,183,7853
+6392,1030,View Product,Furniture,4976.29,275,11629
+6393,1769,Floor Product,Office Equipment,2248.06,345,2308
+6394,1728,Great Product,Software License,4140.92,438,13811
+6395,1122,Somebody Product,Office Equipment,4797.5,122,1825
+6396,1952,Office Product,Server,3083.53,346,14801
+6397,1905,During Product,Office Equipment,1602.14,373,12065
+6398,1483,Leave Product,Laptop,1435.79,135,1342
+6399,1491,Camera Product,Networking,4092.48,24,1503
+6400,1176,International Product,Packaging,2005.15,402,7058
+6401,1922,Law Product,Industrial Parts,2209.24,343,14989
+6402,1563,Hope Product,Laptop,3225.42,464,7900
+6403,1046,Individual Product,Office Equipment,3221.53,175,12593
+6404,1218,Quickly Product,Packaging,785.65,26,14007
+6405,1635,Somebody Product,Laptop,1464.38,113,13886
+6406,1389,Mouth Product,Software License,1912.28,10,13079
+6407,1461,Trial Product,Electronics,2149.18,131,13827
+6408,1090,Beat Product,Furniture,4464.99,473,5713
+6409,1916,Public Product,Laptop,3992.88,101,2183
+6410,1336,Everything Product,Packaging,218.32,493,2217
+6411,1434,We Product,Raw Material,2942.63,471,8848
+6412,1042,Executive Product,Networking,4708.05,325,4008
+6413,1405,Foot Product,Industrial Parts,4574.94,256,14899
+6414,1428,Single Product,Electronics,2315.44,273,1873
+6415,1303,Poor Product,Server,4451.11,100,8870
+6416,1964,Southern Product,Raw Material,593.29,474,10647
+6417,1759,Happen Product,Software License,3838.81,51,8088
+6418,1526,Player Product,Networking,3217.3,495,431
+6419,1754,Effort Product,Industrial Parts,2737.57,293,14736
+6420,1008,Store Product,Packaging,3425.67,111,14592
+6421,1845,Until Product,Packaging,2139.69,183,13023
+6422,1618,Possible Product,Networking,3375.2,153,2240
+6423,1703,Song Product,Furniture,2515.95,434,4714
+6424,1705,Have Product,Packaging,2279.4,392,779
+6425,1064,Under Product,Networking,530.82,21,5951
+6426,1032,See Product,Electronics,4002.21,192,4569
+6427,1797,Remember Product,Industrial Parts,3972.01,191,7114
+6428,1795,Painting Product,Furniture,44.16,158,11059
+6429,1296,Choice Product,Packaging,3814.9,343,12027
+6430,1325,Return Product,Packaging,2873.62,30,5167
+6431,1598,Stock Product,Electronics,4006.58,261,209
+6432,1561,Paper Product,Networking,1416.6,208,2792
+6433,1011,Need Product,Packaging,864.67,323,4081
+6434,1492,Standard Product,Office Equipment,2071.45,374,12181
+6435,1461,Air Product,Electronics,2038.18,337,10200
+6436,1084,Name Product,Industrial Parts,4057.38,102,12623
+6437,1727,Customer Product,Raw Material,2849.89,25,9784
+6438,1035,Guess Product,Packaging,374.95,66,2941
+6439,1356,Whole Product,Software License,2799.79,354,7830
+6440,1033,People Product,Furniture,1255.6,166,1644
+6441,1127,Heart Product,Industrial Parts,2133.32,210,6715
+6442,1277,Gas Product,Industrial Parts,3265.06,475,8570
+6443,1678,Front Product,Networking,2349.3,470,648
+6444,1722,Increase Product,Furniture,328.09,146,5880
+6445,1416,Tax Product,Furniture,4979.8,336,1575
+6446,1546,Myself Product,Server,4081.83,173,6386
+6447,1778,Line Product,Networking,870.84,276,6157
+6448,1834,Sing Product,Electronics,3539.56,242,4153
+6449,1862,We Product,Office Equipment,2349.09,357,11993
+6450,1324,Fact Product,Server,2314.6,52,1892
+6451,1004,Anything Product,Server,811.58,142,12561
+6452,1185,Performance Product,Furniture,789.95,45,4043
+6453,1537,Already Product,Office Equipment,3595.34,447,1204
+6454,1271,Wonder Product,Laptop,4357.01,95,11092
+6455,1509,White Product,Laptop,4336.95,398,12973
+6456,1018,Join Product,Laptop,1077.04,252,2368
+6457,1479,Center Product,Packaging,3860.91,134,7632
+6458,1779,Project Product,Packaging,1314.36,24,3932
+6459,1138,Nearly Product,Industrial Parts,1696.06,451,5055
+6460,1810,About Product,Furniture,4659.32,491,2522
+6461,1125,Surface Product,Furniture,3459.6,375,4344
+6462,1044,Ask Product,Industrial Parts,3636.48,447,9324
+6463,1333,Goal Product,Raw Material,1520.34,290,3090
+6464,1291,Theory Product,Furniture,2120.82,297,3033
+6465,1149,Remember Product,Electronics,3615.02,248,6118
+6466,1862,Best Product,Electronics,648.5,56,9507
+6467,1819,They Product,Server,1347.67,121,10272
+6468,1707,Federal Product,Server,728.39,286,6852
+6469,1715,Current Product,Packaging,434.4,265,7173
+6470,1418,Them Product,Industrial Parts,4659.16,182,5856
+6471,1805,Remain Product,Industrial Parts,3627.84,412,6606
+6472,1605,Rather Product,Networking,2322.32,69,4825
+6473,1267,Attention Product,Laptop,115.42,61,14258
+6474,1734,Total Product,Electronics,2315.28,303,10602
+6475,1200,Career Product,Raw Material,2240.42,381,12804
+6476,1114,Less Product,Packaging,4964.44,289,13670
+6477,1431,Subject Product,Software License,4561.49,258,7961
+6478,1987,At Product,Laptop,2751.87,387,6250
+6479,1517,Low Product,Server,1094.45,137,8948
+6480,1945,Return Product,Furniture,2807.07,444,10388
+6481,1249,Herself Product,Raw Material,1524.02,419,12831
+6482,1310,Manage Product,Packaging,3569.91,205,2183
+6483,1377,Then Product,Office Equipment,3754.18,298,9993
+6484,1493,Issue Product,Electronics,3510.69,284,11506
+6485,1512,Star Product,Laptop,3464.51,432,7565
+6486,1436,Sport Product,Office Equipment,3079.12,319,8982
+6487,1074,Quickly Product,Furniture,83.73,487,9895
+6488,1005,Or Product,Industrial Parts,1012.55,32,11581
+6489,1232,Follow Product,Raw Material,635.34,485,10059
+6490,1412,Up Product,Furniture,4066.47,358,6404
+6491,1386,Term Product,Laptop,544.29,281,11249
+6492,1166,Focus Product,Server,1898.38,61,14184
+6493,1316,Better Product,Raw Material,3993.44,146,8733
+6494,1626,Play Product,Networking,2160.21,271,14164
+6495,1461,Which Product,Networking,2249.08,334,1365
+6496,1104,Kid Product,Software License,2991.32,312,10831
+6497,1386,Evidence Product,Raw Material,4908.89,451,7318
+6498,1222,Agree Product,Packaging,4514.63,73,11117
+6499,1022,Cover Product,Packaging,710.97,222,10070
+6500,1252,Probably Product,Software License,2667.6,152,6424
+6501,1581,Son Product,Server,4121.03,362,2883
+6502,1633,Whom Product,Furniture,259.43,33,12124
+6503,1363,Common Product,Networking,830.5,238,2265
+6504,1388,Ask Product,Raw Material,2365.99,201,4633
+6505,1135,No Product,Server,277.9,243,9650
+6506,1583,Safe Product,Networking,3291.21,102,10291
+6507,1984,Practice Product,Industrial Parts,3523.01,353,12285
+6508,1111,Begin Product,Networking,4419.66,196,925
+6509,1798,Particular Product,Industrial Parts,2302.83,348,2580
+6510,1352,Debate Product,Furniture,363.67,259,14349
+6511,1422,Admit Product,Software License,3648.54,127,14792
+6512,1943,Body Product,Electronics,1040.89,36,6965
+6513,1725,Chance Product,Packaging,4113.87,148,4302
+6514,1609,Your Product,Furniture,3839.11,84,2291
+6515,1628,Carry Product,Software License,2143.85,85,6668
+6516,1377,Test Product,Electronics,2047.22,69,488
+6517,1888,Worker Product,Laptop,1124.04,46,2425
+6518,1004,Future Product,Raw Material,1254.36,12,5672
+6519,1955,Top Product,Electronics,3179.21,352,6401
+6520,1919,Quickly Product,Server,3231.92,373,1809
+6521,1939,I Product,Electronics,2455.75,18,2833
+6522,1889,Meet Product,Raw Material,4776.25,401,7630
+6523,1831,Congress Product,Server,520.05,126,8126
+6524,1736,Adult Product,Electronics,1836.96,123,2006
+6525,1092,Son Product,Software License,3058.69,499,6486
+6526,1888,Conference Product,Electronics,221.28,469,13483
+6527,1624,Military Product,Packaging,3002.96,34,12615
+6528,1028,Moment Product,Electronics,1124.21,345,12157
+6529,1795,Brother Product,Electronics,102.59,336,3727
+6530,1340,They Product,Raw Material,660.94,120,13194
+6531,1581,Officer Product,Software License,1453.76,380,1133
+6532,1851,Cup Product,Electronics,1000.79,298,11115
+6533,1653,I Product,Laptop,1701.92,391,9436
+6534,1202,East Product,Networking,4490.84,168,11508
+6535,1781,Smile Product,Software License,490.18,371,3168
+6536,1538,Those Product,Networking,2599.12,387,14775
+6537,1332,Message Product,Software License,2019.82,461,9221
+6538,1837,Administration Product,Laptop,1876.01,308,2622
+6539,1721,Important Product,Raw Material,3478.65,468,6332
+6540,1988,Important Product,Electronics,3677.35,184,1783
+6541,1808,Already Product,Furniture,3777.71,132,808
+6542,1841,Can Product,Networking,2587.51,274,6604
+6543,1479,But Product,Industrial Parts,1082.47,410,14213
+6544,1057,Example Product,Furniture,2412.46,374,3571
+6545,1232,Newspaper Product,Office Equipment,2367.21,151,13677
+6546,1731,Federal Product,Packaging,2869.02,369,6911
+6547,1633,Yard Product,Packaging,4111.59,200,14176
+6548,1935,Shake Product,Industrial Parts,4689.17,18,8934
+6549,1625,Evening Product,Laptop,458.68,165,12513
+6550,1165,Provide Product,Electronics,616.21,399,4954
+6551,1356,Fill Product,Raw Material,3473.49,453,11471
+6552,1095,Certainly Product,Laptop,4179.94,357,14477
+6553,1654,Painting Product,Networking,610.07,228,1137
+6554,1113,Little Product,Raw Material,914.37,238,3451
+6555,1374,Performance Product,Industrial Parts,2462.59,482,1096
+6556,1861,Until Product,Furniture,3260.49,479,9578
+6557,1281,Force Product,Industrial Parts,2926.36,141,2921
+6558,1445,Kitchen Product,Packaging,2703.48,60,401
+6559,1065,South Product,Electronics,2205.87,384,8898
+6560,1059,Born Product,Laptop,2105.53,226,7904
+6561,1282,Mission Product,Software License,2582.76,50,13682
+6562,1384,Page Product,Software License,3666.86,130,1496
+6563,1245,Class Product,Raw Material,1815.92,200,14046
+6564,1611,Special Product,Networking,654.13,425,590
+6565,1050,Education Product,Packaging,1698.14,452,10270
+6566,1084,Green Product,Networking,1860.37,306,711
+6567,1941,Improve Product,Software License,3373.78,285,14272
+6568,1533,Body Product,Laptop,4666.71,311,3873
+6569,1007,Magazine Product,Networking,1416.11,493,6366
+6570,1230,Apply Product,Office Equipment,1441.49,229,7341
+6571,1624,Thousand Product,Raw Material,4344.87,466,3511
+6572,1334,Per Product,Packaging,4017.43,290,3842
+6573,1713,Foot Product,Networking,868.15,184,4177
+6574,1097,Clearly Product,Server,3021.98,400,6531
+6575,1685,On Product,Laptop,4864.77,212,3756
+6576,1683,Institution Product,Server,3583.64,183,9558
+6577,1384,The Product,Laptop,4216.07,149,8170
+6578,1308,Training Product,Industrial Parts,1018.86,173,9717
+6579,1021,Officer Product,Packaging,4519.6,178,3658
+6580,1946,Floor Product,Software License,632.62,145,14896
+6581,1026,Fact Product,Raw Material,2739.58,396,4513
+6582,1794,Particularly Product,Electronics,2563.65,352,8864
+6583,1595,Deal Product,Server,1565.79,273,14981
+6584,1695,Performance Product,Packaging,3569.27,75,14931
+6585,1491,Dinner Product,Server,3497.25,435,12029
+6586,1741,Help Product,Server,3440.51,74,1930
+6587,1079,I Product,Server,1026.63,279,1240
+6588,1960,View Product,Office Equipment,2308.7,477,9960
+6589,1463,Necessary Product,Industrial Parts,1343.61,216,5810
+6590,1742,Less Product,Server,550.97,466,10290
+6591,1235,Middle Product,Software License,2582.87,286,14646
+6592,1540,Religious Product,Raw Material,1142.17,86,10621
+6593,1282,Two Product,Raw Material,813.55,139,5988
+6594,1224,Security Product,Networking,1944.74,250,10562
+6595,1645,Treatment Product,Electronics,3351.42,404,14480
+6596,1660,Car Product,Server,587.22,416,373
+6597,1870,Technology Product,Furniture,813.43,361,12492
+6598,1725,Movie Product,Furniture,4771.35,203,11603
+6599,1326,Head Product,Packaging,650.14,325,12105
+6600,1536,Conference Product,Raw Material,3830.16,291,12792
+6601,1447,Feeling Product,Networking,4761.41,420,1008
+6602,1943,Future Product,Laptop,4723.07,464,1091
+6603,1548,Leg Product,Laptop,707.05,196,1930
+6604,1003,His Product,Raw Material,250.95,219,9126
+6605,1203,State Product,Server,4901.14,225,14080
+6606,1586,Have Product,Raw Material,927.51,114,12724
+6607,1103,Hour Product,Software License,1859.62,405,5694
+6608,1475,Record Product,Raw Material,1425.51,333,2818
+6609,1992,Chair Product,Office Equipment,3517.9,317,6119
+6610,1397,Pattern Product,Furniture,4189.92,394,13327
+6611,1332,Read Product,Networking,4457.62,360,12619
+6612,1722,Ever Product,Office Equipment,2083.28,31,4532
+6613,1480,Tonight Product,Software License,4988.97,418,12826
+6614,1439,Single Product,Software License,1065.09,435,12081
+6615,1263,Without Product,Industrial Parts,2913.99,425,14271
+6616,1097,Stock Product,Furniture,4421.98,89,7004
+6617,1747,Special Product,Furniture,1268.27,175,12097
+6618,1206,Identify Product,Laptop,2583.19,190,10417
+6619,1591,Example Product,Raw Material,4586.82,86,5256
+6620,1185,Argue Product,Packaging,659.67,231,10726
+6621,1969,Amount Product,Server,4630.67,353,649
+6622,1936,Set Product,Laptop,2336.63,379,10583
+6623,1568,Hand Product,Furniture,1836.18,110,12287
+6624,1468,Rate Product,Industrial Parts,942.56,61,9306
+6625,1508,Similar Product,Furniture,3317.49,313,14288
+6626,1709,Exactly Product,Software License,918.14,11,6809
+6627,1321,The Product,Networking,829.21,189,14411
+6628,1028,Foreign Product,Raw Material,1440.73,171,3211
+6629,1219,Stand Product,Electronics,4690.22,92,1209
+6630,1427,Star Product,Furniture,3449.67,360,6195
+6631,1590,Two Product,Electronics,3541.83,103,11614
+6632,1192,Dark Product,Furniture,3311.22,387,273
+6633,1627,Wrong Product,Software License,1684.59,378,11405
+6634,1283,National Product,Industrial Parts,2636.47,28,14951
+6635,1923,Staff Product,Office Equipment,923.74,152,14210
+6636,1594,Toward Product,Server,2647.02,477,6977
+6637,1535,Under Product,Laptop,2858.51,192,9188
+6638,1811,First Product,Server,968.96,305,3744
+6639,1537,Alone Product,Server,2699.68,247,14222
+6640,1438,Personal Product,Raw Material,1114.34,230,14234
+6641,1448,Hundred Product,Raw Material,2166.56,96,11799
+6642,1517,Law Product,Electronics,1364.49,266,9910
+6643,1847,Behind Product,Software License,229.38,347,13923
+6644,1205,Gas Product,Raw Material,3457.77,244,8477
+6645,1304,Ago Product,Networking,4484.13,250,10365
+6646,1035,Challenge Product,Furniture,433.58,39,2670
+6647,1498,American Product,Laptop,3130.19,85,5672
+6648,1424,Daughter Product,Software License,4149.81,257,3673
+6649,1038,Democrat Product,Software License,3966.66,187,1087
+6650,1621,Main Product,Laptop,4626.83,133,3242
+6651,1425,Political Product,Electronics,3027.75,406,14245
+6652,1921,Rest Product,Industrial Parts,2704.24,184,9460
+6653,1859,Must Product,Industrial Parts,1031.73,408,4807
+6654,1101,Floor Product,Networking,4262.28,359,168
+6655,1517,Population Product,Software License,2234.36,150,5401
+6656,1076,Black Product,Laptop,4954.81,404,4226
+6657,1540,Fast Product,Software License,889.25,140,3327
+6658,1201,Rule Product,Electronics,2021.4,174,11141
+6659,1579,Some Product,Furniture,4341.51,193,9506
+6660,1965,Too Product,Software License,401.53,319,1192
+6661,1119,Own Product,Software License,981.39,34,12552
+6662,1886,Think Product,Electronics,216.46,246,11122
+6663,1992,Sport Product,Packaging,3412.69,84,4011
+6664,1111,Dark Product,Software License,764.69,454,11676
+6665,1516,Quite Product,Industrial Parts,2098.51,359,1358
+6666,1031,Establish Product,Networking,4387.34,246,1126
+6667,1173,Answer Product,Industrial Parts,147.93,200,7469
+6668,1284,Animal Product,Packaging,108.41,81,7904
+6669,1847,Much Product,Electronics,401.22,82,13026
+6670,1983,Outside Product,Raw Material,1550.96,234,12637
+6671,1628,Each Product,Electronics,1231.45,76,4529
+6672,1202,Computer Product,Laptop,1361.33,314,6869
+6673,1019,Fish Product,Office Equipment,2391.01,483,6479
+6674,1987,Truth Product,Electronics,36.54,406,525
+6675,1659,Mean Product,Electronics,848.27,75,11013
+6676,1874,Matter Product,Furniture,2823.46,32,13966
+6677,1191,Anything Product,Laptop,2438.6,213,7359
+6678,1850,Hair Product,Furniture,3833.38,362,6297
+6679,1112,Suggest Product,Office Equipment,3435.81,438,10808
+6680,1644,Apply Product,Laptop,260.99,398,7840
+6681,1643,Peace Product,Electronics,4277.64,93,1258
+6682,1225,Kitchen Product,Industrial Parts,4014.28,472,6388
+6683,1506,Travel Product,Raw Material,4511.71,67,3731
+6684,1699,Throughout Product,Office Equipment,4737.2,38,11930
+6685,1471,One Product,Industrial Parts,681.16,385,10467
+6686,1024,Step Product,Electronics,666.54,143,13421
+6687,1865,The Product,Electronics,2390.06,187,2212
+6688,1177,Commercial Product,Server,1780.48,273,8945
+6689,1853,Describe Product,Raw Material,4941.64,378,7903
+6690,1068,Activity Product,Laptop,2134.57,42,3390
+6691,1728,Including Product,Furniture,2288.97,178,7485
+6692,1677,Arm Product,Office Equipment,2261.59,123,4853
+6693,1421,Campaign Product,Office Equipment,625.73,119,11690
+6694,1366,Memory Product,Packaging,1191.43,388,5899
+6695,1170,Image Product,Networking,4442.17,364,309
+6696,1215,Defense Product,Raw Material,4584.04,395,1867
+6697,1929,Condition Product,Electronics,1276.61,431,2974
+6698,1790,Wait Product,Office Equipment,2359.9,40,3324
+6699,1266,Prepare Product,Networking,4142.66,388,8149
+6700,1232,Early Product,Networking,1278.84,143,9321
+6701,1755,Father Product,Office Equipment,503.33,268,9318
+6702,1457,Drug Product,Networking,4244.92,293,2856
+6703,1938,Where Product,Networking,3330.27,263,7083
+6704,1828,Head Product,Networking,266.36,388,6189
+6705,1753,Town Product,Office Equipment,3877.67,155,14168
+6706,1325,Major Product,Packaging,1794.84,316,4345
+6707,1083,Cell Product,Industrial Parts,3695.61,258,4176
+6708,1700,Pass Product,Electronics,2474.51,191,14417
+6709,1674,Receive Product,Software License,4368.19,394,9432
+6710,1634,Whom Product,Networking,34.92,94,2370
+6711,1905,Stage Product,Packaging,367.75,449,7635
+6712,1850,Money Product,Server,3805.25,359,14982
+6713,1580,Kitchen Product,Industrial Parts,2552.32,26,774
+6714,1007,During Product,Office Equipment,1942.6,292,4983
+6715,1017,Candidate Product,Laptop,3710.92,286,6918
+6716,1531,Choice Product,Office Equipment,4253.22,300,10082
+6717,1760,Able Product,Industrial Parts,2523.63,473,8494
+6718,1603,East Product,Office Equipment,383.89,330,10043
+6719,1594,Seven Product,Packaging,3717.82,422,8551
+6720,1759,Understand Product,Packaging,3347.77,37,14187
+6721,1520,Weight Product,Networking,2531.56,222,14993
+6722,1092,Board Product,Server,654.97,455,9730
+6723,1371,Example Product,Packaging,4689.16,92,3931
+6724,1367,Marriage Product,Raw Material,3423.66,127,7016
+6725,1879,Order Product,Electronics,99.48,414,8244
+6726,1225,Throughout Product,Office Equipment,891.65,295,2932
+6727,1641,Nearly Product,Industrial Parts,1195.09,495,764
+6728,1609,Director Product,Laptop,721.63,315,7430
+6729,1712,Source Product,Electronics,2391.77,404,13495
+6730,1664,Left Product,Networking,250.46,355,10210
+6731,1314,The Product,Industrial Parts,4783.23,356,4835
+6732,1877,Teach Product,Laptop,3736.83,212,9945
+6733,1501,Why Product,Laptop,2071.2,123,3995
+6734,1014,Yourself Product,Networking,3256.64,42,5302
+6735,1768,Miss Product,Software License,4605.6,352,12851
+6736,1857,More Product,Industrial Parts,1209.81,257,5427
+6737,1648,Ten Product,Packaging,3966.62,430,7290
+6738,1888,Exactly Product,Furniture,1480.62,255,5024
+6739,1960,Such Product,Raw Material,3061.44,178,6694
+6740,1438,Rest Product,Server,4980.18,140,10861
+6741,1842,Apply Product,Electronics,746.94,383,1405
+6742,1013,Public Product,Electronics,2761.82,404,5053
+6743,1336,Leave Product,Raw Material,1836.64,84,2428
+6744,1744,Mind Product,Furniture,1852.3,444,2140
+6745,1435,Mouth Product,Raw Material,2890.48,251,12887
+6746,1411,Cell Product,Packaging,856.46,222,8174
+6747,1244,Senior Product,Furniture,306.6,253,879
+6748,1182,Audience Product,Raw Material,1724.77,487,10540
+6749,1210,Sister Product,Packaging,2806.89,314,14910
+6750,1924,Recent Product,Networking,4966.03,25,8767
+6751,1409,Standard Product,Industrial Parts,4759.31,416,9221
+6752,1989,Spend Product,Software License,4864.98,198,13235
+6753,1817,Clear Product,Electronics,1766.92,487,852
+6754,1753,Dog Product,Software License,3872.88,348,2665
+6755,1795,Meeting Product,Furniture,4650.0,235,5283
+6756,1146,Major Product,Packaging,2497.08,222,13379
+6757,1788,Ahead Product,Laptop,1054.4,346,8856
+6758,1659,Appear Product,Packaging,3525.88,279,9439
+6759,1884,However Product,Electronics,1393.0,436,9435
+6760,1025,Always Product,Electronics,1383.55,253,5771
+6761,1556,Possible Product,Office Equipment,221.51,114,11963
+6762,1449,Field Product,Software License,4862.36,310,6149
+6763,1358,Best Product,Electronics,2985.95,437,8686
+6764,1239,Us Product,Server,1090.87,490,12238
+6765,1345,Together Product,Laptop,3442.64,309,13127
+6766,1107,Thought Product,Packaging,3996.79,441,824
+6767,1068,Dinner Product,Server,4610.5,391,6511
+6768,1231,Likely Product,Electronics,196.25,398,13808
+6769,1233,Ever Product,Furniture,1481.5,487,4446
+6770,1462,Term Product,Server,581.59,461,13196
+6771,1866,Deal Product,Electronics,1095.78,309,1048
+6772,1833,Pressure Product,Raw Material,4830.08,361,5017
+6773,1295,Treatment Product,Raw Material,308.23,450,8203
+6774,1596,Morning Product,Office Equipment,555.96,216,13634
+6775,1268,Turn Product,Raw Material,3870.11,348,7081
+6776,1160,Inside Product,Industrial Parts,4318.82,77,5931
+6777,1922,Record Product,Networking,785.76,200,14745
+6778,1895,Product Product,Software License,1421.93,342,10733
+6779,1241,Material Product,Electronics,1891.3,166,7983
+6780,1711,Song Product,Packaging,3280.69,251,4040
+6781,1856,Arm Product,Server,2988.87,348,8468
+6782,1705,Physical Product,Electronics,2857.0,494,10579
+6783,1620,Subject Product,Furniture,3408.05,35,5484
+6784,1254,Spring Product,Software License,3652.41,321,2725
+6785,1475,Approach Product,Office Equipment,1689.44,446,9421
+6786,1133,Someone Product,Industrial Parts,4729.83,37,8440
+6787,1287,Box Product,Raw Material,3204.45,431,2431
+6788,1930,Follow Product,Electronics,1018.94,310,8023
+6789,1745,Able Product,Electronics,1934.96,264,1791
+6790,1314,Term Product,Raw Material,2196.28,419,6410
+6791,1988,Coach Product,Software License,995.69,37,8284
+6792,1180,Beat Product,Electronics,1995.85,400,6936
+6793,1651,Past Product,Office Equipment,1189.24,128,12960
+6794,1842,Once Product,Furniture,3438.85,215,7004
+6795,1490,Go Product,Office Equipment,4986.58,80,8003
+6796,1417,Act Product,Electronics,4004.63,99,9155
+6797,1439,Development Product,Packaging,2736.15,478,14118
+6798,1992,That Product,Networking,455.96,393,12212
+6799,1997,Experience Product,Office Equipment,2831.57,156,2079
+6800,1397,Collection Product,Raw Material,2390.03,375,7894
+6801,1572,Process Product,Industrial Parts,2223.36,473,10723
+6802,1395,Word Product,Electronics,775.2,338,3787
+6803,1622,Certain Product,Electronics,2194.87,387,14323
+6804,1151,Consider Product,Server,1134.17,143,1100
+6805,1844,Own Product,Industrial Parts,2323.93,79,13897
+6806,1452,Short Product,Office Equipment,1769.81,219,13370
+6807,1930,Capital Product,Electronics,2166.96,306,11579
+6808,1234,Meeting Product,Server,3275.3,344,2579
+6809,1165,Season Product,Furniture,4475.87,306,13975
+6810,1219,Use Product,Packaging,3104.32,250,11796
+6811,1902,See Product,Electronics,2279.11,462,13148
+6812,1519,And Product,Server,2370.93,299,5494
+6813,1114,Choose Product,Networking,2984.18,219,6602
+6814,1706,Card Product,Server,1030.3,331,5943
+6815,1770,Evening Product,Electronics,3552.85,472,14787
+6816,1076,Analysis Product,Raw Material,350.49,60,6598
+6817,1069,Outside Product,Office Equipment,4514.47,287,12003
+6818,1707,Too Product,Networking,3589.48,359,7386
+6819,1163,Fill Product,Packaging,4856.64,266,13401
+6820,1758,Assume Product,Packaging,4077.95,305,7333
+6821,1058,Not Product,Software License,2088.99,419,6436
+6822,1669,Travel Product,Software License,1914.74,357,2771
+6823,1556,Administration Product,Laptop,1359.49,148,3897
+6824,1266,Key Product,Software License,1462.61,447,2476
+6825,1151,Own Product,Electronics,3826.42,103,1840
+6826,1730,Usually Product,Electronics,1109.76,92,7690
+6827,1903,Growth Product,Laptop,4545.08,319,11675
+6828,1245,System Product,Office Equipment,3594.1,336,2161
+6829,1608,Deep Product,Furniture,1350.16,160,5633
+6830,1031,Father Product,Office Equipment,1679.45,360,12761
+6831,1631,Soldier Product,Server,882.32,464,6766
+6832,1497,Successful Product,Software License,600.65,469,893
+6833,1711,Surface Product,Electronics,564.6,302,3265
+6834,1267,Market Product,Electronics,871.07,333,4999
+6835,1551,Close Product,Networking,3485.45,73,4854
+6836,1328,Black Product,Industrial Parts,3587.56,493,6359
+6837,1391,Hot Product,Industrial Parts,949.63,403,100
+6838,1840,Set Product,Server,3906.96,482,9883
+6839,1454,Manage Product,Office Equipment,1018.81,17,6477
+6840,1932,Standard Product,Raw Material,3849.17,477,12291
+6841,1292,Conference Product,Networking,2711.87,335,11635
+6842,1280,Item Product,Electronics,3808.17,283,11888
+6843,1290,Important Product,Software License,1256.82,198,11350
+6844,1675,Morning Product,Electronics,3236.86,87,13386
+6845,1028,West Product,Raw Material,1331.38,108,7874
+6846,1641,Least Product,Networking,3180.36,408,5157
+6847,1278,Myself Product,Raw Material,864.22,329,12614
+6848,1746,Yard Product,Packaging,4733.96,329,2178
+6849,1201,Region Product,Networking,954.7,358,1197
+6850,1347,Personal Product,Software License,1229.04,60,12444
+6851,1561,Consider Product,Raw Material,4621.02,27,14282
+6852,1699,Development Product,Furniture,3099.03,422,13834
+6853,1713,Card Product,Packaging,2919.44,151,3345
+6854,1545,And Product,Industrial Parts,4287.5,79,2219
+6855,1139,Prevent Product,Raw Material,2963.13,57,14162
+6856,1780,Cover Product,Electronics,3853.09,279,1524
+6857,1507,Continue Product,Furniture,4115.87,294,4812
+6858,1906,Cell Product,Furniture,4897.02,20,13580
+6859,1919,Although Product,Server,3021.06,318,14849
+6860,1058,Case Product,Raw Material,808.58,150,6295
+6861,1732,Store Product,Server,578.27,194,9011
+6862,1617,Daughter Product,Networking,4790.9,221,13925
+6863,1828,Enough Product,Software License,2565.25,30,8435
+6864,1197,Wall Product,Industrial Parts,867.76,307,4589
+6865,1380,Something Product,Networking,2483.91,480,7685
+6866,1961,List Product,Industrial Parts,3155.13,495,2901
+6867,1372,Case Product,Laptop,4800.27,104,11487
+6868,1823,Win Product,Packaging,2068.85,143,9037
+6869,1162,Institution Product,Laptop,53.01,320,3707
+6870,1913,May Product,Raw Material,1462.81,380,9156
+6871,1988,Magazine Product,Furniture,2544.63,216,7291
+6872,1675,Record Product,Office Equipment,4706.44,55,8922
+6873,1173,Call Product,Electronics,3503.19,477,5930
+6874,1508,Little Product,Electronics,2720.75,122,7474
+6875,1752,Believe Product,Software License,215.24,467,11955
+6876,1119,Scientist Product,Furniture,1234.55,465,5798
+6877,1740,Dinner Product,Networking,2509.99,107,1192
+6878,1835,Some Product,Industrial Parts,4924.0,335,11045
+6879,1227,Seven Product,Packaging,342.16,460,14702
+6880,1468,Main Product,Server,1269.42,135,1945
+6881,1721,Impact Product,Electronics,3267.23,61,10566
+6882,1599,Between Product,Electronics,3251.11,432,7674
+6883,1048,Seat Product,Furniture,2753.24,411,3754
+6884,1896,Training Product,Software License,4893.59,262,8371
+6885,1692,Wish Product,Electronics,1244.85,95,5972
+6886,1909,Detail Product,Raw Material,2608.16,316,1000
+6887,1602,Defense Product,Laptop,3890.27,195,6011
+6888,1104,Rock Product,Software License,3051.81,282,634
+6889,1091,In Product,Server,2569.15,72,10371
+6890,1613,Share Product,Server,3166.78,171,1979
+6891,1739,Kitchen Product,Laptop,2367.11,442,9715
+6892,1903,Hit Product,Electronics,486.04,265,10772
+6893,1333,Word Product,Software License,4016.42,255,3686
+6894,1532,Investment Product,Software License,4961.57,490,11764
+6895,1952,Leg Product,Furniture,3319.3,457,8169
+6896,1789,Board Product,Furniture,1968.78,212,6452
+6897,1282,Late Product,Packaging,829.98,143,14633
+6898,1800,Letter Product,Software License,563.18,477,10567
+6899,1764,Describe Product,Networking,664.29,319,3513
+6900,1492,Well Product,Electronics,763.69,439,3827
+6901,1518,Ask Product,Raw Material,3001.87,196,12051
+6902,1561,Push Product,Server,2926.24,258,3575
+6903,1189,Imagine Product,Networking,894.47,283,2236
+6904,1508,Like Product,Software License,4261.13,130,3473
+6905,1902,Green Product,Laptop,843.86,325,774
+6906,1834,Find Product,Office Equipment,4264.27,364,5239
+6907,1523,Film Product,Electronics,667.05,197,3108
+6908,1889,Letter Product,Raw Material,1159.61,238,8003
+6909,1307,Carry Product,Electronics,4697.59,308,12109
+6910,1827,Suffer Product,Electronics,1781.74,304,14703
+6911,1100,Table Product,Software License,286.51,161,268
+6912,1465,Suggest Product,Industrial Parts,867.02,85,842
+6913,1269,Look Product,Server,4779.32,458,12164
+6914,1394,Evening Product,Raw Material,1771.42,10,2085
+6915,1715,Old Product,Packaging,4071.04,259,6512
+6916,1446,Sister Product,Server,1803.54,299,9431
+6917,1577,Country Product,Server,1792.85,62,10298
+6918,1513,Statement Product,Laptop,4091.12,283,8572
+6919,1392,Anything Product,Packaging,2667.32,392,6267
+6920,1883,Arrive Product,Server,3720.41,70,3107
+6921,1116,Manage Product,Packaging,4339.12,487,6074
+6922,1046,Drug Product,Industrial Parts,460.79,318,1543
+6923,1932,Knowledge Product,Networking,1897.86,152,5739
+6924,1487,Prepare Product,Networking,2975.94,357,7944
+6925,1827,Herself Product,Laptop,3158.79,330,13371
+6926,1673,Series Product,Server,1812.12,478,10322
+6927,1549,Husband Product,Furniture,1891.97,214,11402
+6928,1068,West Product,Office Equipment,714.76,476,8752
+6929,1596,Hope Product,Server,1119.5,71,10582
+6930,1853,Live Product,Office Equipment,4565.44,355,679
+6931,1418,Visit Product,Industrial Parts,1049.53,57,6639
+6932,1031,Forget Product,Software License,1719.22,195,653
+6933,1168,Contain Product,Packaging,3209.17,294,184
+6934,1298,Across Product,Networking,3912.95,81,7386
+6935,1451,Likely Product,Laptop,356.38,183,13626
+6936,1056,Into Product,Laptop,3607.64,245,5112
+6937,1219,Will Product,Furniture,2335.32,254,6437
+6938,1583,Computer Product,Electronics,3290.91,403,2896
+6939,1596,Analysis Product,Software License,2499.9,34,1109
+6940,1658,Environment Product,Raw Material,3590.29,297,12046
+6941,1256,Benefit Product,Packaging,2401.97,437,14791
+6942,1651,Huge Product,Laptop,1811.73,149,11722
+6943,1513,General Product,Networking,4139.12,314,8228
+6944,1352,Little Product,Electronics,4324.72,13,1372
+6945,1800,Play Product,Networking,3521.86,254,2303
+6946,1392,Want Product,Server,2949.31,468,4016
+6947,1418,Base Product,Software License,4095.93,448,477
+6948,1607,Decision Product,Raw Material,4897.32,61,1598
+6949,1616,Store Product,Electronics,3985.32,241,8171
+6950,1282,Trade Product,Raw Material,4584.54,432,2414
+6951,1899,Six Product,Raw Material,981.0,248,8427
+6952,1305,Power Product,Raw Material,672.44,201,4667
+6953,1872,Public Product,Networking,4068.02,469,9902
+6954,1576,Skin Product,Electronics,2637.82,467,9655
+6955,1366,By Product,Laptop,4550.59,352,11385
+6956,1845,Buy Product,Electronics,3730.65,367,13643
+6957,1230,Perform Product,Laptop,2201.57,53,8298
+6958,1486,Require Product,Raw Material,4933.43,409,13038
+6959,1596,Bill Product,Packaging,533.3,241,12380
+6960,1739,Eye Product,Networking,406.57,332,5977
+6961,1866,Analysis Product,Server,411.52,306,14717
+6962,1984,Forward Product,Software License,4712.62,419,3121
+6963,1443,All Product,Furniture,2747.85,29,13471
+6964,1579,Least Product,Furniture,1194.11,492,1188
+6965,1211,Factor Product,Server,3345.39,366,13093
+6966,1264,True Product,Packaging,657.58,266,11678
+6967,1684,Scientist Product,Software License,1203.17,425,10759
+6968,1030,Training Product,Furniture,1256.55,47,208
+6969,1782,Process Product,Networking,4709.04,340,1284
+6970,1563,Security Product,Furniture,421.53,463,9058
+6971,1969,Financial Product,Server,2727.89,196,14496
+6972,1142,Bad Product,Software License,3575.23,293,5166
+6973,1106,Stay Product,Industrial Parts,4801.77,400,1383
+6974,1669,Worker Product,Networking,2247.48,406,7244
+6975,1276,Establish Product,Raw Material,2446.43,174,2935
+6976,1707,Bill Product,Networking,2776.94,197,5782
+6977,1248,Almost Product,Raw Material,2717.74,106,4338
+6978,1126,Price Product,Office Equipment,1660.57,300,3793
+6979,1127,Similar Product,Laptop,4223.41,300,5932
+6980,1425,Executive Product,Packaging,3397.5,459,2696
+6981,1077,Someone Product,Laptop,4459.17,70,2175
+6982,1606,Hour Product,Networking,3937.38,83,12883
+6983,1109,Ground Product,Server,1471.66,239,5048
+6984,1630,Apply Product,Software License,2927.5,137,9797
+6985,1820,Century Product,Electronics,3055.97,66,11039
+6986,1526,System Product,Furniture,3890.02,216,12284
+6987,1909,How Product,Software License,1607.81,73,13301
+6988,1962,Want Product,Software License,398.47,193,1714
+6989,1158,Hear Product,Industrial Parts,3075.29,68,9170
+6990,1951,End Product,Furniture,2648.55,19,3082
+6991,1634,State Product,Industrial Parts,4506.59,119,13790
+6992,1921,Likely Product,Furniture,738.42,296,6343
+6993,1735,Finally Product,Office Equipment,625.11,317,12641
+6994,1120,Politics Product,Networking,246.41,346,11532
+6995,1419,Lose Product,Packaging,4818.11,45,8625
+6996,1963,Man Product,Server,3301.84,442,13721
+6997,1060,Late Product,Networking,3898.23,66,13261
+6998,1771,Thing Product,Raw Material,313.72,165,4060
+6999,1635,Positive Product,Raw Material,1316.7,323,9907
+7000,1461,With Product,Electronics,4086.94,63,10307
